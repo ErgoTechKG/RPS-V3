@@ -1,0 +1,1 @@
+subagent doc-to-stories-splitter, based on DESIGN.md and ui files in @ui-ux/  compare to @stories/, find what feature is not covered, logially add stories in @stories in order.  
