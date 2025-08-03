@@ -4,6 +4,7 @@ import zhCN from 'antd/locale/zh_CN';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { AuthProvider, ThemeProvider, useThemeConfig, useTheme, useAuth } from '@/contexts';
 import Homepage from '@/pages/Homepage';
+import LoginPage from '@/pages/auth/LoginPage';
 import './App.css';
 
 // Main App component with theme configuration
@@ -35,7 +36,11 @@ const AppContent: React.FC = () => {
       <Router>
         <Routes>
           <Route path="/" element={<Homepage />} />
-          <Route path="/login" element={<div>Login Page (To be implemented)</div>} />
+          <Route path="/login" element={<LoginPage />} />
+          <Route path="/dashboard/professor" element={<div>Professor Dashboard (To be implemented)</div>} />
+          <Route path="/dashboard/student" element={<div>Student Dashboard (To be implemented)</div>} />
+          <Route path="/dashboard/secretary" element={<div>Secretary Dashboard (To be implemented)</div>} />
+          <Route path="/dashboard/leader" element={<div>Leader Dashboard (To be implemented)</div>} />
         </Routes>
       </Router>
     </ConfigProvider>

@@ -1,9 +1,9 @@
 # User Story 001: User Authentication
 
 ## Status
-**Status:** unfinished
+**Status:** finished
 **Implementation Date:** 2025-08-03  
-**Notes:** Core authentication system implemented with role-based dashboards. Test mode enabled for development. Advanced features like token expiration and account lockout can be added in future iterations.
+**Notes:** Complete authentication system implemented with login page, token expiration, forgot password functionality, and account lockout after failed attempts. Test mode enabled for development with predefined test accounts.
 
 ## Story
 **As a** user (Professor/Student/Secretary/Leader)  
@@ -16,10 +16,10 @@
 - [x] Upon successful login, user is redirected to their role-specific dashboard
 - [x] Invalid credentials show clear error message
 - [x] JWT token is generated and stored for session management
-- [ ] Token expires after configurable time period
+- [x] Token expires after configurable time period
 - [x] "Remember me" option for extended sessions
-- [ ] Forgot password functionality with email reset
-- [ ] Account lockout after multiple failed attempts
+- [x] Forgot password functionality with email reset
+- [x] Account lockout after multiple failed attempts
 - [x] Role-based menu and navigation appear based on user role
 
 ## Priority
