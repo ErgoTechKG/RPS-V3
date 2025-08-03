@@ -1,8 +1,9 @@
 import React, { useEffect } from 'react';
-import { ConfigProvider, Button, Space } from 'antd';
+import { ConfigProvider } from 'antd';
 import zhCN from 'antd/locale/zh_CN';
-import { BrowserRouter as Router } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { AuthProvider, ThemeProvider, useThemeConfig, useTheme, useAuth } from '@/contexts';
+import Homepage from '@/pages/Homepage';
 import './App.css';
 
 // Main App component with theme configuration
@@ -32,13 +33,10 @@ const AppContent: React.FC = () => {
   return (
     <ConfigProvider theme={themeConfig} locale={zhCN}>
       <Router>
-        <div className="app">
-          <div className="app-content">
-            <h1>本科科研实验班课程管理系统</h1>
-            <p>华中科技大学机械科学与工程学院</p>
-            <p>主题系统和路由配置已完成。</p>
-          </div>
-        </div>
+        <Routes>
+          <Route path="/" element={<Homepage />} />
+          <Route path="/login" element={<div>Login Page (To be implemented)</div>} />
+        </Routes>
       </Router>
     </ConfigProvider>
   );

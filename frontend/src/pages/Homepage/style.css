@@ -1,0 +1,430 @@
+.homepage {
+  min-height: 100vh;
+}
+
+/* Header Section */
+.homepage-header {
+  background: transparent;
+  padding: 0 50px;
+  height: 80px;
+  line-height: 80px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  backdrop-filter: blur(10px);
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+.dark .homepage-header {
+  background-color: rgba(20, 20, 20, 0.8);
+}
+
+.header-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.logo-section {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.logo-icon {
+  font-size: 32px;
+  color: #1890ff;
+}
+
+.logo-text {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+/* Hero Section */
+.hero-section {
+  position: relative;
+  padding: 120px 0;
+  text-align: center;
+  overflow: hidden;
+}
+
+.hero-content {
+  position: relative;
+  z-index: 1;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.hero-title {
+  font-size: 48px !important;
+  font-weight: 700 !important;
+  margin-bottom: 16px !important;
+  background: linear-gradient(135deg, #1890ff 0%, #52c41a 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.hero-subtitle {
+  font-size: 24px !important;
+  font-weight: 400 !important;
+  margin-bottom: 24px !important;
+  color: #595959;
+}
+
+.dark .hero-subtitle {
+  color: #d9d9d9;
+}
+
+.hero-description {
+  font-size: 18px;
+  line-height: 1.8;
+  max-width: 600px;
+  margin: 0 auto 40px;
+  color: #595959;
+}
+
+.dark .hero-description {
+  color: #bfbfbf;
+}
+
+.hero-cta {
+  height: 48px;
+  padding: 0 32px;
+  font-size: 16px;
+  font-weight: 500;
+  border-radius: 24px;
+  box-shadow: 0 4px 16px rgba(24, 144, 255, 0.3);
+  transition: all 0.3s;
+}
+
+.hero-cta:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(24, 144, 255, 0.4);
+}
+
+.hero-background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: radial-gradient(circle at 20% 50%, rgba(24, 144, 255, 0.05) 0%, transparent 50%),
+              radial-gradient(circle at 80% 50%, rgba(82, 196, 26, 0.05) 0%, transparent 50%);
+}
+
+/* Container */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* Section Titles */
+.section-title {
+  text-align: center;
+  margin-bottom: 48px !important;
+  font-size: 36px !important;
+  font-weight: 600 !important;
+}
+
+/* Role Section */
+.role-section {
+  padding: 80px 0;
+  background-color: #f5f5f5;
+}
+
+.dark .role-section {
+  background-color: #141414;
+}
+
+.role-card {
+  height: 100%;
+  border-top: 4px solid;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.role-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.1);
+}
+
+.dark .role-card:hover {
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.3);
+}
+
+.role-card-header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.role-card-header .anticon {
+  font-size: 48px;
+  margin-bottom: 16px;
+  display: block;
+}
+
+.role-card-header h4 {
+  margin: 0;
+}
+
+.role-description {
+  text-align: center;
+  color: #595959;
+  margin-bottom: 20px;
+}
+
+.dark .role-description {
+  color: #bfbfbf;
+}
+
+.role-features {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 24px 0;
+}
+
+.role-features li {
+  padding: 8px 0;
+  padding-left: 20px;
+  position: relative;
+  color: #595959;
+}
+
+.dark .role-features li {
+  color: #bfbfbf;
+}
+
+.role-features li:before {
+  content: "✓";
+  position: absolute;
+  left: 0;
+  color: #52c41a;
+}
+
+/* Course Types Section */
+.course-types-section {
+  padding: 80px 0;
+}
+
+.course-type-card {
+  text-align: center;
+  padding: 40px;
+  height: 100%;
+  transition: all 0.3s;
+}
+
+.course-type-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+.dark .course-type-card:hover {
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+}
+
+.course-icon {
+  font-size: 64px;
+  color: #1890ff;
+  margin-bottom: 24px;
+  display: block;
+}
+
+/* Features Section */
+.features-section {
+  padding: 80px 0;
+  background-color: #f5f5f5;
+}
+
+.dark .features-section {
+  background-color: #141414;
+}
+
+.feature-card {
+  text-align: center;
+  padding: 32px;
+  height: 100%;
+  transition: all 0.3s;
+}
+
+.feature-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+.dark .feature-card:hover {
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+}
+
+.feature-icon {
+  font-size: 48px;
+  color: #1890ff;
+  margin-bottom: 16px;
+}
+
+.feature-card h4 {
+  margin-bottom: 12px;
+}
+
+/* Credibility Section */
+.credibility-section {
+  padding: 80px 0;
+  background: linear-gradient(135deg, #f0f2f5 0%, #ffffff 100%);
+}
+
+.dark .credibility-section {
+  background: linear-gradient(135deg, #1f1f1f 0%, #141414 100%);
+}
+
+.institution-info {
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.institution-info h2 {
+  margin-bottom: 8px !important;
+}
+
+.statistics-row {
+  text-align: center;
+}
+
+.statistic-item .ant-statistic-title {
+  font-size: 16px;
+  color: #595959;
+}
+
+.dark .statistic-item .ant-statistic-title {
+  color: #bfbfbf;
+}
+
+.statistic-item .ant-statistic-content {
+  font-size: 48px;
+  font-weight: 700;
+  color: #1890ff;
+}
+
+/* Footer */
+.homepage-footer {
+  background-color: #001529;
+  color: #ffffff;
+  padding: 60px 0 20px;
+}
+
+.footer-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 40px;
+  margin-bottom: 40px;
+}
+
+.footer-section h5 {
+  color: #ffffff;
+  margin-bottom: 16px;
+}
+
+.footer-section a {
+  color: #8c8c8c;
+  transition: color 0.3s;
+}
+
+.footer-section a:hover {
+  color: #1890ff;
+}
+
+.footer-section p {
+  color: #8c8c8c;
+  margin: 0;
+}
+
+.footer-bottom {
+  text-align: center;
+  padding-top: 20px;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.footer-bottom span {
+  color: #8c8c8c;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .homepage-header {
+    padding: 0 20px;
+  }
+
+  .hero-title {
+    font-size: 36px !important;
+  }
+
+  .hero-subtitle {
+    font-size: 20px !important;
+  }
+
+  .hero-section {
+    padding: 80px 0;
+  }
+
+  .section-title {
+    font-size: 28px !important;
+  }
+
+  .role-section,
+  .course-types-section,
+  .features-section,
+  .credibility-section {
+    padding: 60px 0;
+  }
+
+  .footer-content {
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
+}
+
+/* Accessibility */
+.homepage a:focus,
+.homepage button:focus {
+  outline: 2px solid #1890ff;
+  outline-offset: 2px;
+}
+
+/* Animations */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.hero-content > * {
+  animation: fadeInUp 0.6s ease-out forwards;
+}
+
+.hero-title {
+  animation-delay: 0.1s;
+}
+
+.hero-subtitle {
+  animation-delay: 0.2s;
+}
+
+.hero-description {
+  animation-delay: 0.3s;
+}
+
+.hero-cta {
+  animation-delay: 0.4s;
+}
