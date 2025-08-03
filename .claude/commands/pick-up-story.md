@@ -3,6 +3,11 @@ As the **frontend-developer** subagent do the following in yolo mode:
 2. based on the story number, find next unfinished story
 3. Fully implement that story to upgrade existing code.
 4. Use playwright mcp to verify story has been implemented .
+  4.1. Close any existing browser: mcp__playwright__browser_close
+  4.2. Navigate to URL: mcp__playwright__browser_navigate
+  4.3. Take snapshot to verify: mcp__playwright__browser_snapshot
+  4.4. Perform actions: mcp__playwright__browser_click, etc.
+  4.5. Close when done: mcp__playwright__browser_close
 ``
 测试账号：
 
