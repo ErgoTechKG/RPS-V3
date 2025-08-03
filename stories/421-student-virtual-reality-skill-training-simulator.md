@@ -22,6 +22,11 @@ As a Student, I want a virtual reality skill training simulator where I can prac
 - Low-latency networking for multiplayer
 - Analytics pipeline for performance data
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Dependencies
 - Story 234: Student Virtual Reality Lab Platform
 - Story 269: Student Immersive VR Lab Experience

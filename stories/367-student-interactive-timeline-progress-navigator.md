@@ -85,6 +85,11 @@ As a student, I want an interactive visual timeline that shows my learning journ
 - Story 028: Student Progress Tracking
 - Story 005: Shared Calendar System
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Definition of Done
 - [ ] Interactive timeline displays correctly
 - [ ] Milestone interactions work smoothly

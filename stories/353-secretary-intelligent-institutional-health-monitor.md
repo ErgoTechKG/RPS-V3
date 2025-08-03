@@ -54,6 +54,11 @@ As a secretary, I want an intelligent institutional health monitoring system tha
 - Story 020: Leader Executive Overview
 - Story 047: Advanced Analytics and Reporting
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Priority
 High
 

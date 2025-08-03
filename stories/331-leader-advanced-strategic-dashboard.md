@@ -98,6 +98,11 @@ As a leader (院长), I want an advanced strategic dashboard that displays criti
 - 042 (Leader AI Report Generation)
 - 047 (Advanced Analytics and Reporting)
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Estimated Effort
 Large (8-12 story points)
 

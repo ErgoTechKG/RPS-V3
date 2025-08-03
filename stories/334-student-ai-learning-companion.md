@@ -116,6 +116,11 @@ As a student, I want an AI learning companion that understands my learning progr
 - 070 (Student Learning Path Management)
 - 087 (Student Adaptive Learning Pathways)
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Estimated Effort
 Extra Large (12-20 story points)
 

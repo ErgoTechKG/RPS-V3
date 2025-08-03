@@ -53,6 +53,11 @@ As a **User of any role**, I want a comprehensive version control system for doc
 - Story 049: Shared Document Management System
 - Story 007: User Profile Management
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Route Coverage
 - `/shared/documents/version-control`
 - `/shared/documents/collaborative-editing`

@@ -58,6 +58,6 @@ Low
 - Responsive design for executive viewing
 
 ## Status
-**Status:** TODO  
+**Status:** unfinished  
 **Implementation Date:** TBD  
 **Notes:** This story enables strategic decision-making through comprehensive comparison with peer institutions and industry benchmarks.

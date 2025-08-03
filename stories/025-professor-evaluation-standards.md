@@ -1,6 +1,6 @@
 # User Story 025: Professor Evaluation Standards and Reference Materials
 
-**Status:** finished
+**Status:** unfinished
 
 ## Story
 **As a** Professor expert evaluator  
@@ -76,3 +76,7 @@ Medium
 - Training module integration
 - Downloadable resources for offline access
 - Quick reference tools and shortcuts
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented

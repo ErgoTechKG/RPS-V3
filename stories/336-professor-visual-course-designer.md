@@ -116,6 +116,11 @@ As a professor, I want a visual course designer with step-by-step guidance and r
 - 062 (Professor Resource Management System)
 - 118 (Professor Resource Library Management)
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Estimated Effort
 Large (10-15 story points)
 

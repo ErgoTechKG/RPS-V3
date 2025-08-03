@@ -99,6 +99,11 @@ Many institutional processes require coordination between multiple roles, such a
 - Story 005: Shared Calendar System (scheduling and timeline coordination)
 - Story 049: Shared Document Management System (collaboration infrastructure)
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Risks and Considerations
 - Complexity of coordinating workflows across diverse role-specific systems and interfaces
 - User adoption challenges with introducing new cross-role collaboration paradigms

@@ -94,6 +94,11 @@ GET /api/communication/analytics/insights
 - Story 194: Shared Multi-Channel Communication Platform
 - Story 117: Shared Intelligent Notification System
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Definition of Done
 - [ ] Unified communication interface implemented with all modes integrated
 - [ ] AR/VR collaboration spaces functional and tested

@@ -83,6 +83,11 @@ As a Professor, I want to access an advanced lab equipment management system tha
 - Equipment inventory management system
 - Calendar and scheduling infrastructure
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Definition of Done
 - [ ] Equipment inventory system implemented with real-time updates
 - [ ] Advanced booking interface with conflict detection completed

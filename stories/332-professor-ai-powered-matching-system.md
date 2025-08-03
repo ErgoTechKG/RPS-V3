@@ -102,6 +102,11 @@ As a professor, I want an AI-powered student matching system with visual control
 - 013 (Student Application Process)
 - 037 (Professor AI Student Matching)
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Estimated Effort
 Large (8-12 story points)
 

@@ -22,6 +22,11 @@ As a Secretary, I want a blockchain-powered credential ecosystem that issues tam
 - API for third-party integrations
 - High-throughput transaction processing
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Dependencies
 - Story 235: Secretary Blockchain Credential System
 - Story 272: Secretary Blockchain Credential Verification

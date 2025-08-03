@@ -86,3 +86,7 @@ Medium
 - Batch operation capabilities with confirmation
 - Responsive design for various devices
 - Advanced filtering and search functionality
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented

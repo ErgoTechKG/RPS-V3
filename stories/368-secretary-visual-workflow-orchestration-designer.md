@@ -103,6 +103,11 @@ As a secretary, I want a visual drag-and-drop workflow designer that allows me t
 - Story 043: Secretary User Management
 - Story 082: Secretary Advanced Workflow Automation
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Definition of Done
 - [ ] Visual workflow designer is fully functional
 - [ ] Drag-and-drop interface works smoothly

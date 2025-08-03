@@ -58,6 +58,6 @@ Medium
 - Mobile access for urgent compliance issues
 
 ## Status
-**Status:** TODO  
+**Status:** unfinished  
 **Implementation Date:** TBD  
 **Notes:** This story implements comprehensive compliance monitoring to ensure institutional and regulatory requirements are automatically tracked and enforced.

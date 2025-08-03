@@ -93,6 +93,11 @@ Professors manage multiple concurrent responsibilities including grading, meetin
 - Story 005: Shared Calendar System (for calendar integration)
 - Story 011: Professor Assessment and Grading (for academic task context)
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Definition of Done
 - [ ] Task priority system is fully functional with visual indicators
 - [ ] Drag-and-drop task organization works smoothly across priority levels

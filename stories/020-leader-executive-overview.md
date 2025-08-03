@@ -76,6 +76,11 @@ High
 - Export capabilities for presentations
 - Alert management and prioritization interface
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Implementation Status
 - status: finished
 - completed_date: 2025-01-06

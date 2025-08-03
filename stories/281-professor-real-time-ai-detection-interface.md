@@ -53,6 +53,11 @@ High
 - Submission Management System
 - Professor Dashboard Infrastructure
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Notes
 - Consider privacy implications
 - Implement transparent detection criteria

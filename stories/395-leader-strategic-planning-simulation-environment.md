@@ -94,6 +94,11 @@ GET /api/leader/simulations/templates
 - Story 042: Leader AI Report Generation
 - Story 047: Advanced Analytics and Reporting
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Definition of Done
 - [ ] Simulation engine implemented with comprehensive institutional modeling
 - [ ] Interactive scenario builder fully functional

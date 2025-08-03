@@ -47,6 +47,11 @@ As a **Professor**, I want an intelligent Q&A knowledge base system so that I ca
 - Story 039: Student-Professor Communication
 - Story 049: Shared Document Management System
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Route Coverage
 - `/professor/resources/qa/knowledge-base`
 - `/professor/resources/qa/analytics`

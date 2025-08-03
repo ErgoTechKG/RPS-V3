@@ -167,6 +167,11 @@ Leader (Dean, Department Head, Senior Administrator)
 
 ## Dependencies
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ### Required Stories (Must be completed first)
 - Story 001: User Authentication (secure access to strategic modeling)
 - Story 020: Leader Executive Overview (basic leadership dashboard)

@@ -54,6 +54,11 @@ High
 - Professor Availability Management
 - Video Conferencing Platform
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Notes
 - Consider peak booking time handling
 - Implement fair booking policies

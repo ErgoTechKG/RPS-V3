@@ -75,6 +75,11 @@ So that I can immediately detect academic integrity issues and provide instant f
 - Story 010: Professor Process Management
 - Story 004: Notification System
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Business Value
 - Reduces manual plagiarism checking time by 80%
 - Improves academic integrity enforcement consistency

@@ -77,6 +77,11 @@ The professor UI design includes resource management capabilities that extend be
 - Story 010: Professor Process Management (for course coordination)
 - Story 049: Shared Document Management System (for manuals and protocols)
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Mockups/Wireframes
 Reference: ui-ux/professor-ui.md resource management section (lines 79-83)
 

@@ -51,5 +51,10 @@ As a professor, I want a visual drag-and-drop grading rubric designer so that I 
 - Story 024: Professor Evaluation Interface  
 - Story 085: Professor Intelligent Grading Assistant
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Route
 `/professor/grading/rubric-designer`

@@ -61,6 +61,11 @@ As a **Student**, I want an adaptive notification system that learns my preferen
 - Multi-channel communication infrastructure
 - Calendar and scheduling integration
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Priority
 Medium-High - Significantly improves user experience and engagement
 

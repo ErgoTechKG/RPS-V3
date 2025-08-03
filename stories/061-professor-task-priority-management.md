@@ -53,6 +53,6 @@ Medium
 - Responsive design for different screen sizes
 
 ## Status
-**Status:** TODO  
+**Status:** unfinished  
 **Implementation Date:** TBD  
 **Notes:** This story enhances the existing task management with intelligent prioritization and customization features described in the professor UI design.

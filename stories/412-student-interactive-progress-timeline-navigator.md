@@ -82,5 +82,10 @@ High - Core student engagement feature
 - Assignment and grading systems
 - Calendar integration
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Notes
 This interactive timeline transforms the abstract concept of academic progress into a tangible, visual journey. It serves as both a practical planning tool and a motivational dashboard, helping students maintain momentum and celebrate achievements.

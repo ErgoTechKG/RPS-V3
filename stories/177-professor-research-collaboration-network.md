@@ -43,6 +43,11 @@ As a professor, I want a platform to connect with colleagues, share research pro
 - Real-time collaboration features
 - Mobile app support for on-the-go access
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## User Impact
 HIGH - Facilitates research collaboration and expands professional networks
 

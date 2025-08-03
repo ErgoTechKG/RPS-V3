@@ -35,6 +35,11 @@ High
 - Integration with cognitive science principles
 - Real-time performance assessment
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Route
 - `/student/ai-coach/dashboard`
 - `/student/ai-coach/learning-path`

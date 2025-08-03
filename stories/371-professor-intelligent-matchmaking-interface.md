@@ -115,6 +115,11 @@ As a professor, I want an intelligent student-project matchmaking interface that
 - Story 141: Professor AI Assistance Course Planning
 - Story 332: Professor AI-Powered Matching System
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Definition of Done
 - [ ] AI matching algorithm produces accurate recommendations
 - [ ] Visual interface displays matching insights clearly

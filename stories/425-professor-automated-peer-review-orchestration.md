@@ -22,6 +22,11 @@ As a Professor, I want an automated peer review orchestration system that intell
 - Analytics dashboard for review insights
 - Integration with academic databases
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Dependencies
 - Story 025: Professor Evaluation Standards
 - Story 136: Professor QA Knowledge Base System

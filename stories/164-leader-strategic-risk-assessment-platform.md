@@ -84,6 +84,11 @@ As a **Leader**, I want to **have a strategic risk assessment platform that iden
 - Story 048: Integration with External Systems (external data integration)
 - Story 020: Leader Executive Overview (dashboard foundation)
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Success Metrics
 - **Risk Prediction Accuracy**: 85% accuracy in predicting major institutional risks
 - **Response Time**: 50% faster response to emerging risk scenarios

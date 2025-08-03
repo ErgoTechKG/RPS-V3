@@ -85,3 +85,7 @@ Medium
 - Offline capability for areas with poor connectivity
 - Dark mode support for various lighting conditions
 - Accessibility features for users with disabilities
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented

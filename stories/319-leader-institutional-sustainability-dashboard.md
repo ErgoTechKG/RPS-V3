@@ -76,6 +76,11 @@ As a Leader, I want an institutional sustainability dashboard so that I can moni
 - Story 169: Leader Institutional Health Dashboard
 - Story 301: Leader AI Decision Engine
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Priority
 Medium-High - Important for long-term institutional viability and social responsibility
 

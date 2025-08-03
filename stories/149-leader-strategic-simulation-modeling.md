@@ -78,6 +78,11 @@ As a Leader, I need a strategic simulation and modeling platform that enables sc
 - Story 068: Leader Strategic Simulation System
 - Story 047: Advanced Analytics and Reporting
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Priority
 Medium
 

@@ -77,6 +77,11 @@ The secretary UI design includes advanced workflow automation capabilities that 
 - Story 018: Secretary Process Monitoring (for monitoring infrastructure)
 - Story 043: Secretary User Management (for role-based automation)
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Mockups/Wireframes
 Reference: ui-ux/secretary-ui.md workflow automation section
 

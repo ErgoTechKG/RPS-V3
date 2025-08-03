@@ -48,6 +48,11 @@ As a Secretary, I want a multi-stakeholder communication center with role-based 
 - Analytics engine
 - API integrations for external channels
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Dependencies
 - Story 186: Secretary Multi-Stakeholder Communication Hub
 - Story 318: Secretary Advanced Stakeholder Communication Hub

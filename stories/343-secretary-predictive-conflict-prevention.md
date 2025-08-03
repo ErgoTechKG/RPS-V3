@@ -35,6 +35,11 @@ High
 - Integration with scheduling and resource systems
 - Automated workflow triggers
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Route
 - `/secretary/conflict-prevention/dashboard`
 - `/secretary/conflict-prevention/predictions`

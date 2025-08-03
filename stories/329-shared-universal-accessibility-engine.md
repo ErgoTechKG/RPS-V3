@@ -74,5 +74,10 @@ As any user with accessibility needs, I want a comprehensive universal accessibi
 - Story 003: Shared Navigation System
 - Story 079: Shared Design System Management
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Route
 `/shared/accessibility` (affects all routes)

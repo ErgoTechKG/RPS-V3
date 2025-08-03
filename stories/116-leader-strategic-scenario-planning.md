@@ -55,6 +55,11 @@ As a **Leader**, I want to access a strategic scenario planning system that allo
 - Support complex data visualization and interaction
 - Ensure scalability for large-scale institutional modeling
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Dependencies
 - Story 072: Leader Decision Support System
 - Story 080: Leader Predictive Analytics System

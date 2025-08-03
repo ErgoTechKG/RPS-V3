@@ -101,6 +101,11 @@ As a leader, I need a comprehensive resource ROI analysis platform that evaluate
 - Story 048: Integration with External Systems
 - Story 020: Leader Executive Overview
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Definition of Done
 
 - [ ] Leaders can calculate comprehensive ROI for educational investments

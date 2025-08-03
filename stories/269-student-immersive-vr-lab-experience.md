@@ -24,3 +24,7 @@ As a Student, I want to access virtual reality laboratory experiences so that I 
 - Create optimized 3D models for smooth performance
 - Design accessible UI for VR environment
 - Ensure cross-platform compatibility
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented

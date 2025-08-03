@@ -58,6 +58,11 @@ High
 - Student Authentication
 - Notification Service
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Notes
 - Ensure privacy compliance for biometric data
 - Consider battery optimization for GPS

@@ -83,5 +83,10 @@ Medium
 - Story 005: Shared Calendar System
 - Story 016: Secretary Course Setup and Configuration
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Notes
 This story enhances the basic course management with sophisticated timeline planning tools that match the detailed UI designs for timeline configuration interfaces.

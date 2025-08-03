@@ -75,6 +75,11 @@ So that I can overcome communication anxiety and ask better academic questions
 - Story 004: Notification System
 - Story 006: Help and Documentation System
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Business Value
 - Reduces communication anxiety for 80% of students
 - Improves quality of student-professor interactions

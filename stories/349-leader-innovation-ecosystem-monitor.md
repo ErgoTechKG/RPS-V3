@@ -35,6 +35,11 @@ Medium
 - Machine learning for trend detection
 - Collaboration recommendation engines
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Route
 - `/leader/innovation-monitor/dashboard`
 - `/leader/innovation-monitor/research-outputs`

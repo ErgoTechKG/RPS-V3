@@ -78,6 +78,11 @@ As a Platform User, I need an intelligent content management system that provide
 - Story 127: Shared Real-Time Collaboration Workspace
 - Story 140: Shared Version Control System
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Priority
 Medium
 

@@ -49,6 +49,11 @@ As a Student, I need a Pinterest-style waterfall layout for browsing research to
 - Story 008: Professor Topic Management
 - Story 013: Student Application Process
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Priority
 High
 

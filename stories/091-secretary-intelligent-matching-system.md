@@ -88,5 +88,10 @@ Medium
 - Story 009: Professor Student Selection Process
 - Story 041: Secretary AI Insights
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Notes
 This story provides sophisticated AI-powered matching capabilities that enhance the basic participant management with intelligent algorithms and visual management tools as detailed in the UI designs.

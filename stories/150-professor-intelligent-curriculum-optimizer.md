@@ -78,6 +78,11 @@ As a Professor, I need an intelligent curriculum optimizer that analyzes course 
 - Story 146: Professor Advanced Assessment Analytics Platform
 - Story 054: Professor Advanced Analytics Platform
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Priority
 Medium
 

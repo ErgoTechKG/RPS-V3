@@ -27,3 +27,7 @@ Medium
 - Facial recognition with privacy controls
 - Offline storage and sync capabilities
 - Push notification system
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented

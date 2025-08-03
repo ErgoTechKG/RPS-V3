@@ -58,5 +58,10 @@ As a student, I want an interactive visual timeline navigator so that I can trac
 - Story 028: Student Progress Tracking
 - Story 005: Shared Calendar System
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Route
 `/student/timeline`

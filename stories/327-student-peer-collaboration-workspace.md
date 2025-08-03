@@ -66,5 +66,10 @@ As a student, I want a dedicated peer collaboration workspace so that I can form
 - Story 075: Student Study Group Platform
 - Story 083: Student Peer Learning Network
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Route
 `/student/collaboration/workspace`

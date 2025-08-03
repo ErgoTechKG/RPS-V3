@@ -101,6 +101,11 @@ As a student, I need anonymous peer comparison analytics that help me understand
 - Story 028: Student Progress Tracking
 - Story 001: User Authentication
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Definition of Done
 
 - [ ] Students can view anonymous peer comparison analytics

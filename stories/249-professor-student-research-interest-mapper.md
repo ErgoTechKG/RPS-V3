@@ -75,6 +75,11 @@ So that I can optimize student-project assignments and research team formation
 - Story 013: Student Application Process
 - Story 012: Student Topic Browsing and Discovery
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Business Value
 - Improves student-project matching success rate by 35%
 - Reduces manual matching time by 70%

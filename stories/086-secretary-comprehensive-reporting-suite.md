@@ -77,6 +77,11 @@ The secretary UI design includes extensive reporting capabilities that go beyond
 - Story 042: Leader AI Report Generation (for AI capabilities)
 - Story 047: Advanced Analytics and Reporting (for analytics engine)
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Mockups/Wireframes
 Reference: ui-ux/secretary-ui.md leadership support section (lines 857-987)
 

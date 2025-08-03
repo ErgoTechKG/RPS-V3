@@ -93,6 +93,11 @@ So that I can present my capabilities to professors and employers
 - Student Achievements Showcase (Story 015)
 - Student Personal Growth Portfolio (Story 063)
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Acceptance Tests
 
 ### Portfolio Creation Test

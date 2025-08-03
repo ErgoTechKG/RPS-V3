@@ -62,6 +62,11 @@ As a Professor, I need an AI-assisted course planning system that helps me desig
 - Story 042: Leader AI Report Generation
 - Story 047: Advanced Analytics and Reporting
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Priority
 Medium
 

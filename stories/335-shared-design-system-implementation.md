@@ -131,6 +131,11 @@ As a developer and designer, I want a comprehensive design system based on Ant D
 - 079 (Shared Design System Management)
 - 088 (Shared Accessibility Compliance System)
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Estimated Effort
 Extra Large (15-25 story points)
 

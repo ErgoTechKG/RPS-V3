@@ -58,6 +58,11 @@ High
 - Real-time Messaging Service
 - Authentication Framework
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Notes
 - Ensure scalability for large groups
 - Implement privacy controls

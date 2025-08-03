@@ -75,6 +75,11 @@ So that I can efficiently grade multiple assignments with consistency and speed
 - Story 036: Professor AI Homework Detection
 - Story 004: Notification System
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Business Value
 - Reduces grading time by 40-50%
 - Improves grading consistency and fairness

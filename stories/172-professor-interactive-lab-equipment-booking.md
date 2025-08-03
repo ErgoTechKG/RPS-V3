@@ -52,6 +52,11 @@ references:
 
 ## Technical Notes
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ### Frontend Requirements
 - Interactive calendar component with drag-and-drop functionality
 - Equipment catalog with search and filtering

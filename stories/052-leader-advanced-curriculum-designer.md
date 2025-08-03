@@ -86,3 +86,7 @@ Medium
 - Responsive design for various screen sizes
 - Collaborative editing capabilities
 - Rich media support for course descriptions
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented

@@ -35,6 +35,11 @@ High - Essential for student course navigation and time management
 - Story 028: Student progress tracking
 - Story 070: Student learning path management
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Mockups
 - Interactive timeline interface with zoom controls
 - Milestone detail popups

@@ -24,3 +24,7 @@ As any user, I want a comprehensive real-time collaboration platform that enable
 - Design scalable presence management system
 - Ensure low-latency collaboration experience
 - Build robust offline synchronization
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented

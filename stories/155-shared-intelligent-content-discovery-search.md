@@ -168,6 +168,11 @@ All Users (Professor, Student, Secretary, Leader)
 
 ## Dependencies
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ### Required Stories (Must be completed first)
 - Story 001: User Authentication (access control for search results)
 - Story 007: User Profile Management (personalization foundation)

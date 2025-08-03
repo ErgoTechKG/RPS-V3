@@ -101,6 +101,11 @@ As a professor, I need an intelligent Q&A template system that helps me quickly 
 - Story 006: Help and Documentation System
 - Story 038: Student AI Learning Assistant
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Definition of Done
 
 - [ ] Professors can create, edit, and organize response templates

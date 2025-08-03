@@ -124,6 +124,11 @@ As a leader (院长), I want a comprehensive policy management system with impac
 - 044 (Secretary System Backup)
 - 077 (Leader Policy Lifecycle Management)
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Estimated Effort
 Extra Large (15-20 story points)
 

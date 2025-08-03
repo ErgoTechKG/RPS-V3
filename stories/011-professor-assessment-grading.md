@@ -81,6 +81,11 @@ High
 - Batch processing capabilities
 - Mobile-friendly grading interface for presentations
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Implementation Status
 **Status:** ✅ COMPLETED
 

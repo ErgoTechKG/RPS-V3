@@ -22,6 +22,11 @@ As a Leader, I want a predictive enrollment optimization engine that forecasts s
 - Predictive modeling infrastructure
 - Data visualization libraries
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Dependencies
 - Story 080: Leader Predictive Analytics System
 - Story 243: Leader Predictive Analytics Trend System

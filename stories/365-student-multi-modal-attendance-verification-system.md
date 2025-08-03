@@ -136,6 +136,11 @@ As a Student, I need a multi-modal attendance verification system with GPS locat
 - Bluetooth Low Energy beacons
 - Edge computing for privacy
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## UI/UX Considerations
 - One-tap verification preferred
 - Clear method icons

@@ -54,6 +54,11 @@ As a **Leader**, I want an advanced impact assessment system so that I can evalu
 - Story 072: Leader Decision Support System
 - Story 080: Leader Predictive Analytics System
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Route Coverage
 - `/leader/decision-support/impact-assessment`
 - `/leader/decision-support/scenario-planning`

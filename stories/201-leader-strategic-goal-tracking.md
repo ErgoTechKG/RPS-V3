@@ -101,6 +101,11 @@ As a leader, I need a comprehensive strategic goal tracking system that allows m
 - Story 047: Advanced Analytics and Reporting
 - Story 019: Secretary Data Collection
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Definition of Done
 
 - [ ] Leaders can define and structure comprehensive strategic goals

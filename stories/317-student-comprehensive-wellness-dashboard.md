@@ -76,6 +76,11 @@ As a Student, I want a comprehensive wellness dashboard so that I can monitor an
 - Story 028: Student Progress Tracking
 - Story 307: Student Biometric Wellness Monitor
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Priority
 High - Critical for student success, retention, and overall well-being
 

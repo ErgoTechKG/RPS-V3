@@ -68,6 +68,11 @@ Medium
 - Quick event creation modal
 - Responsive design for different screen sizes
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Implementation Status
 **Status:** ✅ COMPLETED
 

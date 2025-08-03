@@ -78,6 +78,11 @@ As a Student, I need an interactive learning companion that provides personalize
 - Story 087: Student Adaptive Learning Pathways
 - Story 129: Student Adaptive Study Companion
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Priority
 High
 

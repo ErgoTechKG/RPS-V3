@@ -116,6 +116,11 @@ InterviewSlot {
 - Story 004: Notification System (for reminders)
 - Story 005: Shared Calendar System (for calendar integration)
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Priority
 High - Critical for improving the student application experience and reducing scheduling friction
 

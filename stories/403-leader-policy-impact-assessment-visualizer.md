@@ -94,6 +94,11 @@ POST /api/leader/policy/feedback/integrate
 - Story 213: Leader AI-Powered Policy Impact Assessment System
 - Story 264: Leader Policy Impact Visualization Platform
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Definition of Done
 - [ ] Advanced visualization framework implemented with interactive capabilities
 - [ ] Impact modeling engine operational with scenario testing

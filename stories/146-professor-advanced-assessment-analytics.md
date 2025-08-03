@@ -78,6 +78,11 @@ As a Professor, I need an advanced assessment analytics platform that provides c
 - Story 054: Professor Advanced Analytics Platform
 - Story 047: Advanced Analytics and Reporting
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Priority
 Medium
 

@@ -54,6 +54,11 @@ The UI design specifications (secretary-ui.md lines 990-1125) describe an advanc
 
 ## Technical Notes
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ### Architecture
 - Private/consortium blockchain network (Hyperledger Fabric or similar)
 - Smart contract development platform

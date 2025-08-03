@@ -52,6 +52,11 @@ As a leader, I need a comprehensive sustainability tracking platform that monito
 - Story 072: Leader Decision Support System
 - Story 169: Leader Institutional Health Dashboard
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Mockup References
 - Leader UI Design: Strategic dashboard section
 - Sustainability metrics visualization

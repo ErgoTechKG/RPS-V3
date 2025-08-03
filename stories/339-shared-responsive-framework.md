@@ -118,6 +118,11 @@ As a user accessing the platform from any device, I want a responsive interface 
 - 079 (Shared Design System Management)
 - 335 (Shared Design System Implementation)
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Estimated Effort
 Large (10-15 story points)
 

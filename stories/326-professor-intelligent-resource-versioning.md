@@ -66,5 +66,10 @@ As a professor, I want an intelligent resource versioning system so that I can t
 - Story 049: Shared Document Management System
 - Story 118: Professor Resource Library Management
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Route
 `/professor/resources/versioning`

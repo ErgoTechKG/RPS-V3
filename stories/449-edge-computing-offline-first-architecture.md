@@ -35,6 +35,11 @@ As a user in a remote area or with unreliable internet, I need edge computing ca
 - Edge infrastructure deployment
 - Local storage implementation
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Roles Affected
 - All users (universal feature)
 - Students in remote areas (primary beneficiaries)

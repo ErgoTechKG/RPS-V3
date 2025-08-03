@@ -130,6 +130,11 @@ WorkflowStep {
 - Story 001: User Authentication (for role-based workflow execution)
 - Story 047: Advanced Analytics and Reporting (for workflow analytics)
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Priority
 High - Essential for system efficiency and user productivity across all roles
 

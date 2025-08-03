@@ -98,3 +98,7 @@ High
 - Communication interface with templates
 - Real-time status updates and notifications
 - Administrative reporting dashboard
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented

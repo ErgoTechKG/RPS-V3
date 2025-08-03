@@ -35,6 +35,11 @@ Low
 - Real-time processing and result delivery
 - Secure quantum computation protocols
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Route
 - `/shared/quantum-optimization/dashboard`
 - `/shared/quantum-optimization/problems`

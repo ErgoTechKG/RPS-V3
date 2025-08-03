@@ -61,6 +61,11 @@ As a **Student**, I want a biometric wellness monitoring system that tracks my p
 - Wearable device compatibility framework
 - Privacy and security infrastructure
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Priority
 Medium - Health and wellness are important for student success
 

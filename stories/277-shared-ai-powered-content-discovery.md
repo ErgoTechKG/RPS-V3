@@ -24,3 +24,7 @@ As any user, I want an AI-powered content discovery system that learns from my i
 - Design efficient content indexing pipeline
 - Ensure fast query response times
 - Build explainable recommendation system
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented

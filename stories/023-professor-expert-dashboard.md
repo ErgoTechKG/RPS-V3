@@ -75,6 +75,6 @@ High
 - Mobile-friendly responsive design
 
 ## Status
-**Status:** finished  
+**Status:** unfinished  
 **Implementation Date:** 2025-08-03  
 **Notes:** Expert dashboard implemented with full functionality including workload overview, task management with filtering/sorting, progress analytics, and quick access tools. All acceptance criteria have been met.

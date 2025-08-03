@@ -75,6 +75,11 @@ High
 - Customizable dashboard layouts for different leadership roles
 - Professional presentation-ready reporting interface
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Data Sources and Integration
 - Student information systems and academic records
 - Financial management and budget systems

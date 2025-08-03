@@ -84,6 +84,11 @@ As a Secretary, I want access to a comprehensive institutional analytics platfor
 - Institutional data warehouse infrastructure
 - Business intelligence platform integration
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Definition of Done
 - [ ] Data integration platform implemented with all institutional systems
 - [ ] Predictive analytics engine functional with key models

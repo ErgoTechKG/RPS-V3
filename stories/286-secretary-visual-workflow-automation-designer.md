@@ -58,6 +58,11 @@ High
 - Template Management System
 - AI Recommendation Engine
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Notes
 - Support BPMN standards
 - Include workflow simulation

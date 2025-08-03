@@ -75,6 +75,11 @@ Medium
 - Mobile-responsive design for on-the-go management
 - Drag-and-drop scheduling interface
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Analytics and Metrics
 - Resource utilization rates and efficiency scores
 - Booking conflict resolution success rates

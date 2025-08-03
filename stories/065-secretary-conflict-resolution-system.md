@@ -58,6 +58,6 @@ Medium
 - Mobile notifications for urgent conflicts
 
 ## Status
-**Status:** TODO  
+**Status:** unfinished  
 **Implementation Date:** TBD  
 **Notes:** This story provides comprehensive conflict detection and resolution capabilities to streamline administrative operations and prevent issues before they escalate.

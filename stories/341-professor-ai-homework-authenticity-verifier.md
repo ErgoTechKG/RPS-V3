@@ -35,6 +35,11 @@ High
 - Real-time processing optimization
 - Privacy-compliant analysis methods
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Route
 - `/professor/courses/lab-rotation/:courseId/assessment/ai-verification`
 - `/professor/courses/lab-rotation/:courseId/assessment/authenticity-reports`

@@ -52,6 +52,11 @@ As a Professor working with the Secretary, I need a visual 2D matrix interface t
 - Story 037: Professor AI Student Matching
 - Story 091: Secretary Intelligent Matching System
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Priority
 High
 

@@ -82,5 +82,10 @@ High - Essential course planning tool
 - Calendar integration infrastructure
 - Task management system
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Notes
 This visual timeline designer transforms course planning from static documents to dynamic, interactive planning tools. It helps professors visualize course flow, identify bottlenecks, and maintain optimal pacing throughout the semester.

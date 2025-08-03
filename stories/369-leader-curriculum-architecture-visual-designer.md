@@ -100,6 +100,11 @@ As a leader, I want a visual curriculum design tool that allows me to create, mo
 - Story 042: Leader AI Report Generation
 - Story 127: Shared Real-Time Collaboration Workspace
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Definition of Done
 - [ ] Visual curriculum designer is fully functional
 - [ ] Drag-and-drop interface works smoothly

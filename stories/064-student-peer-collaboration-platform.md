@@ -58,6 +58,6 @@ Low
 - Mobile app for on-the-go collaboration
 
 ## Status
-**Status:** TODO  
+**Status:** unfinished  
 **Implementation Date:** TBD  
 **Notes:** This story creates a comprehensive peer learning environment that encourages student-to-student knowledge sharing and collaboration.

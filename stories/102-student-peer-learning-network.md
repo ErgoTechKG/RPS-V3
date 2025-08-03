@@ -99,6 +99,11 @@ Peer learning is a crucial component of academic success. The UI design specifie
 - Story 049: Shared Document Management System (for resource sharing)
 - Story 073: Shared Video Conferencing Platform (for virtual study sessions)
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Definition of Done
 - [ ] Student matching algorithm successfully connects compatible learning partners
 - [ ] Real-time collaboration tools work seamlessly across different devices

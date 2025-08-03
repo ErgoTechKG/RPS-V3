@@ -35,6 +35,11 @@ Medium
 - VR/AR content development tools
 - Multi-media processing and synchronization
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Route
 - `/professor/lecture-studio/dashboard`
 - `/professor/lecture-studio/content-creation`

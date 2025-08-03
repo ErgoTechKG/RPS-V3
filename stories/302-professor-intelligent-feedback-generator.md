@@ -55,6 +55,11 @@ As a **Professor**, I want an AI-powered feedback generation system that helps m
 - Student performance analytics system
 - Submission and grading infrastructure
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Priority
 High - Enhances core teaching and mentoring capabilities
 

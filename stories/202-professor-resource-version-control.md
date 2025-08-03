@@ -101,6 +101,11 @@ As a professor, I need a comprehensive version control system for course resourc
 - Story 010: Professor Process Management
 - Story 004: Notification System
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Definition of Done
 
 - [ ] Professors can track versions of all course materials

@@ -118,6 +118,11 @@ As a student, I want a smart interview scheduler that prevents conflicts and opt
 - 004 (Notification System)
 - 005 (Shared Calendar System)
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Estimated Effort
 Large (8-12 story points)
 

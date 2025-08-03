@@ -35,6 +35,11 @@ Medium
 - Multi-language voice models
 - Privacy-compliant voice data handling
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Route
 - `/shared/voice-interface/setup`
 - `/shared/voice-interface/commands`

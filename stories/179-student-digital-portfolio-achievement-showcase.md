@@ -43,6 +43,11 @@ As a student, I want a comprehensive digital portfolio system where I can curate
 - SEO optimization for public portfolios
 - Version control for portfolio updates
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## User Impact
 HIGH - Provides professional showcase for academic and career advancement
 

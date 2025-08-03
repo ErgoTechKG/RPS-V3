@@ -48,6 +48,11 @@ As a Secretary, I want a drag-and-drop workflow designer with visual process map
 - Real-time validation
 - Export/import workflow definitions
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Dependencies
 - Story 082: Secretary Advanced Workflow Automation
 - Story 265: Secretary Visual Workflow Designer and Automation Tool

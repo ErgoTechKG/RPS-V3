@@ -92,6 +92,11 @@ So that I can identify opportunities for process improvement
 - Document Management System (Story 049)
 - Secretary Advanced Workflow Automation (Story 082)
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Acceptance Tests
 
 ### Workflow Creation Test

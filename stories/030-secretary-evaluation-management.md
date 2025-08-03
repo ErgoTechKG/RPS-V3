@@ -89,6 +89,6 @@ High
 - Administrative coordination and communication tools
 
 ## Status
-**Status:** finished  
+**Status:** unfinished  
 **Implementation Date:** 2025-08-03  
 **Notes:** Comprehensive evaluation management system implemented with full process control, expert coordination, collection monitoring, and scheme configuration. All acceptance criteria met with robust UI components and workflow management features.

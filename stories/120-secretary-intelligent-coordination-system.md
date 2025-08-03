@@ -93,6 +93,11 @@ So that I can take preventive action before issues become critical
 - Shared Calendar System (Story 005)
 - Secretary Process Monitoring (Story 018)
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Acceptance Tests
 
 ### Smart Scheduling Test

@@ -37,6 +37,11 @@ As a mobile user, I need native iOS and Android applications optimized for mobil
 - Push notification infrastructure
 - Mobile testing devices
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Roles Affected
 - All users (mobile access)
 - Students (primary mobile users)

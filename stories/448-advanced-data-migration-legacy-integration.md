@@ -35,6 +35,11 @@ As a Secretary or System Administrator, I need tools for migrating data from leg
 - API access to external systems
 - Data storage infrastructure
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Roles Affected
 - Secretaries (primary users)
 - System Administrators (configuration)

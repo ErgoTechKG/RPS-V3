@@ -24,3 +24,7 @@ As a Secretary, I want a visual drag-and-drop workflow designer that allows me t
 - Design extensible component library
 - Ensure workflow portability and reusability
 - Build robust error handling and recovery
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented

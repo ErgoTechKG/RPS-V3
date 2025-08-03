@@ -84,6 +84,11 @@ As a **Student**, I want to **have a digital wellness companion that monitors my
 - Story 004: Notification System (support and reminder delivery)
 - Story 006: Help and Documentation System (resource access)
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Success Metrics
 - **Stress Reduction**: 20% improvement in self-reported stress management
 - **Academic Performance**: Maintained or improved GPA among users

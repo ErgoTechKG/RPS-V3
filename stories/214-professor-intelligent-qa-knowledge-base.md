@@ -99,6 +99,11 @@ Professors frequently receive similar questions from students across different c
 - Story 049: Shared Document Management System (content integration)
 - Story 136: Professor Q&A Knowledge Base System (basic Q&A functionality)
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Risks and Considerations
 - Accuracy concerns with automated responses potentially providing incorrect information
 - Student over-reliance on automated system reducing meaningful professor interaction

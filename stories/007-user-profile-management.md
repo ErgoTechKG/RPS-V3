@@ -1,6 +1,6 @@
 # User Story 007: User Profile Management
 
-**Status:** finished
+**Status:** unfinished
 
 ## Story
 **As a** user  
@@ -71,3 +71,7 @@ Medium
 - Secure password change workflow
 - Photo upload with preview
 - Responsive design for all devices
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented

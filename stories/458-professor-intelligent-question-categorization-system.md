@@ -48,6 +48,11 @@ As a Professor, I want an AI-powered question categorization system with templat
 - Knowledge graph for Q&A relationships
 - Analytics and feedback system
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Dependencies
 - Story 136: Professor Q&A Knowledge Base System
 - Story 197: Professor Q&A Template System

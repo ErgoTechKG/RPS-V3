@@ -83,6 +83,11 @@ The leader UI design emphasizes a strategic, high-level dashboard focused on ins
 - Story 047: Advanced Analytics and Reporting (for analytics foundation)
 - Story 080: Leader Predictive Analytics System (for predictive capabilities)
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Mockups/Wireframes
 Reference: ui-ux/leader-ui.md strategic dashboard design (lines 60-123)
 

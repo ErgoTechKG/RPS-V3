@@ -68,5 +68,10 @@ As a professor, I want to access an advanced resource booking calendar system so
 - Story 049: Shared Document Management System
 - Story 074: Professor Laboratory Resource Management
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Wireframe Notes
 The interface should feature a prominent calendar display with color-coded resource availability, intuitive drag-and-drop booking creation, detailed resource information panels, and integrated conflict resolution workflows as described in the professor UI specifications.

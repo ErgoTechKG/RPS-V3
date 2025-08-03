@@ -35,6 +35,11 @@ Medium - Streamlines assessment creation and ensures quality
 - Story 197: Professor Q&A template system
 - Story 250: Professor intelligent question categorizer
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Mockups
 - Question bank dashboard with categories
 - Question creation/editing interface

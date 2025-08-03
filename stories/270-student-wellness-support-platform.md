@@ -24,3 +24,7 @@ As a Student, I want access to a comprehensive mental health and wellness suppor
 - Design calming, accessible UI/UX
 - Integrate with campus wellness services
 - Ensure 24/7 availability with fallback support
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented

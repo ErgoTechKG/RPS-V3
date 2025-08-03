@@ -35,6 +35,11 @@ Medium
 - Privacy-compliant health monitoring
 - Integration with external wellness platforms
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Route
 - `/student/study-environment/dashboard`
 - `/student/study-environment/personalization`

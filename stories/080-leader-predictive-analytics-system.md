@@ -77,6 +77,11 @@ The leader UI design includes advanced predictive analysis features that go beyo
 - Story 042: Leader AI Report Generation (for AI capabilities)
 - Story 047: Advanced Analytics and Reporting (for data foundation)
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Mockups/Wireframes
 Reference: ui-ux/leader-ui.md predictive analysis section (lines 247-260)
 

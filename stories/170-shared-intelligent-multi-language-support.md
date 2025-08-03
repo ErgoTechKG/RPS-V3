@@ -74,6 +74,11 @@ Medium
 - Seamless language switching without interface disruption
 - Consistent typography and layout across different languages
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Supported Languages (Initial)
 - **Primary**: Chinese (Simplified and Traditional)
 - **Secondary**: English

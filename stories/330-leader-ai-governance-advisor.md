@@ -73,5 +73,10 @@ As a leader, I want an AI governance advisor so that I can receive intelligent r
 - Story 092: Leader AI Policy Recommendation Engine
 - Story 143: Leader Comprehensive Governance Cockpit
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Route
 `/leader/governance/ai-advisor`

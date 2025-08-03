@@ -78,6 +78,11 @@ As a Student, I need a social learning platform that facilitates peer collaborat
 - Story 075: Student Study Group Platform
 - Story 127: Shared Real-Time Collaboration Workspace
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Priority
 Medium
 

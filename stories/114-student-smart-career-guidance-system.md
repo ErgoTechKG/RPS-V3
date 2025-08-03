@@ -55,6 +55,11 @@ As a **Student**, I want to access a smart career guidance system that analyzes 
 - Support external career services integration
 - Ensure privacy controls for career information
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Dependencies
 - Story 015: Student Achievements Showcase
 - Story 063: Student Personal Growth Portfolio System

@@ -54,6 +54,11 @@ As a professor, I want an intelligent course preview system that allows me to cr
 - Story 049: Shared Document Management System
 - Story 047: Advanced Analytics and Reporting
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Priority
 Medium
 

@@ -134,6 +134,11 @@ As a student, I want structured communication templates for different types of i
 - Story 036: Student Inquiry and Support
 - Story 370: Shared Contextual Smart Help System
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Definition of Done
 - [ ] Template library is comprehensive and well-organized
 - [ ] Guided communication builder works smoothly

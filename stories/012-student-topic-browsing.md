@@ -1,6 +1,6 @@
 # User Story 012: Student Topic Browsing and Discovery
 
-**Status:** finished
+**Status:** unfinished
 
 ## Story
 **As a** Student  
@@ -77,3 +77,7 @@ High
 - Professor profile integration
 - Mobile-responsive design
 - Intuitive navigation and search
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented

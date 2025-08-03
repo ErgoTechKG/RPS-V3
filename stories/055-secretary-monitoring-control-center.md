@@ -86,3 +86,7 @@ Medium
 - Intuitive navigation with quick access to details
 - Responsive design for various screen sizes
 - Accessibility features for extended monitoring sessions
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented

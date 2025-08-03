@@ -23,3 +23,7 @@ As a Professor, I want a visual version control system for my teaching resources
 - Create efficient storage for version history
 - Design intuitive UI for version comparison
 - Ensure performance with large version histories
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented

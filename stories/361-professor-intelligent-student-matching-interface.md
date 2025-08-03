@@ -132,6 +132,11 @@ As a Professor, I need an intelligent student matching interface with adjustable
 - Redis for caching calculations
 - D3.js for visualizations
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## UI/UX Considerations
 - Drag-and-drop weight adjustment
 - Color-coded match quality

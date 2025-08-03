@@ -78,6 +78,11 @@ As a Leader, I need a comprehensive governance cockpit that provides unified ove
 - Story 072: Leader Decision Support System
 - Story 047: Advanced Analytics and Reporting
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Priority
 High
 

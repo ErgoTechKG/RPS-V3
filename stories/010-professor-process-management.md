@@ -1,6 +1,6 @@
 # User Story 010: Professor Process Management During Lab Rotation
 
-**Status:** finished
+**Status:** unfinished
 
 ## Story
 **As a** Professor  
@@ -74,3 +74,7 @@ High
 - Quick response templates
 - File upload and sharing interface
 - Student progress dashboard with metrics
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented

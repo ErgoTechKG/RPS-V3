@@ -87,5 +87,10 @@ Medium
 - Story 004: Notification System
 - Story 005: Shared Calendar System
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Notes
 This story provides detailed interview booking functionality that goes beyond basic application submission to include sophisticated scheduling and format management as shown in the UI designs.

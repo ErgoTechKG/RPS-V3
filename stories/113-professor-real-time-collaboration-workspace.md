@@ -55,6 +55,11 @@ As a **Professor**, I want to access a real-time collaboration workspace that en
 - Support offline mode with sync when reconnected
 - Ensure scalability for large collaborative sessions
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Dependencies
 - Story 010: Professor Process Management
 - Story 073: Shared Video Conferencing Platform

@@ -124,6 +124,11 @@ As a Secretary, I need a mission-critical monitoring center with real-time syste
 - WebSocket for live updates
 - Redundant monitoring infrastructure
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## UI/UX Considerations
 - Customizable dashboard layouts
 - Drag-and-drop widget arrangement

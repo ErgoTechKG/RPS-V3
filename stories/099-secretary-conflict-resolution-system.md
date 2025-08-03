@@ -99,6 +99,11 @@ Academic operations involve complex interactions between schedules, resources, p
 - Story 005: Shared Calendar System (for scheduling integration)
 - Story 004: Notification System (for stakeholder alerts)
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Definition of Done
 - [ ] Conflict detection system accurately identifies various types of conflicts
 - [ ] Resolution workflows guide users through efficient problem-solving processes

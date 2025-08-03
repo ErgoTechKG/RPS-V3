@@ -129,6 +129,11 @@ As a Student, I need an interactive visual timeline that displays my learning jo
 - Progressive web app capabilities
 - Local storage for offline access
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## UI/UX Considerations
 - Intuitive gesture controls
 - Clear visual hierarchy

@@ -55,6 +55,11 @@ As a **User of any role**, I want to access an intelligent notification system t
 - Support real-time and batch notification processing
 - Ensure scalability for high-volume notification delivery
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Dependencies
 - Story 004: Notification System
 - Story 001: User Authentication

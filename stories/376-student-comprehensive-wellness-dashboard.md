@@ -84,6 +84,11 @@ As a Student, I want access to a comprehensive wellness dashboard that monitors 
 - Campus mental health services integration
 - Wellness data analytics infrastructure
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Definition of Done
 - [ ] Wellness monitoring dashboard implemented with stress indicators
 - [ ] Learning performance analytics system functional

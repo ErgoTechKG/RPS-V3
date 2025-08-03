@@ -130,6 +130,11 @@ As a leader, I want a strategic policy impact simulation tool that allows me to 
 - Story 213: Leader AI Policy Impact Assessment
 - Story 243: Leader Predictive Analytics Trend System
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Definition of Done
 - [ ] Simulation engine produces accurate and reliable results
 - [ ] Policy parameter configuration is comprehensive

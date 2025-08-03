@@ -27,3 +27,7 @@ High
 - Conflict detection algorithms
 - Export functionality with multiple formats
 - Mobile touch gesture support
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented

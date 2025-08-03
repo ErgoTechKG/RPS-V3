@@ -116,6 +116,11 @@ As a secretary (科研秘书), I want a visual workflow designer with drag-and-d
 - 043 (Secretary User Management)
 - 082 (Secretary Advanced Workflow Automation)
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Estimated Effort
 Extra Large (15-20 story points)
 

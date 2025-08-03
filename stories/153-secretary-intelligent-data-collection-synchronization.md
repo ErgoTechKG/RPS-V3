@@ -168,6 +168,11 @@ Secretary
 
 ## Dependencies
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ### Required Stories (Must be completed first)
 - Story 001: User Authentication (access control for data operations)
 - Story 002: Role-Based Dashboards (display collected data)

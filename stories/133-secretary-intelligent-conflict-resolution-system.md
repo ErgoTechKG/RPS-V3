@@ -130,6 +130,11 @@ ResolutionOption {
 - Story 005: Shared Calendar System (for scheduling data)
 - Story 004: Notification System (for stakeholder communication)
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Priority
 High - Critical for preventing operational disruptions and maintaining system efficiency
 

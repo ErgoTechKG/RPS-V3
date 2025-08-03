@@ -35,6 +35,11 @@ High - Critical for effective assignment management and student support
 - Story 228: Professor intelligent submission reminder system
 - Story 036: Professor AI homework detection
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Mockups
 - Real-time submission counter with progress bars
 - Student list with submission status indicators

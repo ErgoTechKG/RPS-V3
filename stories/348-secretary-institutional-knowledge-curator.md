@@ -35,6 +35,11 @@ Medium
 - Integration with collaboration platforms
 - Version control and knowledge evolution tracking
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Route
 - `/secretary/knowledge-curator/dashboard`
 - `/secretary/knowledge-curator/extraction`

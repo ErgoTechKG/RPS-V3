@@ -48,6 +48,11 @@ As a Leader, I need an interactive policy impact simulation tool that allows me 
 - Story 080: Leader Predictive Analytics System
 - Story 139: Leader Impact Assessment System
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Priority
 High
 

@@ -66,5 +66,10 @@ As a secretary, I want an intelligent conflict mediation system so that I can au
 - Story 065: Secretary Conflict Resolution System
 - Story 133: Secretary Intelligent Conflict Resolution System
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Route
 `/secretary/mediation/intelligent-conflict`

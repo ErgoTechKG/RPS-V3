@@ -95,6 +95,11 @@ High
 - 004-notification-system
 - 005-shared-calendar-system
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Technical Requirements
 - WebRTC implementation for real-time communication
 - Scalable media server infrastructure (SFU/MCU architecture)

@@ -24,3 +24,7 @@ As a Secretary, I want to use blockchain technology to issue and verify academic
 - Design efficient storage for credential metadata
 - Ensure GDPR compliance for personal data
 - Build redundant verification infrastructure
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented

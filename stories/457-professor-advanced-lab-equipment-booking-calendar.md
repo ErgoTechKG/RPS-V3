@@ -48,6 +48,11 @@ As a Professor, I want a sophisticated equipment booking system with calendar in
 - Mobile-responsive design
 - iCal/Google Calendar integration
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Dependencies
 - Story 074: Professor Laboratory Resource Management
 - Story 081: Professor Laboratory Equipment Management

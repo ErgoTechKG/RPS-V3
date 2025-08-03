@@ -23,3 +23,7 @@ As a Professor, I want a real-time submission tracking dashboard that shows live
 - Create efficient data aggregation for large student groups
 - Design performance-optimized dashboard rendering
 - Ensure scalability during peak submission periods
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented

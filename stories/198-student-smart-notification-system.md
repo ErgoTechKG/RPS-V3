@@ -101,6 +101,11 @@ As a student, I need an intelligent notification system that filters, prioritize
 - Story 005: Shared Calendar System
 - Story 039: Student-Professor Communication
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Definition of Done
 
 - [ ] Students receive intelligently filtered and prioritized notifications

@@ -35,6 +35,11 @@ Medium - Enables process automation without technical expertise
 - Story 100: Secretary advanced workflow automation
 - Story 210: Secretary automated workflow orchestration
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Mockups
 - Visual workflow design canvas
 - Component library panel

@@ -58,6 +58,6 @@ Medium
 - Mobile-responsive design
 
 ## Status
-**Status:** TODO  
+**Status:** unfinished  
 **Implementation Date:** TBD  
 **Notes:** This story provides comprehensive resource management capabilities for professors to organize and share teaching materials efficiently.

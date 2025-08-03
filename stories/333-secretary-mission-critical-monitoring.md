@@ -109,6 +109,11 @@ As a secretary (科研秘书), I want a mission-critical monitoring control cent
 - 041 (Secretary AI Insights)
 - 055 (Secretary Monitoring Control Center)
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Estimated Effort
 Large (10-15 story points)
 

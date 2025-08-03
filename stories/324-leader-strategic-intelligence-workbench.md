@@ -59,5 +59,10 @@ As a leader, I want a comprehensive strategic intelligence workbench so that I c
 - Story 042: Leader AI Report Generation
 - Story 072: Leader Decision Support System
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Route
 `/leader/intelligence/workbench`

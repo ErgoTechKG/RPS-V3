@@ -43,6 +43,11 @@ As a professor, I want a comprehensive mentoring interface with student progress
 - Privacy-compliant student data handling
 - Mobile notifications for urgent alerts
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## User Impact
 HIGH - Enhances student support and improves academic outcomes
 

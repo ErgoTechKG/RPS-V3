@@ -47,6 +47,11 @@ As a Professor, I need a visual Kanban-style board for managing student selectio
 - Story 037: Professor AI Student Matching
 - Story 090: Student Interview Booking System
 
+
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 ## Priority
 High
 

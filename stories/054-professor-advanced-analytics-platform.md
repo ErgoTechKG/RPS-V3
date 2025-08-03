@@ -85,3 +85,7 @@ Medium
 - Clear data hierarchy and navigation
 - Mobile-responsive design for on-the-go access
 - Customizable layout with personal preferences
+## Status
+**Status:** unfinished  
+**Implementation Date:** TBD  
+**Notes:** To be implemented
