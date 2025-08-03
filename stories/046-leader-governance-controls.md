@@ -1,5 +1,10 @@
 # User Story 046: Leader Governance and Policy Management
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Story
 **As a** Leader  
 **I want** to manage institutional governance, policies, and quality assurance  
@@ -85,7 +90,3 @@ Medium
 - Compliance monitoring and audit management tools
 - Strategic oversight and decision support interface
 - Reporting and communication management capabilities
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

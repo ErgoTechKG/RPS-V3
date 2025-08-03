@@ -1,5 +1,10 @@
 # User Story 042: Leader AI-Powered Report Generation System
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Story
 **As a** Leader  
 **I want** to use AI to automatically generate comprehensive reports and analysis  
@@ -86,7 +91,3 @@ Medium
 - Analytics dashboard with insight visualization
 - Distribution and sharing management interface
 - Strategic planning and decision support tools
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

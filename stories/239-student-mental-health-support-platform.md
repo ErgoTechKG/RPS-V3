@@ -1,5 +1,10 @@
 # Story 239: Student Mental Health Support Platform
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Story Description
 As a student, I need access to a comprehensive mental health support platform that provides resources, self-assessment tools, peer support networks, and professional counseling connections to help me maintain psychological well-being throughout my academic journey.
 
@@ -52,11 +57,6 @@ As a student, I need access to a comprehensive mental health support platform th
 - Story 028: Student Progress Tracking
 - Story 064: Student Peer Collaboration Platform
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Mockup References
 - Student UI Design: Wellness features
 - Mental health app patterns

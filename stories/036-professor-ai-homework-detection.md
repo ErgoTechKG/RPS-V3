@@ -1,5 +1,10 @@
 # User Story 036: Professor AI Homework Detection and Analysis
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Story
 **As a** Professor  
 **I want** to use AI tools to detect potential plagiarism and assess homework quality  
@@ -84,7 +89,3 @@ Medium
 - Integration with grading workflow
 - Report generation and export functionality
 - Configuration interface for detection parameters
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

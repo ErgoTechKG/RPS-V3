@@ -5,8 +5,12 @@ references:
   - ui-ux/professor-ui.md: lines 196-205 (time setting interface)
   - DESIGN.md: lines 240-260 (professor process management)
 ---
-
 # Story 089: Professor Course Timeline Management
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Story Description
 As a Professor, I want to have a comprehensive timeline management system for my courses so that I can set up phases, deadlines, and milestones with visual planning tools and template management.
@@ -83,10 +87,5 @@ Medium
 - Story 005: Shared Calendar System
 - Story 016: Secretary Course Setup and Configuration
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Notes
 This story enhances the basic course management with sophisticated timeline planning tools that match the detailed UI designs for timeline configuration interfaces.

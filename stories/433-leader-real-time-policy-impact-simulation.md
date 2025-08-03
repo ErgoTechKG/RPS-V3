@@ -1,7 +1,11 @@
 # Story 433: Leader Real-Time Policy Impact Simulation
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ---
-status: TODO
 source_lines: 477-624
 references:
   - leader-ui.md: lines 477-624
@@ -54,11 +58,6 @@ The UI design specifications (leader-ui.md lines 477-624) describe an advanced p
 
 ## Technical Notes
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ### Architecture
 - High-performance simulation engine with parallel processing
 - Machine learning models for predictive impact analysis

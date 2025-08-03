@@ -5,8 +5,12 @@ references:
   - ui-ux/student-ui.md: lines 614-658
   - ui-ux/student-ui.md: lines 866-894
 ---
-
 # Story 087: Student Adaptive Learning Pathways
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## User Story
 As a **student**, I want an adaptive learning pathway system that personalizes my educational journey based on my progress, interests, and learning style so that I can overcome my weak research foundation and achieve optimal learning outcomes.
@@ -77,11 +81,6 @@ The student UI design includes sophisticated AI learning assistance and personal
 - Story 028: Student Progress Tracking (for progress data)
 - Story 083: Student Peer Learning Network (for collaborative features)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Mockups/Wireframes
 Reference: ui-ux/student-ui.md AI learning assistant and personalized recommendations
 

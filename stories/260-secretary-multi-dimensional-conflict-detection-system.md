@@ -1,5 +1,10 @@
 # Story 260: Secretary Multi-dimensional Conflict Detection System
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Overview
 As a secretary, I need an AI-powered system that detects potential conflicts across multiple dimensions including scheduling, resources, personnel workload, and policy compliance, allowing me to prevent operational issues before they occur.
 
@@ -35,11 +40,6 @@ High - Critical for preventing operational disruptions
 - Story 099: Secretary conflict resolution system
 - Story 215: Secretary predictive conflict detection
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Mockups
 - Multi-dimensional conflict matrix visualization
 - Conflict alert dashboard with severity indicators

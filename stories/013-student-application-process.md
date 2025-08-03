@@ -1,5 +1,10 @@
 # User Story 013: Student Application Process for Lab Rotation
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 **Status:** unfinished
 
 ## Story
@@ -81,7 +86,3 @@ High
 - Preference ranking with visual feedback
 - Mobile-friendly file upload
 - Clean interview booking calendar
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

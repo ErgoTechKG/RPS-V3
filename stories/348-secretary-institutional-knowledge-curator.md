@@ -1,5 +1,10 @@
 # Story 348: Secretary Institutional Knowledge Curator
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Description
 As a secretary, I want an intelligent knowledge curation system that captures, organizes, and makes institutional knowledge accessible across the organization, so that I can preserve expertise, facilitate knowledge transfer, and support continuous organizational learning.
 
@@ -35,11 +40,6 @@ Medium
 - Integration with collaboration platforms
 - Version control and knowledge evolution tracking
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Route
 - `/secretary/knowledge-curator/dashboard`
 - `/secretary/knowledge-curator/extraction`

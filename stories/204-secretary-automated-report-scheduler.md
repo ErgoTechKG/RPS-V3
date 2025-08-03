@@ -4,8 +4,12 @@ source_lines: UI analysis
 references:
   - secretary-ui.md: lines 355-366, 828-853
 ---
-
 # Story 204: Secretary Automated Report Scheduler
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Overview
 
@@ -101,11 +105,6 @@ As a secretary, I need an automated report scheduling system that allows me to s
 - Story 076: Secretary Report Builder Platform
 - Story 004: Notification System
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Definition of Done
 
 - [ ] Secretaries can create and schedule automated recurring reports

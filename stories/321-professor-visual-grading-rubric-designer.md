@@ -4,8 +4,12 @@ source_lines: professor-ui.md:421-430
 references:
   - professor-ui.md: lines 421-430 (scoring interface with evaluation dimensions)
 ---
-
 # Story 321: Professor Visual Grading Rubric Designer
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a professor, I want a visual drag-and-drop grading rubric designer so that I can create custom evaluation criteria with weighted components and automated scoring calculations for different assessment types.
@@ -51,10 +55,5 @@ As a professor, I want a visual drag-and-drop grading rubric designer so that I 
 - Story 024: Professor Evaluation Interface  
 - Story 085: Professor Intelligent Grading Assistant
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Route
 `/professor/grading/rubric-designer`

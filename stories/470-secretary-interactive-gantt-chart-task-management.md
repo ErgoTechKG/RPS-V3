@@ -1,5 +1,10 @@
 # Story 470: Secretary Interactive Gantt Chart Task Management
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Description
 As a Secretary, I need an interactive Gantt chart interface for managing complex project timelines where I can visualize task dependencies, adjust durations through drag-and-drop, identify critical paths, and coordinate multiple concurrent activities across different courses and departments.
 
@@ -52,11 +57,6 @@ As a Secretary, I need an interactive Gantt chart interface for managing complex
 - Story 082: Secretary Advanced Workflow Automation
 - Story 130: Secretary Comprehensive Workflow Intelligence Center
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Priority
 High
 

@@ -1,5 +1,10 @@
 # User Story 018: Secretary Process Monitoring for Lab Rotation
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 **Status:** unfinished
 
 ## Story
@@ -89,7 +94,3 @@ High
 - Filtering and drill-down capabilities
 - Mobile-friendly monitoring views
 - Export and reporting functionality
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

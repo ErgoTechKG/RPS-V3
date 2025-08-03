@@ -5,8 +5,12 @@ references:
   - shared-ui.md: lines 191-218, 320-350
   - DESIGN.md: lines 191-218
 ---
-
 # Story 405: Shared Intelligent Content Curation System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 
@@ -94,11 +98,6 @@ POST /api/content/feedback
 - Story 155: Shared Intelligent Content Discovery and Search Platform
 - Story 191: Shared Advanced Knowledge Management System
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Definition of Done
 - [ ] AI-powered content recommendation engine implemented and tested
 - [ ] Semantic search capabilities functional with high accuracy

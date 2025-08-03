@@ -6,8 +6,12 @@ references:
   - ui-ux/professor-ui.md: lines 280-320 (过程管理)
   - ui-ux/shared-ui.md: lines 208-218 (日程管理)
 ---
-
 # Story 172: Professor Interactive Lab Equipment Booking System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 **As a** 教授 (Professor)  
 **I want** an interactive laboratory equipment booking and resource management system  
@@ -52,11 +56,6 @@ references:
 
 ## Technical Notes
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ### Frontend Requirements
 - Interactive calendar component with drag-and-drop functionality
 - Equipment catalog with search and filtering

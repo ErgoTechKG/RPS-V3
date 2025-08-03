@@ -1,5 +1,10 @@
 # User Story 034: Leader Fairness Monitoring for Comprehensive Evaluation
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Story
 **As a** Leader  
 **I want** to monitor evaluation fairness and detect potential biases  
@@ -86,7 +91,3 @@ High
 - Equity monitoring and demographic analysis tools
 - Quality assurance reporting and metrics
 - Alert systems for fairness concerns and issues
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

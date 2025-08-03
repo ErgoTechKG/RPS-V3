@@ -4,8 +4,12 @@ source_lines: UI analysis
 references:
   - professor-ui.md: lines 294-298
 ---
-
 # Story 196: Professor Milestone Review System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Overview
 
@@ -101,11 +105,6 @@ As a professor, I need a comprehensive milestone review system that allows me to
 - Story 004: Notification System
 - Story 019: Secretary Data Collection
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Definition of Done
 
 - [ ] Professors can view and manage all milestone submissions

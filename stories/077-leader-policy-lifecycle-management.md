@@ -5,8 +5,12 @@ references:
   - DESIGN.md: leader routes
   - 000-story-index.md: governance features
 ---
-
 # User Story 077: Leader Policy Lifecycle Management
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Story
 **As a** Leader  
@@ -95,11 +99,6 @@ High
 - 043-secretary-user-management
 - 044-secretary-system-backup
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Technical Requirements
 - Workflow engine with configurable business process management
 - Document management system with version control and collaboration

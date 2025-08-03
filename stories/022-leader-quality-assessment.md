@@ -1,5 +1,10 @@
 # User Story 022: Leader Quality Assessment for Lab Rotation
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 **Status**: finished
 
 ## Story
@@ -88,7 +93,3 @@ High
 - Outcome tracking and goal achievement displays
 - Feedback analysis and sentiment tracking
 - Strategic planning and improvement recommendation interface
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

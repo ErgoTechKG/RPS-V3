@@ -1,5 +1,10 @@
 # Story 452: API Gateway and External Integration Management
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Description
 As a System Administrator, I need a centralized API gateway for managing external integrations and webhook management for third-party services to ensure secure and efficient integration with external systems.
 
@@ -36,11 +41,6 @@ As a System Administrator, I need a centralized API gateway for managing externa
 - Authentication infrastructure
 - Monitoring systems
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Roles Affected
 - System Administrators (primary)
 - Developers (API consumers)

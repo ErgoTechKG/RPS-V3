@@ -1,5 +1,10 @@
 # Story 426: Student Biometric Wellness Optimization Platform
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Description
 As a Student, I want a biometric wellness optimization platform that monitors my health indicators, suggests personalized wellness interventions, and helps me maintain optimal performance throughout my academic journey.
 
@@ -22,11 +27,6 @@ As a Student, I want a biometric wellness optimization platform that monitors my
 - HIPAA-compliant data storage
 - Mobile-first responsive design
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Dependencies
 - Story 162: Student Digital Wellness Companion
 - Story 307: Student Biometric Wellness Monitor

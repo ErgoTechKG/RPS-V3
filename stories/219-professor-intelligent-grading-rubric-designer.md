@@ -1,7 +1,11 @@
 # Story 219: Professor Intelligent Grading Rubric Designer
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ---
-status: TODO
 source_lines: professor-ui.md: lines 306-331
 references:
   - professor-ui.md: lines 306-331 (成果评估界面)
@@ -68,10 +72,5 @@ As a professor, I want to access an intelligent grading rubric designer so that 
 - Story 085: Professor Intelligent Grading Assistant
 - Story 010: Professor Process Management
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Wireframe Notes
 The interface should feature an intuitive rubric builder with visual components, AI suggestion panels, real-time scoring previews, and seamless integration with the grading workflow as outlined in the professor UI specifications.

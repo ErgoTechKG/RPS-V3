@@ -1,5 +1,10 @@
 # Story 241: Leader Digital Transformation Roadmap Platform
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Story Description
 As a leader, I need a comprehensive digital transformation roadmap platform that helps me plan, execute, and monitor our institution's digital evolution, aligning technology initiatives with strategic goals while managing change effectively across all stakeholders.
 
@@ -52,11 +57,6 @@ As a leader, I need a comprehensive digital transformation roadmap platform that
 - Story 046: Leader Governance Controls
 - Story 116: Leader Strategic Scenario Planning System
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Mockup References
 - Leader UI Design: Strategic planning section
 - Digital transformation frameworks

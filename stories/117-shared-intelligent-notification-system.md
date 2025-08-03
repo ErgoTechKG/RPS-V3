@@ -5,8 +5,12 @@ references:
   - DESIGN.md: lines 201-227
   - ui-ux/shared-ui.md: lines 254-273
 ---
-
 # Story 117: Shared Intelligent Notification System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a **User of any role**, I want to access an intelligent notification system that learns from my behavior and preferences to deliver relevant, timely, and contextually appropriate notifications, so that I can stay informed about important matters without being overwhelmed by information overload.
@@ -55,11 +59,6 @@ As a **User of any role**, I want to access an intelligent notification system t
 - Support real-time and batch notification processing
 - Ensure scalability for high-volume notification delivery
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Dependencies
 - Story 004: Notification System
 - Story 001: User Authentication

@@ -1,7 +1,11 @@
 # Story 153: Secretary Intelligent Data Collection and Synchronization
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ---
-status: TODO
 source_lines: secretary-ui.md:321-366
 references:
   - secretary-ui.md: lines 321-366, 738-767 (Data Collection and Statistical Analysis)
@@ -168,11 +172,6 @@ Secretary
 
 ## Dependencies
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ### Required Stories (Must be completed first)
 - Story 001: User Authentication (access control for data operations)
 - Story 002: Role-Based Dashboards (display collected data)

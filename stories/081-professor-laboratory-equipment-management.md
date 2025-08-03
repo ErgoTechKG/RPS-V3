@@ -5,8 +5,12 @@ references:
   - ui-ux/professor-ui.md: lines 74-82
   - DESIGN.md: lines 79-83
 ---
-
 # Story 081: Professor Laboratory Equipment Management
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## User Story
 As a **professor**, I want to manage laboratory equipment, booking, and resource allocation so that I can ensure students have access to necessary equipment for their research projects.
@@ -77,11 +81,6 @@ The professor UI design includes resource management capabilities that extend be
 - Story 010: Professor Process Management (for course coordination)
 - Story 049: Shared Document Management System (for manuals and protocols)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Mockups/Wireframes
 Reference: ui-ux/professor-ui.md resource management section (lines 79-83)
 

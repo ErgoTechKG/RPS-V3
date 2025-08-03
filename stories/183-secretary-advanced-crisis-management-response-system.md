@@ -1,5 +1,10 @@
 # Story 183: Secretary Advanced Crisis Management and Response System
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Role
 Secretary
 
@@ -43,11 +48,6 @@ As a secretary, I want a comprehensive crisis management system with emergency p
 - Offline capability for critical functions
 - Compliance with emergency protocols
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## User Impact
 CRITICAL - Ensures effective crisis response and stakeholder safety
 

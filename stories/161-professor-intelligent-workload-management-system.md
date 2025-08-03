@@ -5,8 +5,12 @@ references:
   - professor-ui.md: lines 590-650 (数据分析与统计)
   - professor-ui.md: lines 759-771 (总结)
 ---
-
 # Story 161: Professor Intelligent Workload Management System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Story Statement
 As a **Professor**, I want to **have an intelligent workload management system that optimizes my time allocation and prevents overcommitment**, so that **I can maintain work-life balance while maximizing my effectiveness in teaching, research, and service activities**.
@@ -84,11 +88,6 @@ As a **Professor**, I want to **have an intelligent workload management system t
 - Story 036: Professor AI Homework Detection (AI capabilities)
 - Story 047: Advanced Analytics and Reporting (analytics infrastructure)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Success Metrics
 - **Work-Life Balance**: 25% improvement in self-reported work-life balance scores
 - **Productivity**: 20% increase in time spent on high-value activities

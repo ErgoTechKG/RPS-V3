@@ -1,5 +1,10 @@
 # Story 341: Professor AI Homework Authenticity Verifier
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Description
 As a professor, I want an advanced AI system to verify homework authenticity and detect AI-generated content, so that I can ensure academic integrity and provide appropriate feedback on genuine student work.
 
@@ -35,11 +40,6 @@ High
 - Real-time processing optimization
 - Privacy-compliant analysis methods
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Route
 - `/professor/courses/lab-rotation/:courseId/assessment/ai-verification`
 - `/professor/courses/lab-rotation/:courseId/assessment/authenticity-reports`

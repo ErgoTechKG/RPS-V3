@@ -1,5 +1,10 @@
 # Story 265: Secretary Visual Workflow Designer and Automation Tool
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Overview
 As a secretary, I need a visual drag-and-drop workflow designer that allows me to create custom automated processes without technical knowledge, streamlining repetitive tasks and improving operational efficiency.
 
@@ -35,11 +40,6 @@ Medium - Enables process automation without technical expertise
 - Story 100: Secretary advanced workflow automation
 - Story 210: Secretary automated workflow orchestration
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Mockups
 - Visual workflow design canvas
 - Component library panel

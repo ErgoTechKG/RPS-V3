@@ -4,8 +4,12 @@ source_lines: secretary-ui.md: 380-401, 133-162, 255
 references:
   - secretary-ui.md: lines 380-401 (venue booking), 133-162 (resource management), 255 (conflict resolution)
 ---
-
 # Story 308: Secretary Quantum Scheduling Optimizer
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a **Secretary**, I want a quantum-powered scheduling optimization system that can solve complex multi-dimensional scheduling problems involving thousands of constraints simultaneously, so that I can achieve optimal resource allocation and conflict-free scheduling across the entire institution.
@@ -61,11 +65,6 @@ As a **Secretary**, I want a quantum-powered scheduling optimization system that
 - Resource management and booking systems
 - Real-time data integration capabilities
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Priority
 Low - Advanced future technology enhancement
 

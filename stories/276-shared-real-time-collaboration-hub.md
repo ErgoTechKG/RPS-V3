@@ -1,5 +1,10 @@
 # Story 276: Shared Real-Time Collaboration Hub
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Description
 As any user, I want a comprehensive real-time collaboration platform that enables seamless teamwork across roles with document co-editing, screen sharing, and integrated communication tools.
 
@@ -24,7 +29,3 @@ As any user, I want a comprehensive real-time collaboration platform that enable
 - Design scalable presence management system
 - Ensure low-latency collaboration experience
 - Build robust offline synchronization
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

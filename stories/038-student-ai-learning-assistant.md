@@ -1,5 +1,10 @@
 # User Story 038: Student AI Learning Assistant and Guidance System
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Story
 **As a** Student  
 **I want** to access an AI-powered learning assistant  
@@ -85,7 +90,3 @@ Medium
 - Progress tracking and analytics displays
 - Mobile-friendly AI assistant access
 - Integrated help and support throughout the system
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

@@ -5,8 +5,12 @@ references:
   - leader-ui.md: lines 255-260 (risk assessment section)
   - leader-ui.md: lines 255-259 (risk monitoring)
 ---
-
 # Story 245: Leader Multi-dimensional Risk Assessment System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a leader, I want a comprehensive multi-dimensional risk assessment system that evaluates institutional risks across multiple categories and provides predictive risk modeling so that I can proactively identify, assess, and mitigate potential threats to institutional objectives and operational continuity.
@@ -75,11 +79,6 @@ So that I can proactively identify and mitigate institutional risks before they 
 - Story 047: Advanced Analytics and Reporting
 - Story 080: Leader Predictive Analytics System
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Business Value
 - Reduces institutional risk exposure by 40-50%
 - Enables proactive vs. reactive risk management

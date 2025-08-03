@@ -4,8 +4,12 @@ source_lines: UI analysis
 references:
   - secretary-ui.md: lines 64-87, 583-594
 ---
-
 # Story 200: Secretary Real-Time Monitoring Dashboard
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Overview
 
@@ -101,11 +105,6 @@ As a secretary, I need a comprehensive real-time monitoring dashboard that provi
 - Story 004: Notification System
 - Story 043: Secretary User Management
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Definition of Done
 
 - [ ] Real-time monitoring dashboard with live data updates

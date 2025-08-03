@@ -5,8 +5,12 @@ references:
   - student-ui.md: lines 565-659, 615-658
   - DESIGN.md: lines 86-122
 ---
-
 # Story 334: Student AI Learning Companion with Personalized Guidance
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Title
 Student AI Learning Companion with Personalized Guidance and Knowledge Mapping
@@ -116,11 +120,6 @@ As a student, I want an AI learning companion that understands my learning progr
 - 070 (Student Learning Path Management)
 - 087 (Student Adaptive Learning Pathways)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Estimated Effort
 Extra Large (12-20 story points)
 

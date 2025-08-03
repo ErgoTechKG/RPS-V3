@@ -5,8 +5,12 @@ references:
   - leader-ui.md: lines 478-624
   - DESIGN.md: lines 194-198
 ---
-
 # User Story 053: Leader Governance and Policy Management System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Story
 **As a** Leader  
@@ -86,7 +90,3 @@ Medium
 - Batch operation capabilities with confirmation
 - Responsive design for various devices
 - Advanced filtering and search functionality
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

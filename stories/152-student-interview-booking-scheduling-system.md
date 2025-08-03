@@ -1,7 +1,11 @@
 # Story 152: Student Interview Booking and Scheduling System
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ---
-status: TODO
 source_lines: student-ui.md:230-237
 references:
   - student-ui.md: lines 230-237, 90-91 (Interview Booking System)
@@ -166,11 +170,6 @@ Student
 
 ## Dependencies
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ### Required Stories (Must be completed first)
 - Story 001: User Authentication (login and session management)
 - Story 005: Shared Calendar System (calendar infrastructure)

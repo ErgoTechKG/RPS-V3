@@ -5,8 +5,12 @@ references:
   - secretary-ui.md: lines 384-401 (venue booking conflict detection)
   - secretary-ui.md: lines 392-401 (schedule management and coordination)
 ---
-
 # Story 255: Secretary Automated Conflict Detection System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a secretary, I want an automated conflict detection system that identifies scheduling conflicts and resource availability issues before they occur so that I can proactively prevent problems, optimize resource utilization, and maintain smooth operational workflows across all institutional activities.
@@ -75,11 +79,6 @@ So that I can prevent problems before they occur and optimize institutional oper
 - Story 004: Notification System
 - Story 018: Secretary Process Monitoring
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Business Value
 - Reduces scheduling conflicts by 70-80%
 - Improves resource utilization efficiency

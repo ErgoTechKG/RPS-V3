@@ -1,5 +1,10 @@
 # Story 189: Leader Advanced Policy Development and Impact Assessment
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Role
 Leader
 
@@ -43,11 +48,6 @@ As a leader, I want a sophisticated policy development platform with impact mode
 - Integration with communication systems
 - Compliance tracking automation
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## User Impact
 HIGH - Ensures effective policy development and implementation
 

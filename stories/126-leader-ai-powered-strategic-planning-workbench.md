@@ -1,5 +1,10 @@
 # Story 126: Leader AI-Powered Strategic Planning Workbench
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Story Information
 - **Title**: Leader AI-Powered Strategic Planning Workbench
 - **Story ID**: 126
@@ -244,8 +249,3 @@ The leader UI design reveals sophisticated strategic planning needs that require
 - Consider implementing version control for strategic plans
 - May require specialized executive training for optimal utilization
 - Critical for institutional strategic planning and competitive advantage
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

@@ -5,8 +5,12 @@ references:
   - professor-ui.md: lines 300-304 (答疑互动界面)
   - DESIGN.md: lines 82 (资源管理/qa)
 ---
-
 # Story 136: Professor Q&A Knowledge Base System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 As a **Professor**, I want an intelligent Q&A knowledge base system so that I can efficiently manage student questions, provide consistent answers, and build a reusable knowledge repository for future students.
 
@@ -47,11 +51,6 @@ As a **Professor**, I want an intelligent Q&A knowledge base system so that I ca
 - Story 039: Student-Professor Communication
 - Story 049: Shared Document Management System
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Route Coverage
 - `/professor/resources/qa/knowledge-base`
 - `/professor/resources/qa/analytics`

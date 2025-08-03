@@ -1,5 +1,10 @@
 # Story 240: Secretary Intelligent Budget Management System
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Story Description
 As a secretary, I need an intelligent budget management system that automates budget tracking, forecasting, and allocation across departments and projects, providing real-time insights and alerts to ensure fiscal responsibility and optimal resource utilization.
 
@@ -52,11 +57,6 @@ As a secretary, I need an intelligent budget management system that automates bu
 - Story 184: Secretary Intelligent Resource Optimization Engine
 - Story 047: Advanced Analytics and Reporting
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Mockup References
 - Secretary UI Design: Financial management section
 - Budget tracking dashboards

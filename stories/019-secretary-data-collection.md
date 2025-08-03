@@ -1,5 +1,10 @@
 # User Story 019: Secretary Data Collection and Management
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 **Status:** unfinished
 
 ## Story
@@ -89,7 +94,3 @@ High
 - Data quality dashboard with metrics
 - Scheduling interface for automated tasks
 - Administrative data management tools
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

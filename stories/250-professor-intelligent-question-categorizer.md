@@ -5,8 +5,12 @@ references:
   - professor-ui.md: lines 300-304 (Q&A interaction section)
   - professor-ui.md: lines 301-304 (quick reply and template features)
 ---
-
 # Story 250: Professor Intelligent Question Categorizer
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a professor, I want an intelligent question categorization system that automatically sorts student questions and provides templated responses so that I can efficiently manage student inquiries, provide consistent answers, and reduce repetitive response time while maintaining personalized communication.
@@ -75,11 +79,6 @@ So that I can efficiently handle student inquiries and provide consistent, helpf
 - Story 010: Professor Process Management
 - Story 004: Notification System
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Business Value
 - Reduces response time for common questions by 60%
 - Improves consistency of information provided to students

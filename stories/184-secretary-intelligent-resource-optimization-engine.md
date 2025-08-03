@@ -1,5 +1,10 @@
 # Story 184: Secretary Intelligent Resource Optimization Engine
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Role
 Secretary
 
@@ -43,11 +48,6 @@ As a secretary, I want an AI-powered system for optimizing resource allocation, 
 - IoT integration for resource tracking
 - Cloud-based processing for scalability
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## User Impact
 HIGH - Maximizes resource efficiency and reduces operational costs
 

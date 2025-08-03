@@ -1,5 +1,10 @@
 # User Story 047: Advanced Analytics and Institutional Reporting
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Story
 **As a** Secretary/Leader  
 **I want** to access advanced analytics and generate comprehensive institutional reports  
@@ -85,7 +90,3 @@ Medium
 - Data visualization and chart building tools
 - Export and sharing management interface
 - Administrative analytics configuration and monitoring
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

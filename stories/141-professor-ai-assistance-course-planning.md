@@ -4,8 +4,12 @@ source_lines: 798-828
 references:
   - professor-ui.md: lines 798-828
 ---
-
 # Story 141: Professor AI-Assisted Course Planning System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a Professor, I need an AI-assisted course planning system that helps me design effective curriculum, optimize course structures, and generate intelligent recommendations for course improvements based on historical data and best practices.
@@ -62,11 +66,6 @@ As a Professor, I need an AI-assisted course planning system that helps me desig
 - Story 042: Leader AI Report Generation
 - Story 047: Advanced Analytics and Reporting
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Priority
 Medium
 

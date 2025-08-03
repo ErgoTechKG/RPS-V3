@@ -1,7 +1,11 @@
 # Story 440: Student Emotional Intelligence Learning Companion
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ---
-status: TODO
 source_lines: 565-659
 references:
   - student-ui.md: lines 565-659
@@ -54,11 +58,6 @@ The UI design specifications (student-ui.md lines 565-659) describe an advanced 
 
 ## Technical Notes
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ### Architecture
 - Natural language processing for emotional analysis
 - Machine learning models for behavioral pattern recognition

@@ -1,5 +1,10 @@
 # Story 425: Professor Automated Peer Review Orchestration
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Description
 As a Professor, I want an automated peer review orchestration system that intelligently assigns reviewers, manages the review process, and ensures quality feedback while maintaining anonymity and fairness.
 
@@ -22,11 +27,6 @@ As a Professor, I want an automated peer review orchestration system that intell
 - Analytics dashboard for review insights
 - Integration with academic databases
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Dependencies
 - Story 025: Professor Evaluation Standards
 - Story 136: Professor QA Knowledge Base System

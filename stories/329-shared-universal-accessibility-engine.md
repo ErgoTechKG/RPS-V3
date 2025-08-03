@@ -6,8 +6,12 @@ references:
   - professor-ui.md: lines 747-758 (interaction specifications)
   - student-ui.md: lines 896-904 (design system compliance)
 ---
-
 # Story 329: Shared Universal Accessibility Engine
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As any user with accessibility needs, I want a comprehensive universal accessibility engine so that I can customize the interface, use assistive technologies, and access all system functionality regardless of my physical or cognitive abilities.
@@ -74,10 +78,5 @@ As any user with accessibility needs, I want a comprehensive universal accessibi
 - Story 003: Shared Navigation System
 - Story 079: Shared Design System Management
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Route
 `/shared/accessibility` (affects all routes)

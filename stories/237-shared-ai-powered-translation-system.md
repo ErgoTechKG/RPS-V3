@@ -1,5 +1,10 @@
 # Story 237: Shared AI-Powered Real-Time Translation System
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Story Description
 As any user in the system, I need an AI-powered real-time translation system that automatically translates content, communications, and interfaces into multiple languages while preserving context, technical terminology, and cultural nuances, enabling seamless collaboration across language barriers.
 
@@ -52,11 +57,6 @@ As any user in the system, I need an AI-powered real-time translation system tha
 - Story 117: Shared Intelligent Notification System
 - Story 194: Shared Multi-Channel Communication Platform
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Mockup References
 - Shared UI Design: Communication interfaces
 - Translation workflow diagrams

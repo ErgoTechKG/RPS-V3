@@ -1,5 +1,10 @@
 # Story 267: Professor Visual Resource Version Control
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Description
 As a Professor, I want a visual version control system for my teaching resources so that I can track changes, compare versions, and restore previous versions of my materials with ease.
 
@@ -23,7 +28,3 @@ As a Professor, I want a visual version control system for my teaching resources
 - Create efficient storage for version history
 - Design intuitive UI for version comparison
 - Ensure performance with large version histories
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

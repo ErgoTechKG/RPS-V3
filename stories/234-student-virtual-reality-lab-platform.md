@@ -1,5 +1,10 @@
 # Story 234: Student Virtual Reality Lab Platform
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Story Description
 As a student, I need access to a virtual reality laboratory platform where I can conduct experiments, practice procedures, and explore complex concepts in a safe, immersive environment, enabling me to gain practical experience regardless of physical lab availability or location constraints.
 
@@ -52,11 +57,6 @@ As a student, I need access to a virtual reality laboratory platform where I can
 - Story 074: Professor Laboratory Resource Management
 - Story 083: Student Peer Learning Network
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Mockup References
 - Student UI Design: Learning process section
 - VR interface design patterns

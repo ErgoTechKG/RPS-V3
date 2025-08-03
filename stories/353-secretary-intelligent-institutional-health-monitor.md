@@ -5,8 +5,12 @@ references:
   - secretary-ui.md: lines 64-127, 737-768, 1112-1125
   - DESIGN.md: lines 124-168, 294-321
 ---
-
 # Story 353: Secretary Intelligent Institutional Health Monitor
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a secretary, I want an intelligent institutional health monitoring system that provides comprehensive real-time analytics and insights about the overall health and performance of the educational institution, so that I can proactively identify issues and support informed decision-making.
@@ -54,11 +58,6 @@ As a secretary, I want an intelligent institutional health monitoring system tha
 - Story 020: Leader Executive Overview
 - Story 047: Advanced Analytics and Reporting
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Priority
 High
 

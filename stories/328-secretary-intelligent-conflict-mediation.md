@@ -5,8 +5,12 @@ references:
   - secretary-ui.md: lines 309-320 (alerts and exception handling)
   - secretary-ui.md: lines 402-412 (issue handling system)
 ---
-
 # Story 328: Secretary Intelligent Conflict Mediation
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a secretary, I want an intelligent conflict mediation system so that I can automatically detect, analyze, and resolve scheduling conflicts, resource disputes, and interpersonal issues with AI-powered recommendations and escalation protocols.
@@ -66,10 +70,5 @@ As a secretary, I want an intelligent conflict mediation system so that I can au
 - Story 065: Secretary Conflict Resolution System
 - Story 133: Secretary Intelligent Conflict Resolution System
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Route
 `/secretary/mediation/intelligent-conflict`

@@ -5,8 +5,12 @@ references:
   - DESIGN.md: lines 584-632
   - ui-ux/shared-ui.md: lines 223-251, 275-295
 ---
-
 # Story 217: Shared Cross-Role Workflow Coordination System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Title
 Shared Cross-Role Workflow Coordination for Seamless Multi-Stakeholder Processes
@@ -99,11 +103,6 @@ Many institutional processes require coordination between multiple roles, such a
 - Story 005: Shared Calendar System (scheduling and timeline coordination)
 - Story 049: Shared Document Management System (collaboration infrastructure)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Risks and Considerations
 - Complexity of coordinating workflows across diverse role-specific systems and interfaces
 - User adoption challenges with introducing new cross-role collaboration paradigms

@@ -1,7 +1,11 @@
 # User Story 168: Secretary Dynamic Resource Allocation System
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ---
-status: TODO
 source_lines: secretary-ui.md lines 226-227 (venue booking system)
 references:
   - DESIGN.md: lines 316-320 (secretary coordination management)
@@ -75,11 +79,6 @@ Medium
 - Mobile-responsive design for on-the-go management
 - Drag-and-drop scheduling interface
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Analytics and Metrics
 - Resource utilization rates and efficiency scores
 - Booking conflict resolution success rates

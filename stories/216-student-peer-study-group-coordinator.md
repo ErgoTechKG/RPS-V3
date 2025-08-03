@@ -5,8 +5,12 @@ references:
   - DESIGN.md: lines 86-122
   - ui-ux/student-ui.md: lines 47-50, 614-647
 ---
-
 # Story 216: Student Peer Study Group Coordinator
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Title
 Student Peer Study Group Coordinator for Intelligent Collaborative Learning
@@ -99,11 +103,6 @@ Students benefit significantly from peer learning and study groups, but forming 
 - Story 064: Student Peer Collaboration Platform (basic collaboration)
 - Story 075: Student Study Group Platform (group platform foundation)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Risks and Considerations
 - Privacy concerns with sharing student performance and personal data for matching
 - Social dynamics challenges that may affect group cohesion and effectiveness

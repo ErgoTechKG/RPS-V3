@@ -5,8 +5,12 @@ references:
   - student-ui.md: lines 863-893, 315-351
   - DESIGN.md: lines 114-122
 ---
-
 # Story 119: Student Digital Learning Portfolio
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a **Student**, I want to maintain a comprehensive digital learning portfolio that tracks my academic progress, achievements, and personal growth so that I can reflect on my learning journey and showcase my development to professors and potential employers.
@@ -93,11 +97,6 @@ So that I can present my capabilities to professors and employers
 - Student Achievements Showcase (Story 015)
 - Student Personal Growth Portfolio (Story 063)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Acceptance Tests
 
 ### Portfolio Creation Test

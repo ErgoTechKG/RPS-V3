@@ -5,8 +5,12 @@ references:
   - leader-ui.md: lines 60-123, 230-296, 477-624
   - DESIGN.md: lines 170-199, 324-451
 ---
-
 # Story 354: Leader Comprehensive Strategic Intelligence Platform
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a leader, I want a comprehensive strategic intelligence platform that fuses data from multiple sources to provide advanced insights, scenario modeling, and strategic decision support, so that I can make informed decisions based on comprehensive institutional intelligence.
@@ -54,11 +58,6 @@ As a leader, I want a comprehensive strategic intelligence platform that fuses d
 - Story 047: Advanced Analytics and Reporting
 - Story 048: Integration with External Systems
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Priority
 High
 

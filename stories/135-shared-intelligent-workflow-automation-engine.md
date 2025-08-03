@@ -6,8 +6,12 @@ references:
   - secretary-ui.md: lines 820-825
   - DESIGN.md: lines 869-911
 ---
-
 # Story 135: Shared Intelligent Workflow Automation Engine
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Overview
 As a system user, I want an intelligent workflow automation engine that can learn from user patterns, automate repetitive tasks, and optimize process flows across all roles, so that I can focus on high-value activities while the system handles routine operations.
@@ -130,11 +134,6 @@ WorkflowStep {
 - Story 001: User Authentication (for role-based workflow execution)
 - Story 047: Advanced Analytics and Reporting (for workflow analytics)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Priority
 High - Essential for system efficiency and user productivity across all roles
 

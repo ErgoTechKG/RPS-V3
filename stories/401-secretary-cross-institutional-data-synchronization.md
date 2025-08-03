@@ -5,8 +5,12 @@ references:
   - secretary-ui.md: lines 304-310, 373-380
   - DESIGN.md: lines 304-310
 ---
-
 # Story 401: Secretary Cross-Institutional Data Synchronization
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 
@@ -94,11 +98,6 @@ POST /api/secretary/data-sync/quality/validate
 - Story 019: Secretary Data Collection
 - Story 153: Secretary Intelligent Data Collection and Synchronization
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Definition of Done
 - [ ] Cross-institutional data synchronization platform implemented
 - [ ] Integration with all major institutional systems completed

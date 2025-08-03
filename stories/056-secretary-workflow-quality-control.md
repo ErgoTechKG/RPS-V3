@@ -5,8 +5,12 @@ references:
   - secretary-ui.md: lines 632-735
   - DESIGN.md: lines 137-142
 ---
-
 # User Story 056: Secretary Advanced Workflow and Quality Control System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Story
 **As a** Secretary  
@@ -87,7 +91,3 @@ Medium
 - Multi-step approval processes with checkpoint confirmations
 - Responsive design for various administrative tasks
 - Advanced filtering and search capabilities for large datasets
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

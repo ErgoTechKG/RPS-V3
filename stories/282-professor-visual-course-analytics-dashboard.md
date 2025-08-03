@@ -1,5 +1,10 @@
 # User Story 282: Professor - Visual Course Analytics Dashboard
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Story
 As a Professor, I want a comprehensive visual analytics dashboard that displays multi-dimensional course data through interactive visualizations, so that I can gain deep insights into student progress and course effectiveness.
 
@@ -53,11 +58,6 @@ High
 - Student Performance Tracking System
 - Data Visualization Framework
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Notes
 - Ensure FERPA compliance for student data
 - Implement data sampling for large cohorts

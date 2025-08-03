@@ -5,8 +5,12 @@ references:
   - professor-ui.md: lines 39, 94
   - shared-ui.md: lines 182-198
 ---
-
 # User Story 094: Professor Batch Operation Tools
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Story Overview
 
@@ -85,11 +89,6 @@ Professors often need to perform similar operations across multiple students, su
 - Story 011: Professor Assessment and Grading (for grading context)
 - Story 004: Notification System (for batch communications)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Definition of Done
 - [ ] All batch operation interfaces are implemented and functional
 - [ ] Batch operations handle errors gracefully with detailed feedback

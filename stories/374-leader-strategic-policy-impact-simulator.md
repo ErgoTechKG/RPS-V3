@@ -5,8 +5,12 @@ references:
   - leader-ui.md: lines 523-534, 524-577
   - DESIGN.md: lines 142-158
 ---
-
 # Story 374: Leader Strategic Policy Impact Simulator
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a leader, I want a strategic policy impact simulation tool that allows me to model the effects of proposed educational policies before implementation, with scenario analysis, predictive outcomes, and risk assessment to support evidence-based decision making.
@@ -130,11 +134,6 @@ As a leader, I want a strategic policy impact simulation tool that allows me to 
 - Story 213: Leader AI Policy Impact Assessment
 - Story 243: Leader Predictive Analytics Trend System
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Definition of Done
 - [ ] Simulation engine produces accurate and reliable results
 - [ ] Policy parameter configuration is comprehensive

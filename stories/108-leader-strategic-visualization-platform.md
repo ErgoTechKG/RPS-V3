@@ -5,8 +5,12 @@ references:
   - DESIGN.md: lines 171-199
   - ui-ux/leader-ui.md: lines 60-123, 230-475
 ---
-
 # Story 108: Leader Strategic Visualization Platform
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a **Leader**, I want to access a comprehensive strategic visualization platform that provides high-level data insights and strategic decision support tools, so that I can make informed decisions based on real-time data and predictive analytics.
@@ -48,11 +52,6 @@ As a **Leader**, I want to access a comprehensive strategic visualization platfo
 - Implement responsive design for various devices
 - Ensure high performance for large datasets
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Dependencies
 - Story 001: User Authentication
 - Story 019: Secretary Data Collection

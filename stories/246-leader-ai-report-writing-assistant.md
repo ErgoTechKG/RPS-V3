@@ -5,8 +5,12 @@ references:
   - leader-ui.md: lines 274-294 (AI report generation system)
   - leader-ui.md: lines 287-294 (collaborative editing features)
 ---
-
 # Story 246: Leader AI Report Writing Assistant
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a leader, I want an AI-powered report writing assistant that can automatically generate comprehensive institutional reports with intelligent content suggestions and collaborative editing capabilities so that I can efficiently produce high-quality reports while maintaining human oversight and institutional voice.
@@ -75,11 +79,6 @@ So that I can efficiently generate comprehensive institutional reports while mai
 - Story 047: Advanced Analytics and Reporting
 - Story 127: Shared Real-Time Collaboration Workspace
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Business Value
 - Reduces report preparation time by 60-70%
 - Improves report quality and consistency

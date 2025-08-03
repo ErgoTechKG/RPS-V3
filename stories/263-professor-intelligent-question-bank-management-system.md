@@ -1,5 +1,10 @@
 # Story 263: Professor Intelligent Question Bank Management System
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Overview
 As a professor, I need an intelligent question bank system with AI-powered categorization, difficulty analysis, and automatic suggestions, allowing me to efficiently create consistent and balanced assessments.
 
@@ -35,11 +40,6 @@ Medium - Streamlines assessment creation and ensures quality
 - Story 197: Professor Q&A template system
 - Story 250: Professor intelligent question categorizer
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Mockups
 - Question bank dashboard with categories
 - Question creation/editing interface

@@ -1,7 +1,11 @@
 # User Story 061: Professor Task Priority Management System
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** This story enhances the existing task management with intelligent prioritization and customization features described in the professor UI design.
+
 ---
-status: TODO
 source_lines: N/A (derived from UI design analysis)
 references:
   - professor-ui.md: lines 44-48, 575-589
@@ -51,8 +55,3 @@ Medium
 - Visual progress indicators
 - Customizable dashboard widgets
 - Responsive design for different screen sizes
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** This story enhances the existing task management with intelligent prioritization and customization features described in the professor UI design.

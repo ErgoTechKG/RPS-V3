@@ -5,8 +5,12 @@ references:
   - DESIGN.md: lines 124-168
   - ui-ux/secretary-ui.md: lines 587-624, 1042-1100
 ---
-
 # Story 115: Secretary Automated Quality Assurance System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a **Secretary**, I want to access an automated quality assurance system that continuously monitors and validates all educational processes and data integrity, so that I can ensure consistent quality standards and quickly identify and address any issues that might impact student outcomes or institutional compliance.
@@ -55,11 +59,6 @@ As a **Secretary**, I want to access an automated quality assurance system that 
 - Support integration with external compliance systems
 - Ensure audit trail preservation and security
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Dependencies
 - Story 056: Secretary Workflow Quality Control
 - Story 044: Secretary System Backup

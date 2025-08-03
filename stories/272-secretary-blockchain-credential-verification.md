@@ -1,5 +1,10 @@
 # Story 272: Secretary Blockchain Credential Verification
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Description
 As a Secretary, I want to use blockchain technology to issue and verify academic credentials, ensuring tamper-proof certification and instant verification for students and employers.
 
@@ -24,7 +29,3 @@ As a Secretary, I want to use blockchain technology to issue and verify academic
 - Design efficient storage for credential metadata
 - Ensure GDPR compliance for personal data
 - Build redundant verification infrastructure
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

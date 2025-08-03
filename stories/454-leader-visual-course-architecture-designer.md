@@ -1,5 +1,10 @@
 # Story 454: Leader Visual Course Architecture Designer
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Role
 Leader
 
@@ -48,11 +53,6 @@ As a Leader, I want a visual course design system with drag-and-drop functionali
 - SVG/Canvas for high-performance rendering
 - Export to multiple formats (PDF, PNG, JSON)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Dependencies
 - Story 045: Leader Curriculum Design
 - Story 257: Leader Visual Course Architecture Designer

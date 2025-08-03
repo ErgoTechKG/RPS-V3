@@ -5,8 +5,12 @@ references:
   - secretary-ui.md: lines 740-768
   - shared-ui.md: lines 178-219
 ---
-
 # Story 377: Secretary Comprehensive Institutional Analytics Platform
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Overview
 As a Secretary, I want access to a comprehensive institutional analytics platform that provides deep insights into all operational aspects, predictive modeling, and automated reporting capabilities, so that I can support data-driven decision making and proactive institutional management.
@@ -84,11 +88,6 @@ As a Secretary, I want access to a comprehensive institutional analytics platfor
 - Institutional data warehouse infrastructure
 - Business intelligence platform integration
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Definition of Done
 - [ ] Data integration platform implemented with all institutional systems
 - [ ] Predictive analytics engine functional with key models

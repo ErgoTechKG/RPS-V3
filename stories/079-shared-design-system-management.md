@@ -5,8 +5,12 @@ references:
   - ui-ux/shared-ui.md: lines 320-345
   - DESIGN.md: lines 916-948
 ---
-
 # Story 079: Shared Design System Management
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## User Story
 As a **system administrator**, I want to manage the shared design system components and style guide so that all users experience consistent visual design and interaction patterns across the platform.
@@ -62,11 +66,6 @@ The shared UI design file defines a comprehensive design system with colors, typ
 - Story 001: User Authentication (for role-based themes)
 - Story 003: Shared Navigation System (for consistent navigation styling)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Mockups/Wireframes
 Reference: ui-ux/shared-ui.md comprehensive design system specifications
 

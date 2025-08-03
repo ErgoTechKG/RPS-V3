@@ -4,8 +4,12 @@ source_lines: 321-345
 references:
   - shared-ui.md: lines 321-345
 ---
-
 # Story 145: Shared Intelligent Content Management System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a Platform User, I need an intelligent content management system that provides AI-powered content organization, smart search capabilities, automated categorization, and collaborative content creation tools to efficiently manage and discover educational resources across the platform.
@@ -78,11 +82,6 @@ As a Platform User, I need an intelligent content management system that provide
 - Story 127: Shared Real-Time Collaboration Workspace
 - Story 140: Shared Version Control System
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Priority
 Medium
 

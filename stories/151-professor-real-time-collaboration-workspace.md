@@ -1,7 +1,11 @@
 # Story 151: Professor Real-Time Collaboration Workspace
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ---
-status: TODO
 source_lines: professor-ui.md:113, 269-271
 references:
   - professor-ui.md: lines 113, 269-271 (Real-Time Collaboration Workspace)
@@ -140,11 +144,6 @@ Professor
 
 ## Dependencies
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ### Required Stories (Must be completed first)
 - Story 001: User Authentication (login and session management)
 - Story 005: Shared Calendar System (meeting scheduling)

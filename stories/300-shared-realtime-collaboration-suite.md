@@ -1,5 +1,10 @@
 # Story 300: Shared Real-time Collaboration Suite
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Description
 As any user, I want integrated real-time collaboration tools with synchronized editing and communication, so that I can work effectively with colleagues regardless of location.
 
@@ -27,7 +32,3 @@ High
 - WebSocket infrastructure
 - Conflict resolution algorithms
 - Mobile optimization
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

@@ -1,5 +1,10 @@
 # Story 128: Professor Intelligent Resource Recommendation System
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Story Information
 - **Title**: Professor Intelligent Resource Recommendation System
 - **Title**: 128
@@ -230,8 +235,3 @@ The professor UI design includes resource management capabilities that could be 
 - May require machine learning model training on educational content
 - Should respect copyright and licensing restrictions on recommended content
 - Analytics should preserve student privacy while providing useful insights
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

@@ -5,8 +5,12 @@ references:
   - leader-ui.md: lines 233-260 (multi-dimensional analysis platform)
   - leader-ui.md: lines 478-624 (governance and policy management)
 ---
-
 # Story 324: Leader Strategic Intelligence Workbench
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a leader, I want a comprehensive strategic intelligence workbench so that I can perform multi-dimensional analysis, scenario planning, and data-driven decision making with AI-powered insights and predictive modeling capabilities.
@@ -59,10 +63,5 @@ As a leader, I want a comprehensive strategic intelligence workbench so that I c
 - Story 042: Leader AI Report Generation
 - Story 072: Leader Decision Support System
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Route
 `/leader/intelligence/workbench`

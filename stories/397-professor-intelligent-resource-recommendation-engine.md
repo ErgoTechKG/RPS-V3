@@ -5,8 +5,12 @@ references:
   - professor-ui.md: lines 306-315, 565-597
   - DESIGN.md: lines 306-315
 ---
-
 # Story 397: Professor Intelligent Resource Recommendation Engine
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 
@@ -94,11 +98,6 @@ GET /api/professor/resources/analytics
 - Story 049: Shared Document Management System
 - Story 118: Professor Resource Library Management
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Definition of Done
 - [ ] AI recommendation engine implemented with multiple algorithms
 - [ ] Integration with major academic databases and OER repositories

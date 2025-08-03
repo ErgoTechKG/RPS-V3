@@ -4,8 +4,12 @@ source_lines: 565-647
 references:
   - student-ui.md: lines 565-647
 ---
-
 # Story 144: Student Interactive Learning Companion
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a Student, I need an interactive learning companion that provides personalized study recommendations, real-time academic support, adaptive learning paths, and intelligent progress tracking to enhance my learning experience and academic success.
@@ -78,11 +82,6 @@ As a Student, I need an interactive learning companion that provides personalize
 - Story 087: Student Adaptive Learning Pathways
 - Story 129: Student Adaptive Study Companion
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Priority
 High
 

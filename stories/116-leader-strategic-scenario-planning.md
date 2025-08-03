@@ -5,8 +5,12 @@ references:
   - DESIGN.md: lines 171-199
   - ui-ux/leader-ui.md: lines 246-260, 438-474
 ---
-
 # Story 116: Leader Strategic Scenario Planning System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a **Leader**, I want to access a strategic scenario planning system that allows me to model different future scenarios and their potential impacts on educational outcomes, so that I can make strategic decisions with confidence and prepare for various contingencies.
@@ -55,11 +59,6 @@ As a **Leader**, I want to access a strategic scenario planning system that allo
 - Support complex data visualization and interaction
 - Ensure scalability for large-scale institutional modeling
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Dependencies
 - Story 072: Leader Decision Support System
 - Story 080: Leader Predictive Analytics System

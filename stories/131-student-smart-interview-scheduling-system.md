@@ -5,8 +5,12 @@ references:
   - student-ui.md: lines 230-237
   - DESIGN.md: lines 275-276
 ---
-
 # Story 131: Student Smart Interview Scheduling System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Overview
 As a student, I want to use an intelligent interview scheduling system that allows me to easily book, reschedule, and manage interview appointments with professors during the application process, so that I can efficiently coordinate my interview schedule without conflicts.
@@ -116,11 +120,6 @@ InterviewSlot {
 - Story 004: Notification System (for reminders)
 - Story 005: Shared Calendar System (for calendar integration)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Priority
 High - Critical for improving the student application experience and reducing scheduling friction
 

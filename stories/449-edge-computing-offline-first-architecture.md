@@ -1,5 +1,10 @@
 # Story 449: Edge Computing and Offline-First Architecture
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Description
 As a user in a remote area or with unreliable internet, I need edge computing capabilities and offline-first functionality so I can continue using the platform effectively even without constant internet connectivity.
 
@@ -35,11 +40,6 @@ As a user in a remote area or with unreliable internet, I need edge computing ca
 - Edge infrastructure deployment
 - Local storage implementation
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Roles Affected
 - All users (universal feature)
 - Students in remote areas (primary beneficiaries)

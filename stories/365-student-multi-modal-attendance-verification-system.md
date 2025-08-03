@@ -1,5 +1,10 @@
 # Story 365: Student Multi-Modal Attendance Verification System
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Title
 Advanced Attendance System with Multiple Verification Methods
 
@@ -136,11 +141,6 @@ As a Student, I need a multi-modal attendance verification system with GPS locat
 - Bluetooth Low Energy beacons
 - Edge computing for privacy
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## UI/UX Considerations
 - One-tap verification preferred
 - Clear method icons

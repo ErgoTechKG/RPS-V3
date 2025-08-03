@@ -1,5 +1,10 @@
 # User Story 031: Secretary Expert Coordination for Comprehensive Evaluation
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Story
 **As a** Secretary  
 **I want** to coordinate expert evaluators and manage their assignments  
@@ -86,7 +91,3 @@ High
 - Communication and training coordination interface
 - Quality assurance monitoring and reporting
 - Expert performance tracking and analytics
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

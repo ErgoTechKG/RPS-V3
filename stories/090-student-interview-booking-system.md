@@ -5,8 +5,12 @@ references:
   - ui-ux/student-ui.md: lines 230-237 (interview booking interface)
   - DESIGN.md: lines 273-275 (student application process)
 ---
-
 # Story 090: Student Interview Booking System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Story Description
 As a Student, I want to have a sophisticated interview booking system so that I can select available time slots, choose interview formats, and manage interview appointments with automatic confirmations and reminders.
@@ -87,10 +91,5 @@ Medium
 - Story 004: Notification System
 - Story 005: Shared Calendar System
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Notes
 This story provides detailed interview booking functionality that goes beyond basic application submission to include sophisticated scheduling and format management as shown in the UI designs.

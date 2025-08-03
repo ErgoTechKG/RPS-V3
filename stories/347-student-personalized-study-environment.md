@@ -1,5 +1,10 @@
 # Story 347: Student Personalized Study Environment
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Description
 As a student, I want a personalized digital study environment that adapts to my preferences, learning patterns, and schedule to create optimal conditions for focused learning and productivity, so that I can maximize my study effectiveness and academic performance.
 
@@ -35,11 +40,6 @@ Medium
 - Privacy-compliant health monitoring
 - Integration with external wellness platforms
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Route
 - `/student/study-environment/dashboard`
 - `/student/study-environment/personalization`

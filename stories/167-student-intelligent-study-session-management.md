@@ -1,7 +1,11 @@
 # User Story 167: Student Intelligent Study Session Management
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ---
-status: TODO
 source_lines: student-ui.md lines 646-647 (learning path management)
 references:
   - DESIGN.md: lines 281-285 (student learning process routes)
@@ -74,11 +78,6 @@ Medium
 - Mobile-responsive design for cross-device usage
 - Motivational elements and gamification features
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Analytics and Metrics
 - Study session completion rates
 - Learning effectiveness improvements over time

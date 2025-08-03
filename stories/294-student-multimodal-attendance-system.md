@@ -1,5 +1,10 @@
 # Story 294: Student Multimodal Attendance System
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Description
 As a Student, I want a flexible multi-modal attendance check-in system supporting GPS, QR codes, and facial recognition, so that I can easily record my attendance in various situations.
 
@@ -27,7 +32,3 @@ Medium
 - Facial recognition with privacy controls
 - Offline storage and sync capabilities
 - Push notification system
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

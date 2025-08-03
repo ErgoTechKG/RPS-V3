@@ -7,8 +7,12 @@ references:
   - shared-ui.md: lines 177-218 (navigation components)
   - DESIGN.md: lines 175-182 (secretary system scope)
 ---
-
 # Story 388: Secretary Intelligent Institutional Coordination Hub
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 **As a** secretary  
 **I want** an intelligent institutional coordination hub that automatically manages cross-departmental workflows and proactively identifies coordination opportunities  
@@ -81,7 +85,3 @@ references:
 - Real-time communication and collaboration platform
 - Knowledge management and document control system
 - Workflow automation and business process management tools
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

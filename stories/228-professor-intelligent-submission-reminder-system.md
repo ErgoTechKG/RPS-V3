@@ -1,5 +1,10 @@
 # Story 228: Professor Intelligent Submission Reminder System
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Story Description
 As a professor, I need an intelligent reminder system that automatically tracks student submission deadlines and sends me timely alerts about pending reviews, overdue submissions, and upcoming deadlines so that I can manage my review workload effectively and ensure timely feedback to students.
 
@@ -49,11 +54,6 @@ As a professor, I need an intelligent reminder system that automatically tracks 
 - Story 004: Notification System
 - Story 036: Professor AI Homework Detection
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Mockup References
 - Professor UI Design: Task Management & Reminders section
 - Notification system flow diagrams

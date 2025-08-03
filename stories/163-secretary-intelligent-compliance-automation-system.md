@@ -5,8 +5,12 @@ references:
   - secretary-ui.md: lines 535-580 (监督管理界面)
   - secretary-ui.md: lines 989-1100 (系统管理)
 ---
-
 # Story 163: Secretary Intelligent Compliance Automation System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Story Statement
 As a **Secretary**, I want to **have an intelligent compliance automation system that continuously monitors regulatory requirements and automates compliance reporting**, so that **I can ensure the institution meets all regulatory obligations while reducing manual compliance work and risk of violations**.
@@ -84,11 +88,6 @@ As a **Secretary**, I want to **have an intelligent compliance automation system
 - Story 048: Integration with External Systems (regulatory system integration)
 - Story 047: Advanced Analytics and Reporting (analytics foundation)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Success Metrics
 - **Compliance Rate**: 99.5% compliance with all regulatory requirements
 - **Reporting Efficiency**: 80% reduction in time spent on compliance reporting

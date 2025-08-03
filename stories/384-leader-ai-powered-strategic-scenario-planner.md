@@ -7,8 +7,12 @@ references:
   - leader-ui.md: lines 509-624 (governance controls)
   - DESIGN.md: lines 188-194 (decision support routing)
 ---
-
 # Story 384: Leader AI-Powered Strategic Scenario Planner
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 **As a** leader  
 **I want** an AI-powered strategic scenario planning system that models potential outcomes of institutional decisions and policy changes  
@@ -81,7 +85,3 @@ references:
 - Advanced analytics and machine learning infrastructure
 - Collaboration and document management platform
 - Real-time dashboard and visualization system
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

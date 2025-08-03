@@ -5,8 +5,12 @@ references:
   - secretary-ui.md: lines 366-412, 677-736
   - DESIGN.md: lines 153-167
 ---
-
 # Story 120: Secretary Intelligent Coordination System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a **Secretary**, I want an intelligent coordination system that helps me manage complex scheduling, resource allocation, and multi-stakeholder communication so that I can efficiently coordinate all aspects of the research program with minimal conflicts and optimal resource utilization.
@@ -93,11 +97,6 @@ So that I can take preventive action before issues become critical
 - Shared Calendar System (Story 005)
 - Secretary Process Monitoring (Story 018)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Acceptance Tests
 
 ### Smart Scheduling Test

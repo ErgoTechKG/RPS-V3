@@ -1,5 +1,10 @@
 # Story 456: Professor Step-by-Step Content Publishing Wizard
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Role
 Professor
 
@@ -48,11 +53,6 @@ As a Professor, I want a guided wizard interface for publishing course topics wi
 - File upload with progress tracking
 - Preview rendering engine
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Dependencies
 - Story 008: Professor Topic Management
 - Story 366: Professor Step-by-Step Topic Publishing Wizard

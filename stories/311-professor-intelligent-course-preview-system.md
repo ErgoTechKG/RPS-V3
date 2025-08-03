@@ -6,8 +6,12 @@ references:
   - professor-ui.md: lines 206-212 (resource management)
   - DESIGN.md: lines 51-84 (professor route structure)
 ---
-
 # Story 311: Professor Intelligent Course Preview System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## User Story
 As a Professor, I want an intelligent course preview system so that I can visualize and preview how my course content appears to students before publishing, ensuring optimal presentation and content organization.
@@ -78,11 +82,6 @@ As a Professor, I want an intelligent course preview system so that I can visual
 - Story 062: Professor Resource Management System
 - Story 145: Shared Intelligent Content Management System
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Priority
 Medium-High - Enhances course development workflow and ensures quality content delivery
 

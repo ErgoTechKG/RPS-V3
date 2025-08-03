@@ -1,5 +1,10 @@
 # Story 258: Professor Real-time Submission Monitoring Dashboard
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Overview
 As a professor, I need a real-time dashboard that shows live submission status during assignment deadlines, allowing me to monitor student progress and provide timely assistance to those who may be struggling.
 
@@ -35,11 +40,6 @@ High - Critical for effective assignment management and student support
 - Story 228: Professor intelligent submission reminder system
 - Story 036: Professor AI homework detection
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Mockups
 - Real-time submission counter with progress bars
 - Student list with submission status indicators

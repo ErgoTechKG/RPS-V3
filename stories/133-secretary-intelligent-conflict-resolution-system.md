@@ -5,8 +5,12 @@ references:
   - secretary-ui.md: lines 402-412, 310-320
   - DESIGN.md: lines 149-154
 ---
-
 # Story 133: Secretary Intelligent Conflict Resolution System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Overview
 As a secretary, I want an intelligent conflict resolution system that automatically detects scheduling, resource, and process conflicts and provides resolution recommendations, so that I can proactively prevent problems and maintain smooth operations.
@@ -130,11 +134,6 @@ ResolutionOption {
 - Story 005: Shared Calendar System (for scheduling data)
 - Story 004: Notification System (for stakeholder communication)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Priority
 High - Critical for preventing operational disruptions and maintaining system efficiency
 

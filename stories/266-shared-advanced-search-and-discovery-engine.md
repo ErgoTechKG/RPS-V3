@@ -1,5 +1,10 @@
 # Story 266: Shared Advanced Search and Discovery Engine
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Overview
 As any user, I need a sophisticated search system with faceted filtering, AI-powered suggestions, and intelligent result ranking, helping me quickly find relevant information across the entire platform.
 
@@ -35,11 +40,6 @@ Medium - Significantly improves information discovery and user efficiency
 - Story 155: Shared intelligent content discovery search
 - Story 165: Shared intelligent search and knowledge discovery
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Mockups
 - Advanced search interface with filters
 - Auto-complete suggestion dropdown

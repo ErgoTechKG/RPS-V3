@@ -1,5 +1,10 @@
 # Story 299: Shared Accessibility Compliance Engine
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Description
 As any user, I want an advanced accessibility engine that automatically ensures WCAG compliance and provides personalized accessibility options, so that the platform is truly inclusive for all users.
 
@@ -27,7 +32,3 @@ High
 - Screen reader API integration
 - Alternative format converters
 - Compliance reporting tools
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

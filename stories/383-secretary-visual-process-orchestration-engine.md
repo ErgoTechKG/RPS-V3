@@ -7,8 +7,12 @@ references:
   - secretary-ui.md: lines 265-271 (coordination management)
   - shared-ui.md: lines 200-251 (visual components)
 ---
-
 # Story 383: Secretary Visual Process Orchestration Engine
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 **As a** secretary  
 **I want** a visual process orchestration engine that allows me to design, monitor, and optimize complex institutional workflows through intuitive drag-and-drop interfaces  
@@ -81,7 +85,3 @@ references:
 - Real-time notification and communication infrastructure
 - Document management and version control system
 - Analytics and reporting platform
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

@@ -1,5 +1,10 @@
 # Story 191: Shared Advanced Knowledge Management System
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Role
 All Roles
 
@@ -43,11 +48,6 @@ As a platform user, I want a comprehensive knowledge base with AI-powered search
 - Collaborative editing features
 - API for third-party integration
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## User Impact
 HIGH - Centralizes institutional knowledge and improves accessibility
 

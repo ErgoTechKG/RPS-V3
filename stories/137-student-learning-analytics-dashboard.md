@@ -5,8 +5,12 @@ references:
   - student-ui.md: lines 867-894 (个人成长档案, 学习报告)
   - DESIGN.md: lines 118-121 (profile/achievements)
 ---
-
 # Story 137: Student Learning Analytics Dashboard
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 As a **Student**, I want a comprehensive learning analytics dashboard so that I can understand my learning patterns, track my academic growth, and make data-driven decisions about my study strategies.
 
@@ -54,11 +58,6 @@ As a **Student**, I want a comprehensive learning analytics dashboard so that I 
 - Story 063: Student Personal Growth Portfolio System
 - Story 070: Student Learning Path Management
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Route Coverage
 - `/student/profile/analytics`
 - `/student/profile/growth-tracking` 

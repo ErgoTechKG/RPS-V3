@@ -1,5 +1,10 @@
 # Story 279: Student Adaptive Learning Experience
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Description
 As a Student, I want an adaptive learning system that adjusts to my learning pace, style, and preferences, providing personalized content and exercises to optimize my understanding.
 
@@ -24,7 +29,3 @@ As a Student, I want an adaptive learning system that adjusts to my learning pac
 - Design flexible content delivery framework
 - Ensure learning analytics privacy
 - Build robust A/B testing infrastructure
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

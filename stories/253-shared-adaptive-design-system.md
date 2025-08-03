@@ -5,8 +5,12 @@ references:
   - shared-ui.md: lines 320-335 (design resources and tools)
   - shared-ui.md: lines 297-318 (accessibility features)
 ---
-
 # Story 253: Shared Adaptive Design System Engine
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As any platform user, I want an adaptive design system that automatically adjusts UI components and accessibility features based on my preferences and needs so that I can have an optimal user experience regardless of my device, abilities, or usage context while maintaining consistent design standards.
@@ -75,11 +79,6 @@ So that I can have an optimal user experience regardless of my device or accessi
 - Story 001: User Authentication
 - Story 003: Shared Navigation System
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Business Value
 - Improves user satisfaction and engagement by 25-30%
 - Reduces accessibility compliance risks and costs

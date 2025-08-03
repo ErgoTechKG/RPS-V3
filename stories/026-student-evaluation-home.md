@@ -1,5 +1,10 @@
 # User Story 026: Student Comprehensive Evaluation Home Dashboard
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 **Status:** unfinished
 
 ## Story
@@ -75,7 +80,3 @@ High
 - Visual timeline and phase indicators
 - Mobile-responsive design
 - Accessible help and support integration
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

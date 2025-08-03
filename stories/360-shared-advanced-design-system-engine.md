@@ -1,5 +1,10 @@
 # Story 360: Shared Advanced Design System Engine
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Title
 Comprehensive Theme Management with Accessibility and Personalization
 
@@ -124,11 +129,6 @@ As any platform user, I need an advanced design system engine that provides comp
 - WebAssembly for complex calculations
 - Design tokens for consistency
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## UI/UX Considerations
 - Intuitive theme builder interface
 - Visual accessibility indicators

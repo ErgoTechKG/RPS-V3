@@ -1,7 +1,11 @@
 # Story 155: Shared Intelligent Content Discovery and Search Platform
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ---
-status: TODO
 source_lines: shared-ui.md:322-345, professor-ui.md:300-305, student-ui.md:306-315
 references:
   - shared-ui.md: lines 322-345 (Design resources and content discovery)
@@ -168,11 +172,6 @@ All Users (Professor, Student, Secretary, Leader)
 
 ## Dependencies
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ### Required Stories (Must be completed first)
 - Story 001: User Authentication (access control for search results)
 - Story 007: User Profile Management (personalization foundation)

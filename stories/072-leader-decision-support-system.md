@@ -5,8 +5,12 @@ references:
   - DESIGN.md: leader routes
   - 000-story-index.md: strategic planning features
 ---
-
 # User Story 072: Leader Decision Support System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Story
 **As a** Leader  
@@ -95,11 +99,6 @@ High
 - 045-leader-curriculum-design
 - 046-leader-governance-controls
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Technical Requirements
 - Advanced mathematical modeling and optimization libraries
 - AI/ML framework for predictive analytics and pattern recognition

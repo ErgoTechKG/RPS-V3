@@ -1,7 +1,11 @@
 # User Story 062: Professor Resource Management System
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** This story provides comprehensive resource management capabilities for professors to organize and share teaching materials efficiently.
+
 ---
-status: TODO
 source_lines: N/A (derived from UI design analysis)
 references:
   - professor-ui.md: lines 79-82, 207-212
@@ -56,8 +60,3 @@ Medium
 - Sharing and collaboration controls
 - Resource usage dashboard
 - Mobile-responsive design
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** This story provides comprehensive resource management capabilities for professors to organize and share teaching materials efficiently.

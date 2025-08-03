@@ -1,5 +1,10 @@
 # Story 271: Secretary Visual Process Automation Designer
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Description
 As a Secretary, I want a visual drag-and-drop workflow designer that allows me to create, modify, and automate complex administrative processes without coding knowledge.
 
@@ -24,7 +29,3 @@ As a Secretary, I want a visual drag-and-drop workflow designer that allows me t
 - Design extensible component library
 - Ensure workflow portability and reusability
 - Build robust error handling and recovery
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

@@ -1,7 +1,11 @@
 # Story 438: Secretary Predictive Resource Conflict Prevention
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ---
-status: TODO
 source_lines: 769-796
 references:
   - secretary-ui.md: lines 769-796
@@ -54,11 +58,6 @@ The UI design specifications (secretary-ui.md lines 769-796) describe an advance
 
 ## Technical Notes
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ### Architecture
 - Machine learning pipeline for pattern analysis and prediction
 - Real-time event processing for conflict detection

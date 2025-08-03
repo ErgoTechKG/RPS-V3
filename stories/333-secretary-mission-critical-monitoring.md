@@ -5,8 +5,12 @@ references:
   - secretary-ui.md: lines 60-126, 164-320
   - DESIGN.md: lines 124-168
 ---
-
 # Story 333: Secretary Mission-Critical Monitoring Control Center
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Title
 Secretary Mission-Critical Monitoring Control Center with Real-Time Alerts
@@ -109,11 +113,6 @@ As a secretary (科研秘书), I want a mission-critical monitoring control cent
 - 041 (Secretary AI Insights)
 - 055 (Secretary Monitoring Control Center)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Estimated Effort
 Large (10-15 story points)
 

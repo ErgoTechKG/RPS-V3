@@ -5,8 +5,12 @@ references:
   - ui-ux/leader-ui.md: lines 247-260
   - DESIGN.md: lines 189-199
 ---
-
 # Story 080: Leader Predictive Analytics System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## User Story
 As a **leader**, I want to access predictive analytics and trend forecasting capabilities so that I can make proactive decisions and anticipate future challenges in the research program.
@@ -77,11 +81,6 @@ The leader UI design includes advanced predictive analysis features that go beyo
 - Story 042: Leader AI Report Generation (for AI capabilities)
 - Story 047: Advanced Analytics and Reporting (for data foundation)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Mockups/Wireframes
 Reference: ui-ux/leader-ui.md predictive analysis section (lines 247-260)
 

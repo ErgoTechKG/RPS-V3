@@ -6,8 +6,12 @@ references:
   - ui-ux/leader-ui.md: lines 153-196 (资源配置分析)
   - ui-ux/shared-ui.md: lines 275-298 (响应式框架)
 ---
-
 # Story 174: Leader Predictive Resource Optimization Platform
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 **As a** 领导 (Leader)  
 **I want** a predictive resource optimization platform with advanced analytics and scenario modeling  
@@ -52,11 +56,6 @@ references:
 
 ## Technical Notes
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ### Frontend Requirements
 - Advanced data visualization components (D3.js, Chart.js)
 - Interactive scenario modeling interface

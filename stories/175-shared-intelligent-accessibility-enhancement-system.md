@@ -6,8 +6,12 @@ references:
   - ui-ux/shared-ui.md: lines 315-345 (设计资源)
   - ui-ux/leader-ui.md: lines 644-682 (设计规范引用)
 ---
-
 # Story 175: Shared Intelligent Accessibility Enhancement System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 **As a** any user type (Professor, Student, Secretary, Leader)  
 **I want** an intelligent accessibility enhancement system that adapts to individual needs  
@@ -52,11 +56,6 @@ references:
 
 ## Technical Notes
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ### Frontend Requirements
 - ARIA compliance with dynamic semantic markup
 - Alternative input method support (voice, gesture, eye-tracking)

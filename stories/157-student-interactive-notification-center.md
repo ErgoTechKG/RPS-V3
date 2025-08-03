@@ -5,8 +5,12 @@ references:
   - student-ui.md: lines 660-760 (师生交流界面)
   - student-ui.md: lines 105-120 (动态更新区域)
 ---
-
 # Story 157: Student Interactive Notification Center
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Story Statement
 As a **Student**, I want to **have an interactive notification center that provides contextual actions and smart filtering**, so that **I can efficiently manage communications and never miss important information while reducing notification overload**.
@@ -83,11 +87,6 @@ As a **Student**, I want to **have an interactive notification center that provi
 - Story 038: Student AI Learning Assistant (AI capabilities)
 - Story 005: Shared Calendar System (deadline integration)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Success Metrics
 - **Response Time**: 40% faster response to important notifications
 - **Missed Notifications**: 70% reduction in missed critical notifications

@@ -5,8 +5,12 @@ references:
   - DESIGN.md: lines 201-227
   - ui-ux/shared-ui.md: lines 320-345
 ---
-
 # Story 112: Shared Advanced Search and Discovery Platform
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a **User of any role**, I want to access an advanced search and discovery platform that can intelligently find relevant content, people, and resources across the entire system, so that I can quickly locate information and connect with appropriate resources regardless of my role or current context.
@@ -55,11 +59,6 @@ As a **User of any role**, I want to access an advanced search and discovery pla
 - Support multilingual search capabilities
 - Ensure search index optimization for performance
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Dependencies
 - Story 001: User Authentication
 - Story 003: Shared Navigation System

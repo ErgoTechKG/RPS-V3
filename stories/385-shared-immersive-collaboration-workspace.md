@@ -8,8 +8,12 @@ references:
   - student-ui.md: lines 83-110 (interactive workspace)
   - secretary-ui.md: lines 134-162 (coordination interface)
 ---
-
 # Story 385: Shared Immersive Collaboration Workspace
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 **As a** user of any role  
 **I want** an immersive collaboration workspace that combines real-time communication, document sharing, and project management in a unified 3D environment  
@@ -82,7 +86,3 @@ references:
 - Integration with existing authentication and authorization systems
 - Document management and version control platform
 - Advanced analytics and reporting capabilities
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

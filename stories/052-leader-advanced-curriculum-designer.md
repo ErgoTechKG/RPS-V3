@@ -5,8 +5,12 @@ references:
   - leader-ui.md: lines 297-475
   - DESIGN.md: lines 174-198
 ---
-
 # User Story 052: Leader Advanced Curriculum Designer
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Story
 **As a** Leader  
@@ -86,7 +90,3 @@ Medium
 - Responsive design for various screen sizes
 - Collaborative editing capabilities
 - Rich media support for course descriptions
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

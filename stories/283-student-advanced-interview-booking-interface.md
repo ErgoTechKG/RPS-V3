@@ -1,5 +1,10 @@
 # User Story 283: Student - Advanced Interview Booking Interface
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Story
 As a Student, I want an intelligent interview booking system with calendar integration, conflict detection, and automated scheduling capabilities, so that I can efficiently schedule and manage my academic interviews and meetings.
 
@@ -54,11 +59,6 @@ High
 - Professor Availability Management
 - Video Conferencing Platform
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Notes
 - Consider peak booking time handling
 - Implement fair booking policies

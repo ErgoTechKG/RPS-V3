@@ -1,5 +1,10 @@
 # Story 261: Shared Contextual Help and Guidance System
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Overview
 As any user, I need a context-aware help system that provides role-specific guidance based on my current page and actions, making it easier to learn and use the platform effectively.
 
@@ -35,11 +40,6 @@ Medium - Significantly improves user adoption and satisfaction
 - Story 002: Role-based dashboards
 - Story 050: Shared feedback system
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Mockups
 - Contextual help overlay interface
 - Interactive tutorial walkthroughs

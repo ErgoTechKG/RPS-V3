@@ -1,5 +1,10 @@
 # User Story 287: Leader - Strategic Visualization Workbench
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Story
 As a Leader, I want an advanced strategic visualization platform with predictive analytics, scenario modeling, and decision support tools, so that I can make data-driven strategic decisions and communicate insights effectively.
 
@@ -58,11 +63,6 @@ High
 - Visualization Framework
 - Collaboration Infrastructure
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Notes
 - Focus on executive usability
 - Include data governance features

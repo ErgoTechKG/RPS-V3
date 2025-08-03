@@ -1,5 +1,10 @@
 # User Story 284: Student - Smart Attendance Management System
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Story
 As a Student, I want a multi-modal smart attendance system that supports various check-in methods and provides intelligent tracking with automated reporting, so that I can efficiently manage my attendance across different course formats.
 
@@ -58,11 +63,6 @@ High
 - Student Authentication
 - Notification Service
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Notes
 - Ensure privacy compliance for biometric data
 - Consider battery optimization for GPS

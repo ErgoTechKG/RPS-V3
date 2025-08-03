@@ -1,5 +1,10 @@
 # Story 344: Leader Strategic Intelligence Fusion Platform
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Description
 As a leader, I want a comprehensive intelligence fusion platform that aggregates data from all institutional sources, applies advanced analytics, and provides strategic insights for evidence-based decision making, so that I can guide the institution effectively with complete situational awareness.
 
@@ -35,11 +40,6 @@ High
 - Advanced visualization engines
 - Secure data integration protocols
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Route
 - `/leader/intelligence-fusion/dashboard`
 - `/leader/intelligence-fusion/analytics`

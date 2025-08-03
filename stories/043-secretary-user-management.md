@@ -1,5 +1,10 @@
 # User Story 043: Secretary User Management and Administration
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Story
 **As a** Secretary  
 **I want** to manage user accounts, roles, and permissions across the platform  
@@ -84,7 +89,3 @@ Medium
 - Activity monitoring and security dashboard
 - Administrative workflow and task management
 - Reporting and analytics for user management
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

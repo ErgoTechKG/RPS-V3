@@ -5,8 +5,12 @@ references:
   - leader-ui.md: lines 204-227 (course system design section)
   - leader-ui.md: lines 223-227 (AI recommendation system)
 ---
-
 # Story 247: Leader Course Architecture Designer
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a leader, I want a visual course architecture designer with drag-and-drop functionality and AI-powered recommendations so that I can design comprehensive curriculum structures, visualize course relationships, and optimize educational pathways to meet institutional objectives and student needs.
@@ -75,11 +79,6 @@ So that I can design optimal curriculum structures and educational pathways
 - Story 042: Leader AI Report Generation
 - Story 127: Shared Real-Time Collaboration Workspace
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Business Value
 - Reduces curriculum development time by 50%
 - Improves curriculum quality and consistency

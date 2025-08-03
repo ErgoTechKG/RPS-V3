@@ -5,8 +5,12 @@ references:
   - leader-ui.md: lines 231-280 (数据分析与决策支持)
   - leader-ui.md: lines 627-681 (总结)
 ---
-
 # Story 159: Leader Institutional Performance Benchmarking System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Story Statement
 As a **Leader**, I want to **have an institutional performance benchmarking system that compares our programs against peer institutions and industry standards**, so that **I can make data-driven strategic decisions and identify opportunities for improvement and competitive advantages**.
@@ -84,11 +88,6 @@ As a **Leader**, I want to **have an institutional performance benchmarking syst
 - Story 048: Integration with External Systems (data integration capabilities)
 - Story 042: Leader AI Report Generation (automated reporting)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Success Metrics
 - **Data Coverage**: Benchmarking against 95% of relevant peer institutions
 - **Update Frequency**: Quarterly updates for all key performance indicators

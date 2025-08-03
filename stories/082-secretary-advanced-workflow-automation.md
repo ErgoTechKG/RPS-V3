@@ -5,8 +5,12 @@ references:
   - ui-ux/secretary-ui.md: lines 809-825
   - DESIGN.md: lines 871-911
 ---
-
 # Story 082: Secretary Advanced Workflow Automation
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## User Story
 As a **secretary**, I want to create and manage automated workflows for routine administrative tasks so that I can reduce manual work and ensure consistent process execution across all course management activities.
@@ -77,11 +81,6 @@ The secretary UI design includes advanced workflow automation capabilities that 
 - Story 018: Secretary Process Monitoring (for monitoring infrastructure)
 - Story 043: Secretary User Management (for role-based automation)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Mockups/Wireframes
 Reference: ui-ux/secretary-ui.md workflow automation section
 

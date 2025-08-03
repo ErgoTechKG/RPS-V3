@@ -5,8 +5,12 @@ references:
   - secretary-ui.md: lines 635-644 (stage control interface)
   - secretary-ui.md: lines 820-833 (visual workflow automation)
 ---
-
 # Story 323: Secretary Visual Workflow Orchestration
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a secretary, I want a visual workflow orchestration system so that I can design, monitor, and manage complex educational processes using drag-and-drop interface with real-time status monitoring and automated interventions.
@@ -59,10 +63,5 @@ As a secretary, I want a visual workflow orchestration system so that I can desi
 - Story 018: Secretary Process Monitoring
 - Story 082: Secretary Advanced Workflow Automation
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Route
 `/secretary/workflow/orchestration`

@@ -1,5 +1,10 @@
 # Story 357: Professor Real-Time AI Detection Dashboard
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Title
 Real-Time AI Detection Dashboard with Live Analysis
 
@@ -114,11 +119,6 @@ As a Professor, I need a real-time AI detection dashboard that provides live ana
 - Redis caching for performance
 - Explainable AI techniques required
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## UI/UX Considerations
 - Visual progress indicators
 - Color-coded probability scales

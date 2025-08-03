@@ -5,8 +5,12 @@ references:
   - professor-ui.md: lines 567-590 (AI功能集成)
   - professor-ui.md: lines 720-760 (交互规范)
 ---
-
 # Story 156: Professor Intelligent Task Automation System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Story Statement
 As a **Professor**, I want to **use an intelligent task automation system that handles routine administrative tasks**, so that **I can focus more time on teaching and research while maintaining high efficiency in course management**.
@@ -82,11 +86,6 @@ As a **Professor**, I want to **use an intelligent task automation system that h
 - Story 004: Notification System (automated messaging)
 - Story 047: Advanced Analytics and Reporting (performance tracking)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Success Metrics
 - **Time Savings**: 30% reduction in administrative task time
 - **Error Reduction**: 50% fewer manual errors in routine tasks

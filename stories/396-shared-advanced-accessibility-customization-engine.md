@@ -5,8 +5,12 @@ references:
   - shared-ui.md: lines 296-318, 425-450
   - DESIGN.md: lines 296-318
 ---
-
 # Story 396: Shared Advanced Accessibility Customization Engine
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 
@@ -94,11 +98,6 @@ POST /api/accessibility/feedback
 - Story 007: User Profile Management
 - Story 088: Shared Accessibility Compliance System
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Definition of Done
 - [ ] Advanced accessibility customization engine implemented
 - [ ] Integration with major assistive technologies tested and verified

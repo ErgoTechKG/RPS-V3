@@ -5,8 +5,12 @@ references:
   - student-ui.md: lines 613-658, 47-49
   - shared-ui.md: lines 253-274
 ---
-
 # User Story 102: Student Peer Learning Network
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Story Overview
 
@@ -99,11 +103,6 @@ Peer learning is a crucial component of academic success. The UI design specifie
 - Story 049: Shared Document Management System (for resource sharing)
 - Story 073: Shared Video Conferencing Platform (for virtual study sessions)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Definition of Done
 - [ ] Student matching algorithm successfully connects compatible learning partners
 - [ ] Real-time collaboration tools work seamlessly across different devices

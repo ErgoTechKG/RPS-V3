@@ -1,7 +1,11 @@
 # Story 221: Secretary Intelligent Workflow Orchestration Engine
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ---
-status: TODO
 source_lines: secretary-ui.md: lines 632-657
 references:
   - secretary-ui.md: lines 632-657 (流程管理界面)
@@ -68,10 +72,5 @@ As a secretary, I want to access an intelligent workflow orchestration engine so
 - Story 043: Secretary User Management
 - Story 082: Secretary Advanced Workflow Automation
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Wireframe Notes
 The interface should feature an intuitive workflow designer with visual process mapping, real-time monitoring dashboards, intelligent routing controls, and comprehensive analytics as described in the secretary UI specifications.

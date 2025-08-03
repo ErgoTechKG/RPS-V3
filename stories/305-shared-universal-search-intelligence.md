@@ -4,8 +4,12 @@ source_lines: shared-ui.md: 309-313, DESIGN.md: 214-217, student-ui.md: 312-315
 references:
   - shared-ui.md: lines 309-313 (screen reader support), DESIGN.md: lines 214-217 (document center), student-ui.md: lines 312-315 (material search)
 ---
-
 # Story 305: Shared Universal Search Intelligence
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a **User** of any role, I want an intelligent universal search system that can find any content, person, or information across the entire platform using natural language queries, so that I can quickly locate what I need without remembering specific locations or exact terms.
@@ -61,11 +65,6 @@ As a **User** of any role, I want an intelligent universal search system that ca
 - AI/ML platform integration
 - Security and permission system
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Priority
 Medium-High - Significantly improves user experience and productivity
 

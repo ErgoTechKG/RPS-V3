@@ -5,8 +5,12 @@ references:
   - ui-ux/professor-ui.md: lines 306-331
   - ui-ux/professor-ui.md: lines 512-527
 ---
-
 # Story 085: Professor Intelligent Grading Assistant
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## User Story
 As a **professor**, I want an intelligent grading assistant that helps streamline the evaluation process and provides consistent, fair assessment support so that I can save time while maintaining high-quality feedback for students.
@@ -77,11 +81,6 @@ The professor UI design includes advanced assessment features that go beyond bas
 - Story 036: Professor AI Homework Detection (for AI capabilities)
 - Story 010: Professor Process Management (for workflow integration)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Mockups/Wireframes
 Reference: ui-ux/professor-ui.md assessment interfaces (lines 306-331)
 

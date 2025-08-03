@@ -1,5 +1,10 @@
 # Story 262: Student Peer Interaction and Collaboration Dashboard
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Overview
 As a student, I need a dedicated dashboard that shows peer activities, study group opportunities, and collaboration spaces, helping me connect with classmates and enhance my learning through social interaction.
 
@@ -35,11 +40,6 @@ Medium - Enhances collaborative learning and engagement
 - Story 075: Student study group platform
 - Story 148: Student social learning platform
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Mockups
 - Activity feed with real-time updates
 - Study group discovery interface

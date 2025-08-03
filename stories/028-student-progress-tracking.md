@@ -1,5 +1,10 @@
 # User Story 028: Student Progress Tracking for Comprehensive Evaluation
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Metadata
 - **Status**: finished
 - **Priority**: High
@@ -92,7 +97,3 @@ High
 - Timeline visualization with milestones
 - Mobile-friendly progress monitoring
 - Integrated help and support access
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

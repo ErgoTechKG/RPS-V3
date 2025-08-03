@@ -1,7 +1,11 @@
 # Story 226: Secretary Comprehensive Institutional Health Monitor
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ---
-status: TODO
 source_lines: secretary-ui.md: lines 60-127
 references:
   - secretary-ui.md: lines 60-127 (系统监控仪表板)
@@ -74,10 +78,5 @@ As a secretary, I want to access a comprehensive institutional health monitor so
 - Story 041: Secretary AI Insights
 - Story 055: Secretary Monitoring Control Center
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Wireframe Notes
 The interface should feature comprehensive monitoring dashboards with real-time health metrics, predictive analytics, intelligent alerting systems, and detailed reporting capabilities as described in the secretary UI specifications.

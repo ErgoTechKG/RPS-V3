@@ -1,5 +1,10 @@
 # Story 472: Professor Visual Matching Matrix Interface
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Description
 As a Professor working with the Secretary, I need a visual 2D matrix interface that displays professor-student matching relationships in a grid format with color-coded status indicators, interactive conflict detection, and the ability to make adjustments to optimize the matching process.
 
@@ -52,11 +57,6 @@ As a Professor working with the Secretary, I need a visual 2D matrix interface t
 - Story 037: Professor AI Student Matching
 - Story 091: Secretary Intelligent Matching System
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Priority
 High
 

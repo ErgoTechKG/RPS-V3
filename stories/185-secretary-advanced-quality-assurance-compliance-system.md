@@ -1,5 +1,10 @@
 # Story 185: Secretary Advanced Quality Assurance and Compliance System
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Role
 Secretary
 
@@ -43,11 +48,6 @@ As a secretary, I want a comprehensive quality management system with automated 
 - AI-powered anomaly detection
 - Automated report generation
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## User Impact
 HIGH - Ensures institutional compliance and quality standards
 

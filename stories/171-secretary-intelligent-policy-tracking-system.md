@@ -5,8 +5,12 @@ references:
   - ui-ux/secretary-ui.md: lines 509-586 (政策制定界面)
   - ui-ux/shared-ui.md: lines 177-228 (复合组件)
 ---
-
 # Story 171: Secretary Intelligent Policy Tracking System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 **As a** 科研秘书 (Secretary)  
 **I want** an intelligent policy tracking and lifecycle management system  
@@ -44,11 +48,6 @@ references:
 
 ## Technical Notes
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ### Frontend Requirements
 - Policy document editor with version control
 - Interactive impact analysis dashboard

@@ -1,5 +1,10 @@
 # Story 270: Student Wellness Support Platform
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Description
 As a Student, I want access to a comprehensive mental health and wellness support platform that helps me manage stress, track my well-being, and connect with support resources when needed.
 
@@ -24,7 +29,3 @@ As a Student, I want access to a comprehensive mental health and wellness suppor
 - Design calming, accessible UI/UX
 - Integrate with campus wellness services
 - Ensure 24/7 availability with fallback support
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

@@ -1,5 +1,10 @@
 # Story 346: Professor Immersive Lecture Studio
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Description
 As a professor, I want an immersive digital studio for creating and delivering engaging lectures with 3D visualizations, interactive elements, and multi-media integration, so that I can enhance student learning through cutting-edge educational technology.
 
@@ -35,11 +40,6 @@ Medium
 - VR/AR content development tools
 - Multi-media processing and synchronization
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Route
 - `/professor/lecture-studio/dashboard`
 - `/professor/lecture-studio/content-creation`

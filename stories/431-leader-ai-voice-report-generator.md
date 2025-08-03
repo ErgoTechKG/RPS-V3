@@ -1,7 +1,11 @@
 # Story 431: Leader AI-Powered Voice Report Generator
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ---
-status: TODO
 source_lines: 263-294
 references:
   - leader-ui.md: lines 263-294
@@ -48,11 +52,6 @@ The UI design specifications (leader-ui.md lines 263-294) describe an advanced v
 
 ## Technical Notes
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ### Architecture
 - Advanced speech recognition engine with institutional terminology training
 - Natural language processing pipeline for command interpretation

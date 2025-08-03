@@ -1,5 +1,10 @@
 # Story 257: Leader Visual Course Architecture Designer
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Overview
 As a leader, I need a visual drag-and-drop interface to design and modify course architectures, allowing me to create complex course relationships and structures through an intuitive graphical interface.
 
@@ -35,11 +40,6 @@ High - Essential for institutional curriculum planning and development
 - Story 045: Leader curriculum design
 - Story 052: Leader advanced curriculum designer
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Mockups
 - Visual course design canvas with component library
 - Connection tools and relationship editors

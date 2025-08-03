@@ -1,5 +1,10 @@
 # Story 297: Leader Strategic Decision Workbench
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Description
 As a Leader, I want an advanced data visualization platform with scenario modeling and decision support, so that I can make data-driven strategic decisions with confidence.
 
@@ -27,7 +32,3 @@ High
 - Machine learning for recommendations
 - Real-time data pipeline
 - Collaboration framework
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

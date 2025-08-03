@@ -1,5 +1,10 @@
 # User Story 285: Secretary - Real-Time Monitoring Control Center
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Story
 As a Secretary, I want a mission-critical monitoring dashboard that provides real-time system status, automated alerts, and predictive warnings, so that I can ensure smooth operational oversight and quickly respond to issues.
 
@@ -58,11 +63,6 @@ Critical
 - Data Analytics Platform
 - Communication Services
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Notes
 - Design for 24/7 operation
 - Implement redundancy for critical alerts

@@ -8,8 +8,12 @@ references:
   - secretary-ui.md: lines 1103-1125
   - leader-ui.md: lines 662-681
 ---
-
 # Story 379: Shared Intelligent Personalization Engine
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Overview
 As any User, I want access to an intelligent personalization engine that adapts the platform interface, content, and functionality based on my role, preferences, usage patterns, and accessibility needs, so that I can have an optimized, efficient, and inclusive user experience tailored to my specific requirements.
@@ -87,11 +91,6 @@ As any User, I want access to an intelligent personalization engine that adapts 
 - User analytics and behavior tracking infrastructure
 - Machine learning and AI platform
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Definition of Done
 - [ ] Adaptive interface personalization system implemented
 - [ ] Intelligent content curation engine functional

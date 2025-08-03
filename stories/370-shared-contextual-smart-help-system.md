@@ -6,8 +6,12 @@ references:
   - student-ui.md: lines 384-385
   - professor-ui.md: lines 754-757
 ---
-
 # Story 370: Shared Contextual Smart Help System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As any user of the platform, I want an intelligent contextual help system that provides role-specific guidance, interactive tutorials, and proactive assistance based on my current context and actions, so that I can efficiently learn and use the system without leaving my workflow.
@@ -116,11 +120,6 @@ As any user of the platform, I want an intelligent contextual help system that p
 - Story 006: Help and Documentation System
 - Story 050: Shared Feedback and Suggestion System
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Definition of Done
 - [ ] Contextual help system is fully operational
 - [ ] Role-specific content is comprehensive

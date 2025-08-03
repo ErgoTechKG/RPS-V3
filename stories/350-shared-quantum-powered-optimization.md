@@ -1,5 +1,10 @@
 # Story 350: Shared Quantum-Powered Optimization Engine
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Description
 As any user, I want access to quantum-powered optimization capabilities that can solve complex scheduling, resource allocation, and matching problems that are computationally intensive for classical systems, so that I can achieve optimal solutions for multi-dimensional institutional challenges.
 
@@ -35,11 +40,6 @@ Low
 - Real-time processing and result delivery
 - Secure quantum computation protocols
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Route
 - `/shared/quantum-optimization/dashboard`
 - `/shared/quantum-optimization/problems`

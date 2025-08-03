@@ -1,7 +1,11 @@
 # User Story 066: Secretary Compliance Monitoring System
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** This story implements comprehensive compliance monitoring to ensure institutional and regulatory requirements are automatically tracked and enforced.
+
 ---
-status: TODO
 source_lines: N/A (derived from UI design analysis)
 references:
   - secretary-ui.md: lines 646-657
@@ -56,8 +60,3 @@ Medium
 - Policy document management
 - Real-time alert system
 - Mobile access for urgent compliance issues
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** This story implements comprehensive compliance monitoring to ensure institutional and regulatory requirements are automatically tracked and enforced.

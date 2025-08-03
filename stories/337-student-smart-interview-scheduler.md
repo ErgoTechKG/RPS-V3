@@ -5,8 +5,12 @@ references:
   - student-ui.md: lines 230-237, 275-276
   - professor-ui.md: lines 256-264, 256-278
 ---
-
 # Story 337: Student Smart Interview Scheduler with Conflict Detection
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Title
 Student Smart Interview Scheduler with Automated Conflict Detection and Optimization
@@ -118,11 +122,6 @@ As a student, I want a smart interview scheduler that prevents conflicts and opt
 - 004 (Notification System)
 - 005 (Shared Calendar System)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Estimated Effort
 Large (8-12 story points)
 

@@ -1,7 +1,11 @@
 # User Story 166: Professor Intelligent Presentation Mode
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ---
-status: TODO
 source_lines: professor-ui.md lines 315-325 (defense scoring interface)
 references:
   - DESIGN.md: lines 254-257 (defense scoring routes)
@@ -65,11 +69,6 @@ Medium
 - Real-time visual feedback for scoring progress
 - Professional evaluation session layout
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Testing Requirements
 - [ ] Presentation mode works across different browser types
 - [ ] Keyboard shortcuts function correctly during sessions

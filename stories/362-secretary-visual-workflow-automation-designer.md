@@ -1,5 +1,10 @@
 # Story 362: Secretary Visual Workflow Automation Designer
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Title
 Drag-and-Drop Workflow Creation with Intelligent Automation
 
@@ -133,11 +138,6 @@ As a Secretary, I need a visual workflow automation designer with drag-and-drop 
 - Kubernetes for execution
 - OpenAPI for integrations
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## UI/UX Considerations
 - Intuitive component icons
 - Clear visual feedback

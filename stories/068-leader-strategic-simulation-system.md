@@ -1,7 +1,11 @@
 # User Story 068: Leader Strategic Simulation System
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** This story provides sophisticated strategic planning tools that enable data-driven decision making through scenario simulation and predictive modeling.
+
 ---
-status: TODO
 source_lines: N/A (derived from UI design analysis)
 references:
   - leader-ui.md: lines 189-194, 248-260
@@ -56,8 +60,3 @@ Low
 - What-if scenario builder
 - Export tools for strategic presentations
 - Mobile dashboard for executive review
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** This story provides sophisticated strategic planning tools that enable data-driven decision making through scenario simulation and predictive modeling.

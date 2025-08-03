@@ -1,5 +1,10 @@
 # Story 236: Leader Sustainability Tracking Platform
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Story Description
 As a leader, I need a comprehensive sustainability tracking platform that monitors, analyzes, and reports on our institution's environmental impact, social responsibility initiatives, and governance practices, helping me make data-driven decisions to achieve our sustainability goals and meet regulatory requirements.
 
@@ -52,11 +57,6 @@ As a leader, I need a comprehensive sustainability tracking platform that monito
 - Story 072: Leader Decision Support System
 - Story 169: Leader Institutional Health Dashboard
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Mockup References
 - Leader UI Design: Strategic dashboard section
 - Sustainability metrics visualization

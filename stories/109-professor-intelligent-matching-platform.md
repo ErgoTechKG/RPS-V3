@@ -5,8 +5,12 @@ references:
   - DESIGN.md: lines 50-84
   - ui-ux/professor-ui.md: lines 529-566
 ---
-
 # Story 109: Professor Intelligent Matching Platform
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a **Professor**, I want to access an intelligent student matching platform that uses AI to recommend optimal student-project pairings based on multiple criteria, so that I can make better-informed decisions about student selection with data-driven insights.
@@ -48,11 +52,6 @@ As a **Professor**, I want to access an intelligent student matching platform th
 - Implement real-time matching score updates
 - Support privacy controls for student data
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Dependencies
 - Story 008: Professor Topic Management
 - Story 009: Professor Student Selection Process

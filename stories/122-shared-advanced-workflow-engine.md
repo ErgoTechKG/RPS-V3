@@ -5,8 +5,12 @@ references:
   - shared-ui.md: lines 869-911
   - DESIGN.md: lines 871-910
 ---
-
 # Story 122: Shared Advanced Workflow Engine
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a **User of any role**, I want access to an advanced workflow engine that can automate complex multi-step processes, handle dynamic workflows, and provide intelligent process optimization so that routine tasks are automated and complex workflows are managed efficiently across all system functions.
@@ -92,11 +96,6 @@ So that I can identify opportunities for process improvement
 - Document Management System (Story 049)
 - Secretary Advanced Workflow Automation (Story 082)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Acceptance Tests
 
 ### Workflow Creation Test

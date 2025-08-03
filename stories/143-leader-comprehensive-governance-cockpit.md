@@ -4,8 +4,12 @@ source_lines: 478-624
 references:
   - leader-ui.md: lines 478-624
 ---
-
 # Story 143: Leader Comprehensive Governance Cockpit
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a Leader, I need a comprehensive governance cockpit that provides unified oversight of all institutional policies, compliance monitoring, risk assessment, and strategic governance decisions with real-time insights and predictive analytics for effective institutional management.
@@ -78,11 +82,6 @@ As a Leader, I need a comprehensive governance cockpit that provides unified ove
 - Story 072: Leader Decision Support System
 - Story 047: Advanced Analytics and Reporting
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Priority
 High
 

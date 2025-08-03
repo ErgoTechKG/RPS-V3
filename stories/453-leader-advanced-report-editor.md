@@ -1,5 +1,10 @@
 # Story 453: Leader Advanced Report Editor with Collaborative Editing
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Role
 Leader
 
@@ -48,11 +53,6 @@ As a Leader, I want an advanced report editing interface with real-time collabor
 - Version control system integration
 - PDF generation service
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Dependencies
 - Story 042: Leader AI Report Generation
 - Story 356: Leader AI-Powered Report Editor

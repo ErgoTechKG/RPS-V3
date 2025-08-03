@@ -1,5 +1,10 @@
 # Story 269: Student Immersive VR Lab Experience
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Description
 As a Student, I want to access virtual reality laboratory experiences so that I can conduct experiments and practice procedures in a safe, immersive environment without physical lab constraints.
 
@@ -24,7 +29,3 @@ As a Student, I want to access virtual reality laboratory experiences so that I 
 - Create optimized 3D models for smooth performance
 - Design accessible UI for VR environment
 - Ensure cross-platform compatibility
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

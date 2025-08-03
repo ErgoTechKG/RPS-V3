@@ -5,8 +5,12 @@ references:
   - leader-ui.md: lines 264-294, 389-419
   - DESIGN.md: lines 264-294
 ---
-
 # Story 403: Leader Policy Impact Assessment Visualizer
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 
@@ -94,11 +98,6 @@ POST /api/leader/policy/feedback/integrate
 - Story 213: Leader AI-Powered Policy Impact Assessment System
 - Story 264: Leader Policy Impact Visualization Platform
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Definition of Done
 - [ ] Advanced visualization framework implemented with interactive capabilities
 - [ ] Impact modeling engine operational with scenario testing

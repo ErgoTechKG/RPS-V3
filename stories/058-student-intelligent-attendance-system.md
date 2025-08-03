@@ -5,8 +5,12 @@ references:
   - student-ui.md: lines 762-862
   - DESIGN.md: lines 114-117
 ---
-
 # User Story 058: Student Intelligent Attendance Management System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Story
 **As a** Student  
@@ -85,7 +89,3 @@ Medium
 - Offline capability for areas with poor connectivity
 - Dark mode support for various lighting conditions
 - Accessibility features for users with disabilities
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

@@ -6,8 +6,12 @@ references:
   - ui-ux/leader-ui.md: lines 464-474 (AI optimization tools)
   - DESIGN.md: lines 187-193 (leader decision support)
 ---
-
 # Story 092: Leader AI Policy Recommendation Engine
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Story Description
 As a Leader, I want to have an AI-powered policy recommendation engine so that I can receive intelligent suggestions for institutional improvements, policy adjustments, and strategic decisions based on comprehensive data analysis.
@@ -89,10 +93,5 @@ Low
 - Story 046: Leader Governance Controls
 - Story 047: Advanced Analytics and Reporting
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Notes
 This story implements sophisticated AI-driven strategic guidance that provides proactive policy recommendations and decision support as outlined in the leadership UI designs for intelligent assistance features.

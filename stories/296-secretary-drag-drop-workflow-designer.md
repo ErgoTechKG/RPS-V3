@@ -1,5 +1,10 @@
 # Story 296: Secretary Drag-and-Drop Workflow Designer
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Description
 As a Secretary, I want a visual drag-and-drop interface for creating automated workflows without coding, so that I can independently automate repetitive processes.
 
@@ -27,7 +32,3 @@ Medium
 - Component library for common actions
 - Testing framework for workflows
 - Version control integration
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

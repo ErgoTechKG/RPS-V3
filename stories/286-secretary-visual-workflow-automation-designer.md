@@ -1,5 +1,10 @@
 # User Story 286: Secretary - Visual Workflow Automation Designer
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Story
 As a Secretary, I want a visual workflow designer with drag-and-drop automation capabilities, template management, and intelligent recommendations, so that I can create and optimize complex operational workflows without technical expertise.
 
@@ -58,11 +63,6 @@ High
 - Template Management System
 - AI Recommendation Engine
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Notes
 - Support BPMN standards
 - Include workflow simulation

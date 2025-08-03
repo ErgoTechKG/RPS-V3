@@ -5,8 +5,12 @@ references:
   - professor-ui.md: lines 162-190, 164-200
   - DESIGN.md: lines 232-290
 ---
-
 # Story 336: Professor Visual Course Designer with Real-Time Preview
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Title
 Professor Visual Course Designer with Step-by-Step Wizard and Real-Time Preview
@@ -116,11 +120,6 @@ As a professor, I want a visual course designer with step-by-step guidance and r
 - 062 (Professor Resource Management System)
 - 118 (Professor Resource Library Management)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Estimated Effort
 Large (10-15 story points)
 

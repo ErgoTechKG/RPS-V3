@@ -5,8 +5,12 @@ references:
   - DESIGN.md: lines 50-84
   - ui-ux/professor-ui.md: lines 280-305, 567-590
 ---
-
 # Story 113: Professor Real-Time Collaboration Workspace
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a **Professor**, I want to access a real-time collaboration workspace that enables seamless interaction with students and colleagues during research projects, so that I can provide immediate guidance, facilitate group work, and maintain productive academic collaboration regardless of physical location.
@@ -55,11 +59,6 @@ As a **Professor**, I want to access a real-time collaboration workspace that en
 - Support offline mode with sync when reconnected
 - Ensure scalability for large collaborative sessions
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Dependencies
 - Story 010: Professor Process Management
 - Story 073: Shared Video Conferencing Platform

@@ -5,8 +5,12 @@ references:
   - secretary-ui.md: lines 391-412, 867-883
   - DESIGN.md: lines 633-669
 ---
-
 # Story 368: Secretary Visual Workflow Orchestration Designer
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a secretary, I want a visual drag-and-drop workflow designer that allows me to create, modify, and monitor automated processes for course management, data collection, and student coordination without requiring technical programming skills.
@@ -103,11 +107,6 @@ As a secretary, I want a visual drag-and-drop workflow designer that allows me t
 - Story 043: Secretary User Management
 - Story 082: Secretary Advanced Workflow Automation
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Definition of Done
 - [ ] Visual workflow designer is fully functional
 - [ ] Drag-and-drop interface works smoothly

@@ -5,8 +5,12 @@ references:
   - leader-ui.md: lines 180-210, 340-370
   - DESIGN.md: lines 180-210
 ---
-
 # Story 402: Leader Institutional Health Predictor
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 
@@ -94,11 +98,6 @@ GET /api/leader/health-predictor/benchmarks
 - Story 080: Leader Predictive Analytics System
 - Story 047: Advanced Analytics and Reporting
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Definition of Done
 - [ ] AI-powered prediction engine implemented with multiple forecasting models
 - [ ] Multi-dimensional health assessment framework operational

@@ -5,8 +5,12 @@ references:
   - professor-ui.md: lines 164-190, 236-261
   - DESIGN.md: lines 236-261
 ---
-
 # Story 391: Professor Visual Course Builder Interface
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 
@@ -87,11 +91,6 @@ PUT /api/professor/courses/{courseId}/builder/publish
 - Story 049: Shared Document Management System
 - Story 007: User Profile Management
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Definition of Done
 - [ ] Visual course builder interface implemented with full drag-and-drop functionality
 - [ ] Template system with library of pre-built course structures

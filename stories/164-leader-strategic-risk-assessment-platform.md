@@ -5,8 +5,12 @@ references:
   - leader-ui.md: lines 247-260 (预测分析系统)
   - leader-ui.md: lines 188-198 (决策支持)
 ---
-
 # Story 164: Leader Strategic Risk Assessment Platform
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Story Statement
 As a **Leader**, I want to **have a strategic risk assessment platform that identifies, analyzes, and models institutional risks across all operational areas**, so that **I can make informed decisions about risk mitigation and ensure long-term institutional sustainability and success**.
@@ -84,11 +88,6 @@ As a **Leader**, I want to **have a strategic risk assessment platform that iden
 - Story 048: Integration with External Systems (external data integration)
 - Story 020: Leader Executive Overview (dashboard foundation)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Success Metrics
 - **Risk Prediction Accuracy**: 85% accuracy in predicting major institutional risks
 - **Response Time**: 50% faster response to emerging risk scenarios

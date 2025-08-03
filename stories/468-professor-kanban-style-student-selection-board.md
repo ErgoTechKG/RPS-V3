@@ -1,5 +1,10 @@
 # Story 468: Professor Kanban-style Student Selection Board
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Description
 As a Professor, I need a visual Kanban-style board for managing student selection where I can drag and drop student applications between different status columns (pending, interviewing, accepted, waitlist, rejected) to streamline the selection process with an intuitive visual interface.
 
@@ -47,11 +52,6 @@ As a Professor, I need a visual Kanban-style board for managing student selectio
 - Story 037: Professor AI Student Matching
 - Story 090: Student Interview Booking System
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Priority
 High
 

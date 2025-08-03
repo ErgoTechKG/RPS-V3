@@ -1,7 +1,11 @@
 # User Story 064: Student Peer Collaboration Platform
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** This story creates a comprehensive peer learning environment that encourages student-to-student knowledge sharing and collaboration.
+
 ---
-status: TODO
 source_lines: N/A (derived from UI design analysis)
 references:
   - student-ui.md: lines 46-50
@@ -56,8 +60,3 @@ Low
 - File sharing and version control
 - Peer profile and reputation system
 - Mobile app for on-the-go collaboration
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** This story creates a comprehensive peer learning environment that encourages student-to-student knowledge sharing and collaboration.

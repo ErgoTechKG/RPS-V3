@@ -5,8 +5,12 @@ references:
   - shared-ui.md: lines 17-345 (complete design system)
   - DESIGN.md: lines 17-31 (technical stack and UI framework)
 ---
-
 # Story 335: Shared Design System Implementation and Management
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Title
 Shared Design System Implementation with Component Library Management
@@ -131,11 +135,6 @@ As a developer and designer, I want a comprehensive design system based on Ant D
 - 079 (Shared Design System Management)
 - 088 (Shared Accessibility Compliance System)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Estimated Effort
 Extra Large (15-25 story points)
 

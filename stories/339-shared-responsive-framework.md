@@ -5,8 +5,12 @@ references:
   - shared-ui.md: lines 275-294, 154-175
   - DESIGN.md: lines 10-11
 ---
-
 # Story 339: Shared Responsive Framework with Multi-Device Adaptation
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Title
 Shared Responsive Framework with Multi-Device Adaptation and Progressive Enhancement
@@ -118,11 +122,6 @@ As a user accessing the platform from any device, I want a responsive interface 
 - 079 (Shared Design System Management)
 - 335 (Shared Design System Implementation)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Estimated Effort
 Large (10-15 story points)
 

@@ -5,8 +5,12 @@ references:
   - secretary-ui.md: lines 285-315, 425-450
   - DESIGN.md: lines 285-315
 ---
-
 # Story 394: Secretary Visual Analytics Dashboard Designer
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 
@@ -87,11 +91,6 @@ GET /api/secretary/data-sources/available
 - Story 047: Advanced Analytics and Reporting
 - Story 076: Secretary Report Builder Platform
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Definition of Done
 - [ ] Visual dashboard builder interface implemented with full functionality
 - [ ] Integration with all major institutional data sources completed

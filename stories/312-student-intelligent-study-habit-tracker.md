@@ -6,8 +6,12 @@ references:
   - student-ui.md: lines 867-894 (personal growth analytics)
   - DESIGN.md: lines 87-122 (student route structure)
 ---
-
 # Story 312: Student Intelligent Study Habit Tracker
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## User Story
 As a Student, I want an intelligent study habit tracker so that I can understand my learning patterns, optimize my study methods, and build effective long-term academic habits through data-driven insights.
@@ -76,11 +80,6 @@ As a Student, I want an intelligent study habit tracker so that I can understand
 - Story 070: Student Learning Path Management
 - Story 129: Student Adaptive Study Companion
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Priority
 Medium - Enhances personal learning effectiveness and supports academic success
 

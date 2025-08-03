@@ -1,5 +1,10 @@
 # User Story 027: Student Material Submission for Comprehensive Evaluation
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Metadata
 - **Status**: finished
 - **Priority**: High
@@ -95,7 +100,3 @@ High
 - Material organization with category tabs
 - Mobile-responsive design for uploads
 - Clear validation messages and guidance
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

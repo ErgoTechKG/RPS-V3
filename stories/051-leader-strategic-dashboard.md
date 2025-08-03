@@ -5,8 +5,12 @@ references:
   - leader-ui.md: lines 60-123
   - shared-ui.md: lines 177-273
 ---
-
 # User Story 051: Leader Strategic Dashboard
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Story
 **As a** Leader  
@@ -76,7 +80,3 @@ Medium
 - Color-coded status indicators and alerts
 - Intuitive navigation with minimal cognitive load
 - Support for data export in multiple formats
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

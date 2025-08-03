@@ -1,5 +1,10 @@
 # User Story 021: Leader Resource Analysis for Lab Rotation
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 **Status**: finished
 
 ## Story
@@ -88,7 +93,3 @@ High
 - Optimization recommendation displays
 - Export capabilities for strategic planning
 - Drill-down functionality for detailed analysis
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

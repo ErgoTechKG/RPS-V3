@@ -5,8 +5,12 @@ references:
   - student-ui.md: lines 864-894
   - shared-ui.md: lines 297-318
 ---
-
 # Story 376: Student Comprehensive Wellness Dashboard
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Overview
 As a Student, I want access to a comprehensive wellness dashboard that monitors my academic stress, learning patterns, and mental health indicators, so that I can maintain optimal well-being while achieving academic success.
@@ -84,11 +88,6 @@ As a Student, I want access to a comprehensive wellness dashboard that monitors 
 - Campus mental health services integration
 - Wellness data analytics infrastructure
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Definition of Done
 - [ ] Wellness monitoring dashboard implemented with stress indicators
 - [ ] Learning performance analytics system functional

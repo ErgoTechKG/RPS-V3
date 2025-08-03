@@ -1,7 +1,11 @@
 # Story 154: Leader Strategic Simulation and Modeling Platform
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ---
-status: TODO
 source_lines: leader-ui.md:249-260, 465-475
 references:
   - leader-ui.md: lines 249-260, 465-475 (Strategic Simulation and Predictive Analytics)
@@ -167,11 +171,6 @@ Leader (Dean, Department Head, Senior Administrator)
 
 ## Dependencies
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ### Required Stories (Must be completed first)
 - Story 001: User Authentication (secure access to strategic modeling)
 - Story 020: Leader Executive Overview (basic leadership dashboard)

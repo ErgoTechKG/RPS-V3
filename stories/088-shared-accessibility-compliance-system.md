@@ -5,8 +5,12 @@ references:
   - ui-ux/shared-ui.md: lines 297-318
   - DESIGN.md: lines 749-758
 ---
-
 # Story 088: Shared Accessibility Compliance System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## User Story
 As a **system user with disabilities**, I want the platform to be fully accessible and compliant with international accessibility standards so that I can use all features effectively regardless of my physical or cognitive abilities.
@@ -80,11 +84,6 @@ The shared UI design document emphasizes comprehensive accessibility features in
 - Story 003: Shared Navigation System (for accessible navigation)
 - Story 079: Shared Design System Management (for accessible components)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Mockups/Wireframes
 Reference: ui-ux/shared-ui.md accessibility section (lines 297-318)
 

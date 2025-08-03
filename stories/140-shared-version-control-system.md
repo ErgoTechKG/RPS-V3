@@ -5,8 +5,12 @@ references:
   - shared-ui.md: lines 213-217 (documents/version-control)
   - DESIGN.md: lines 217 (documents/version-control)
 ---
-
 # Story 140: Shared Version Control System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 As a **User of any role**, I want a comprehensive version control system for documents and course materials so that I can collaborate effectively, track changes, and maintain historical records of important academic documents.
 
@@ -53,11 +57,6 @@ As a **User of any role**, I want a comprehensive version control system for doc
 - Story 049: Shared Document Management System
 - Story 007: User Profile Management
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Route Coverage
 - `/shared/documents/version-control`
 - `/shared/documents/collaborative-editing`

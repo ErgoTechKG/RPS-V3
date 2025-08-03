@@ -7,8 +7,12 @@ references:
   - student-ui.md: lines 660-697 (peer interaction systems)
   - shared-ui.md: lines 220-251 (collaboration components)
 ---
-
 # Story 382: Student Peer Mentoring Network Platform
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 **As a** student  
 **I want** a peer mentoring network platform that connects me with experienced students and allows me to both seek and provide academic guidance  
@@ -81,7 +85,3 @@ references:
 - Calendar and scheduling platform
 - File management and collaboration tools
 - Analytics and reporting framework
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

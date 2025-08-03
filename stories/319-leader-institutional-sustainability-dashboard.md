@@ -6,8 +6,12 @@ references:
   - leader-ui.md: lines 236-259 (sustainability and impact tracking)
   - DESIGN.md: lines 171-199 (leader route structure)
 ---
-
 # Story 319: Leader Institutional Sustainability Dashboard
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## User Story
 As a Leader, I want an institutional sustainability dashboard so that I can monitor, analyze, and optimize the long-term sustainability of educational programs, resource utilization, and institutional practices while ensuring environmental and social responsibility.
@@ -76,11 +80,6 @@ As a Leader, I want an institutional sustainability dashboard so that I can moni
 - Story 169: Leader Institutional Health Dashboard
 - Story 301: Leader AI Decision Engine
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Priority
 Medium-High - Important for long-term institutional viability and social responsibility
 

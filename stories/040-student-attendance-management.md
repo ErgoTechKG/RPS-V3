@@ -1,5 +1,10 @@
 # User Story 040: Student Attendance and Check-in Management
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Story
 **As a** Student  
 **I want** to manage my attendance and check-in requirements efficiently  
@@ -85,7 +90,3 @@ Medium
 - Mobile-optimized interface for on-the-go check-in
 - Clear attendance status indicators and progress tracking
 - Integration with calendar and scheduling displays
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

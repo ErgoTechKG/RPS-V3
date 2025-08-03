@@ -1,5 +1,10 @@
 # User Story 011: Professor Assessment and Grading
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Metadata
 - Status: finished
 - Completed: 2025-08-03
@@ -81,11 +86,6 @@ High
 - Batch processing capabilities
 - Mobile-friendly grading interface for presentations
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Implementation Status
 **Status:** ✅ COMPLETED
 

@@ -1,5 +1,10 @@
 # Story 295: Secretary Predictive Monitoring Control Center
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Description
 As a Secretary, I want a mission-critical monitoring dashboard with live alerts, predictive warnings, and automated responses, so that I can proactively manage institutional operations.
 
@@ -27,7 +32,3 @@ High
 - Automated response scripting engine
 - Alert escalation system
 - Performance monitoring tools integration
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

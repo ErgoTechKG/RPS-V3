@@ -1,5 +1,10 @@
 # User Story 048: Integration with External University Systems
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Story
 **As a** Secretary/Administrator  
 **I want** to integrate the research management platform with external university systems  
@@ -95,7 +100,3 @@ Low
 - Error handling and troubleshooting interface
 - Data validation and quality assurance tools
 - Administrative controls for integration scheduling and management
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

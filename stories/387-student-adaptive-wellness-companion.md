@@ -7,8 +7,12 @@ references:
   - shared-ui.md: lines 297-318 (accessibility considerations)
   - DESIGN.md: lines 151-159 (student system architecture)
 ---
-
 # Story 387: Student Adaptive Wellness Companion
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 **As a** student  
 **I want** an adaptive wellness companion that monitors my academic stress levels and provides personalized support and interventions  
@@ -81,7 +85,3 @@ references:
 - Machine learning and analytics platform
 - Secure communication and notification systems
 - Wearable device and health monitoring integrations
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

@@ -4,8 +4,12 @@ source_lines: 660-760
 references:
   - student-ui.md: lines 660-760
 ---
-
 # Story 148: Student Social Learning Platform
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a Student, I need a social learning platform that facilitates peer collaboration, enables knowledge sharing, provides structured study groups, and creates a supportive academic community to enhance learning through social interaction and collective knowledge building.
@@ -78,11 +82,6 @@ As a Student, I need a social learning platform that facilitates peer collaborat
 - Story 075: Student Study Group Platform
 - Story 127: Shared Real-Time Collaboration Workspace
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Priority
 Medium
 

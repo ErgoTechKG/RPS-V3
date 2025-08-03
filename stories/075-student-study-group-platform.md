@@ -5,8 +5,12 @@ references:
   - DESIGN.md: student routes
   - 000-story-index.md: collaboration features
 ---
-
 # User Story 075: Student Study Group Platform
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Story
 **As a** Student  
@@ -94,11 +98,6 @@ Medium
 - 049-shared-document-management
 - 005-shared-calendar-system
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Technical Requirements
 - Real-time collaboration infrastructure with WebSocket support
 - AI/ML algorithms for intelligent matching and recommendation

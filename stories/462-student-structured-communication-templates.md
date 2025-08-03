@@ -1,5 +1,10 @@
 # Story 462: Student Structured Communication Templates
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Role
 Student
 
@@ -48,11 +53,6 @@ As a Student, I want pre-built communication templates with guided prompts and s
 - Analytics for template usage
 - Integration with messaging system
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Dependencies
 - Story 039: Student Professor Communication
 - Story 057: Student Smart Communication System

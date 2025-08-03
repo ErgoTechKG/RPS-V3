@@ -1,5 +1,10 @@
 # Story 349: Leader Innovation Ecosystem Monitor
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Description
 As a leader, I want a comprehensive monitoring system for the institution's innovation ecosystem that tracks research outputs, collaboration networks, and innovation metrics, so that I can foster a culture of innovation and maximize research impact.
 
@@ -35,11 +40,6 @@ Medium
 - Machine learning for trend detection
 - Collaboration recommendation engines
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Route
 - `/leader/innovation-monitor/dashboard`
 - `/leader/innovation-monitor/research-outputs`

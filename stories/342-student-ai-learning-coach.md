@@ -1,5 +1,10 @@
 # Story 342: Student AI Learning Coach
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Description
 As a student, I want an AI learning coach that provides personalized study guidance, identifies knowledge gaps, and adapts teaching methods to my learning style, so that I can optimize my learning efficiency and academic performance.
 
@@ -35,11 +40,6 @@ High
 - Integration with cognitive science principles
 - Real-time performance assessment
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Route
 - `/student/ai-coach/dashboard`
 - `/student/ai-coach/learning-path`

@@ -6,8 +6,12 @@ references:
   - shared-ui.md: lines 297-318 (Inclusive design principles)
   - DESIGN.md: lines 33-35 (Shared components and help)
 ---
-
 # Story 410: Shared Contextual Intelligent Help System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As any system user, I want an intelligent contextual help system that provides role-specific guidance, real-time assistance, and accessibility support, so that I can efficiently use the platform regardless of my technical proficiency or specific needs.
@@ -82,10 +86,5 @@ Medium - Enhances user experience across all roles
 - Content management system
 - Accessibility testing framework
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Notes
 This intelligent help system serves as a universal accessibility layer, ensuring that users of all technical levels and abilities can effectively use the platform. It's particularly important for reducing the learning curve for new faculty and students.

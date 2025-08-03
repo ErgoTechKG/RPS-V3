@@ -5,8 +5,12 @@ references:
   - professor-ui.md: lines 161-207, 240-280
   - DESIGN.md: lines 54-84, 236-261
 ---
-
 # Story 351: Professor Intelligent Course Preview System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a professor, I want an intelligent course preview system that allows me to create interactive course previews with mockups, simulations, and preview materials, so that students can better understand course content and expectations before applying.
@@ -54,11 +58,6 @@ As a professor, I want an intelligent course preview system that allows me to cr
 - Story 049: Shared Document Management System
 - Story 047: Advanced Analytics and Reporting
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Priority
 Medium
 

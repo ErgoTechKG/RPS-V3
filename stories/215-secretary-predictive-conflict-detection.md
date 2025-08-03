@@ -5,8 +5,12 @@ references:
   - DESIGN.md: lines 124-168
   - ui-ux/secretary-ui.md: lines 309-320, 396-401, 771-795
 ---
-
 # Story 215: Secretary Predictive Conflict Detection System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Title
 Secretary Predictive Conflict Detection for Proactive Schedule and Resource Management
@@ -99,11 +103,6 @@ Secretaries need advanced conflict detection capabilities that go beyond simple 
 - Story 065: Secretary Conflict Resolution System (basic conflict management)
 - Story 111: Secretary Predictive Analytics Center (predictive capabilities)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Risks and Considerations
 - Complexity of modeling all possible conflict scenarios and interdependencies
 - Data quality requirements for accurate prediction and conflict detection

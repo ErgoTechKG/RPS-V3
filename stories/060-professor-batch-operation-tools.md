@@ -5,8 +5,12 @@ references:
   - professor-ui.md: lines 308-443
   - DESIGN.md: lines 253-257
 ---
-
 # User Story 060: Professor Batch Operation and Efficiency Tools
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Story
 **As a** Professor  
@@ -91,7 +95,3 @@ Medium
 - Error reporting with specific failure details
 - Responsive design optimized for productivity workflows
 - Keyboard shortcuts for power users
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

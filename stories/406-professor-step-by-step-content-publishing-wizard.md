@@ -5,8 +5,12 @@ references:
   - professor-ui.md: lines 193-199 (Step-by-step publishing wizard)
   - DESIGN.md: lines 237-261 (Topic management routes)
 ---
-
 # Story 406: Professor Step-by-Step Content Publishing Wizard
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a professor, I want a guided step-by-step wizard for publishing course topics that provides real-time preview and auto-save functionality, so that I can efficiently create high-quality course content without losing any work.
@@ -56,10 +60,5 @@ High - Core content creation functionality
 - Story 008 (Professor Topic Management)
 - Shared UI components for stepper and form elements
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Notes
 This wizard significantly improves the content creation experience by providing structured guidance and preventing data loss through auto-save functionality.

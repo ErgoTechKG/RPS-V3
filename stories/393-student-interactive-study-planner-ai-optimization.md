@@ -5,8 +5,12 @@ references:
   - student-ui.md: lines 649-681, 865-893
   - DESIGN.md: lines 200-220
 ---
-
 # Story 393: Student Interactive Study Planner with AI Optimization
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 
@@ -94,11 +98,6 @@ POST /api/student/schedule/feedback
 - Story 028: Student Progress Tracking
 - Story 005: Shared Calendar System
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Definition of Done
 - [ ] AI optimization engine implemented and tested with various scenarios
 - [ ] Interactive planning interface fully functional with drag-and-drop

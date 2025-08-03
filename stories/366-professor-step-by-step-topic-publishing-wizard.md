@@ -5,8 +5,12 @@ references:
   - professor-ui.md: lines 192-199
   - DESIGN.md: lines 237-261
 ---
-
 # Story 366: Professor Step-by-Step Topic Publishing Wizard
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a professor, I want a step-by-step wizard for publishing new research topics that guides me through the complete publication process with real-time preview and automatic draft saving, so that I can efficiently create comprehensive topic descriptions without losing progress.
@@ -75,11 +79,6 @@ As a professor, I want a step-by-step wizard for publishing new research topics 
 - Story 001: User Authentication
 - Story 002: Role-Based Dashboards
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Definition of Done
 - [ ] Step-by-step wizard is fully functional
 - [ ] Real-time preview works correctly

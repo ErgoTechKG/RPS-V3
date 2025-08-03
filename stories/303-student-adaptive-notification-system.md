@@ -4,8 +4,12 @@ source_lines: student-ui.md: 571-580, 748-759, 662-697
 references:
   - student-ui.md: lines 571-580 (notification settings), 748-759 (communication), 662-697 (structured communication)
 ---
-
 # Story 303: Student Adaptive Notification System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a **Student**, I want an adaptive notification system that learns my preferences and schedule to deliver timely, relevant notifications without overwhelming me, so that I can stay informed about important deadlines and opportunities while maintaining focus on my studies.
@@ -61,11 +65,6 @@ As a **Student**, I want an adaptive notification system that learns my preferen
 - Multi-channel communication infrastructure
 - Calendar and scheduling integration
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Priority
 Medium-High - Significantly improves user experience and engagement
 

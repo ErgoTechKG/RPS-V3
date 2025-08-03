@@ -1,7 +1,11 @@
 # User Story 063: Student Personal Growth Portfolio System
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** This story creates a comprehensive personal development tracking system that goes beyond basic academic tracking to include career planning and personal growth.
+
 ---
-status: TODO
 source_lines: N/A (derived from UI design analysis)
 references:
   - student-ui.md: lines 865-893
@@ -56,8 +60,3 @@ Low
 - Mobile-friendly portfolio viewing
 - Print and export options
 - Social sharing capabilities
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** This story creates a comprehensive personal development tracking system that goes beyond basic academic tracking to include career planning and personal growth.

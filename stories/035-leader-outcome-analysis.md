@@ -1,5 +1,10 @@
 # User Story 035: Leader Outcome Analysis for Comprehensive Evaluation
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Story
 **As a** Leader  
 **I want** to analyze comprehensive evaluation outcomes and their institutional impact  
@@ -86,7 +91,3 @@ High
 - Impact assessment and value analysis tools
 - Strategic planning and decision support interface
 - Export capabilities for institutional reporting
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

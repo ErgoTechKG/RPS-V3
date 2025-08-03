@@ -1,7 +1,11 @@
 # Story 445: Shared Multi-Dimensional Accessibility Engine
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ---
-status: TODO
 source_lines: 297-318
 references:
   - shared-ui.md: lines 297-318
@@ -60,11 +64,6 @@ The UI design specifications (shared-ui.md lines 297-318) describe an advanced a
 
 ## Technical Notes
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ### Architecture
 - Modular accessibility framework with plug-in architecture
 - AI-powered accessibility analysis and recommendation engine

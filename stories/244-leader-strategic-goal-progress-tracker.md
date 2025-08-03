@@ -5,8 +5,12 @@ references:
   - leader-ui.md: lines 75-82 (strategic goal tracking section)
   - leader-ui.md: lines 105-109 (progress visualization)
 ---
-
 # Story 244: Leader Strategic Goal Progress Tracker
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a leader, I want a comprehensive strategic goal progress tracking system with visual progress indicators and milestone management so that I can monitor institutional objectives, track completion rates, and ensure alignment between operational activities and strategic vision.
@@ -68,11 +72,6 @@ So that I can monitor institutional objectives and ensure strategic alignment
 - Story 042: Leader AI Report Generation
 - Story 047: Advanced Analytics and Reporting
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Business Value
 - Increases strategic plan execution success rate by 35%
 - Improves cross-departmental goal alignment

@@ -5,8 +5,12 @@ references:
   - professor-ui.md: lines 288-304
   - shared-ui.md: lines 222-251
 ---
-
 # User Story 097: Professor Course Timeline Management
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Story Overview
 
@@ -98,11 +102,6 @@ Course management involves complex scheduling of lectures, assignments, exams, a
 - Story 016: Secretary Course Setup and Configuration (for course structure)
 - Story 010: Professor Process Management (for workflow integration)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Definition of Done
 - [ ] Interactive timeline interface supports complex course planning scenarios
 - [ ] Dependency management correctly handles prerequisite relationships

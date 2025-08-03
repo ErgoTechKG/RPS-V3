@@ -4,8 +4,12 @@ source_lines: student-ui.md: 162, 239, 834-843
 references:
   - student-ui.md: lines 162 (digital wellness), 239 (mental health support), 834-843 (wellness statistics)
 ---
-
 # Story 307: Student Biometric Wellness Monitor
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a **Student**, I want a biometric wellness monitoring system that tracks my physical and mental health indicators during study sessions and academic activities, so that I can maintain optimal health and receive early warnings about stress or burnout.
@@ -61,11 +65,6 @@ As a **Student**, I want a biometric wellness monitoring system that tracks my p
 - Wearable device compatibility framework
 - Privacy and security infrastructure
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Priority
 Medium - Health and wellness are important for student success
 

@@ -5,8 +5,12 @@ references:
   - DESIGN.md: lines 86-122
   - ui-ux/student-ui.md: lines 866-894
 ---
-
 # Story 114: Student Smart Career Guidance System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a **Student**, I want to access a smart career guidance system that analyzes my academic progress, skills, and interests to provide personalized career recommendations and development pathways, so that I can make informed decisions about my academic and professional future.
@@ -55,11 +59,6 @@ As a **Student**, I want to access a smart career guidance system that analyzes 
 - Support external career services integration
 - Ensure privacy controls for career information
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Dependencies
 - Story 015: Student Achievements Showcase
 - Story 063: Student Personal Growth Portfolio System

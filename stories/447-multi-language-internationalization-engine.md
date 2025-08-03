@@ -1,5 +1,10 @@
 # Story 447: Multi-Language Internationalization Engine
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Description
 As a platform user, I need comprehensive internationalization support with multiple languages, right-to-left text support, and cultural localization so I can use the platform in my preferred language and cultural context.
 
@@ -35,11 +40,6 @@ As a platform user, I need comprehensive internationalization support with multi
 - Content management system updates
 - Database schema for multi-language content
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Roles Affected
 - All users (universal feature)
 - Content creators (multi-language content)

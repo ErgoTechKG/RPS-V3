@@ -6,8 +6,12 @@ references:
   - student-ui.md: lines 37-43 (Communication barrier solutions)
   - DESIGN.md: lines 110-113 (Student communication routes)
 ---
-
 # Story 407: Student Structured Communication Templates
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a student, I want structured communication templates with question categorization and formatting guidance, so that I can overcome communication anxiety and ask well-formed questions to professors without fear of appearing unprofessional.
@@ -66,10 +70,5 @@ High - Addresses core student communication barriers
 - Shared UI form components
 - File upload infrastructure
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Notes
 This feature directly addresses the primary pain point of student communication anxiety by providing structure and guidance. The template system helps students formulate professional questions while reducing the fear of asking "wrong" questions.

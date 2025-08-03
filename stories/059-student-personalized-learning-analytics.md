@@ -5,8 +5,12 @@ references:
   - student-ui.md: lines 864-894
   - student-ui.md: lines 616-647
 ---
-
 # User Story 059: Student Personalized Learning Analytics and Growth Portfolio
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Story
 **As a** Student  
@@ -85,7 +89,3 @@ Medium
 - Intuitive navigation with personalized dashboard customization
 - Mobile-first responsive design for on-the-go access
 - Accessibility features for inclusive learning analytics
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

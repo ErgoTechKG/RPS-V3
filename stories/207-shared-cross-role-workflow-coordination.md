@@ -4,8 +4,12 @@ source_lines: UI analysis
 references:
   - DESIGN.md: lines 584-631, 633-776
 ---
-
 # Story 207: Shared Cross-Role Workflow Coordination System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Overview
 
@@ -101,11 +105,6 @@ As a user of any role, I need a comprehensive cross-role workflow coordination s
 - Story 005: Shared Calendar System
 - Story 049: Shared Document Management System
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Definition of Done
 
 - [ ] Users can participate in complex multi-role workflows

@@ -1,7 +1,11 @@
 # Story 437: Secretary Blockchain-Based Audit Trail System
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ---
-status: TODO
 source_lines: 990-1125
 references:
   - secretary-ui.md: lines 990-1125
@@ -54,11 +58,6 @@ The UI design specifications (secretary-ui.md lines 990-1125) describe an advanc
 
 ## Technical Notes
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ### Architecture
 - Private/consortium blockchain network (Hyperledger Fabric or similar)
 - Smart contract development platform

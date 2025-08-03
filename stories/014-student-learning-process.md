@@ -1,5 +1,10 @@
 # User Story 014: Student Learning Process in Lab Rotation
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD
+**Notes:** To be implemented
+
 ## Story
 **As a** Student  
 **I want** to manage my learning activities and track progress during lab rotation  
@@ -49,10 +54,6 @@
 
 ## Priority
 High
-
-## Status
-**Status:** unfinished  
-finished
 
 ## Route
 - `/student/courses/lab-rotation/:courseId/learning-process/tasks`

@@ -5,8 +5,12 @@ references:
   - ui-ux/leader-ui.md: lines 60-123
   - DESIGN.md: lines 170-199
 ---
-
 # Story 084: Leader Institutional Dashboard
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## User Story
 As a **leader**, I want a comprehensive institutional dashboard that provides real-time strategic insights and high-level analytics so that I can monitor institutional performance and make informed strategic decisions.
@@ -83,11 +87,6 @@ The leader UI design emphasizes a strategic, high-level dashboard focused on ins
 - Story 047: Advanced Analytics and Reporting (for analytics foundation)
 - Story 080: Leader Predictive Analytics System (for predictive capabilities)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Mockups/Wireframes
 Reference: ui-ux/leader-ui.md strategic dashboard design (lines 60-123)
 

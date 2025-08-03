@@ -1,5 +1,10 @@
 # Story 424: Shared Adaptive Accessibility Personalization Suite
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Description
 As any user with accessibility needs, I want an adaptive personalization suite that automatically adjusts the interface based on my specific requirements and learns from my usage patterns to provide an optimal experience.
 
@@ -22,11 +27,6 @@ As any user with accessibility needs, I want an adaptive personalization suite t
 - Performance optimization for assistive tech
 - Continuous accessibility testing pipeline
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Dependencies
 - Story 088: Shared Accessibility Compliance System
 - Story 299: Shared Accessibility Compliance Engine

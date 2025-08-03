@@ -5,8 +5,12 @@ references:
   - leader-ui.md: lines 60-87, 232-261
   - DESIGN.md: lines 179-199
 ---
-
 # Story 134: Leader Strategic Visualization Platform
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Overview
 As a leader, I want a comprehensive strategic visualization platform that provides real-time data insights, predictive analytics, and interactive dashboards for institutional decision-making, so that I can make data-driven strategic decisions with confidence.
@@ -130,11 +134,6 @@ DashboardWidget {
 - Story 047: Advanced Analytics and Reporting (for data processing)
 - Story 019: Secretary Data Collection (for data sources)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Priority
 High - Essential for strategic decision-making and institutional leadership
 

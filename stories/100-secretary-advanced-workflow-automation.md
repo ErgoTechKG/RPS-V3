@@ -5,8 +5,12 @@ references:
   - secretary-ui.md: lines 621-630, 52-57
   - shared-ui.md: lines 222-251
 ---
-
 # User Story 100: Secretary Advanced Workflow Automation
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Story Overview
 
@@ -99,11 +103,6 @@ Administrative work involves many repetitive processes that can be automated to 
 - Story 043: Secretary User Management (for user context in workflows)
 - Story 004: Notification System (for automated communications)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Definition of Done
 - [ ] Visual workflow builder supports complex multi-step process design
 - [ ] Workflow execution engine handles concurrent processes reliably

@@ -1,5 +1,10 @@
 # Story 420: Professor AI Research Collaboration Assistant
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Description
 As a Professor, I want an AI research collaboration assistant that helps me find potential collaborators, suggests research directions based on emerging trends, and facilitates grant proposal writing.
 
@@ -22,11 +27,6 @@ As a Professor, I want an AI research collaboration assistant that helps me find
 - Collaborative editing infrastructure
 - Scalable document processing pipeline
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Dependencies
 - Story 177: Professor Research Collaboration Network
 - Story 238: Professor Research Grant Management System

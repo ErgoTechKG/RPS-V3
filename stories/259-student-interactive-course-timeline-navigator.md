@@ -1,5 +1,10 @@
 # Story 259: Student Interactive Course Timeline Navigator
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Overview
 As a student, I need an interactive visual timeline that shows all course milestones, deadlines, and progress, allowing me to navigate through past, present, and future course activities with clear visual indicators of my completion status.
 
@@ -35,11 +40,6 @@ High - Essential for student course navigation and time management
 - Story 028: Student progress tracking
 - Story 070: Student learning path management
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Mockups
 - Interactive timeline interface with zoom controls
 - Milestone detail popups

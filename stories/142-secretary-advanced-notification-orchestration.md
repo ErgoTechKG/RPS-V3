@@ -4,8 +4,12 @@ source_lines: 620-631
 references:
   - secretary-ui.md: lines 620-631
 ---
-
 # Story 142: Secretary Advanced Notification Orchestration System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a Secretary, I need an advanced notification orchestration system that intelligently manages communication across all platform users, with automated escalation, multi-channel delivery, and smart timing optimization to ensure critical information reaches the right people at the right time.
@@ -70,11 +74,6 @@ As a Secretary, I need an advanced notification orchestration system that intell
 - Story 041: Secretary AI Insights
 - Story 055: Secretary Monitoring Control Center
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Priority
 Medium
 

@@ -5,8 +5,12 @@ references:
   - leader-ui.md: lines 438-475 (AI-assisted design system)
   - leader-ui.md: lines 296-437 (course system design and standards)
 ---
-
 # Story 330: Leader AI Governance Advisor
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a leader, I want an AI governance advisor so that I can receive intelligent recommendations for policy development, regulatory compliance, and institutional decision-making based on data analysis, best practices, and predictive modeling.
@@ -73,10 +77,5 @@ As a leader, I want an AI governance advisor so that I can receive intelligent r
 - Story 092: Leader AI Policy Recommendation Engine
 - Story 143: Leader Comprehensive Governance Cockpit
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Route
 `/leader/governance/ai-advisor`

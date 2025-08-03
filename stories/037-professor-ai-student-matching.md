@@ -1,5 +1,10 @@
 # User Story 037: Professor AI-Powered Student Matching System
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Story
 **As a** Professor  
 **I want** to use AI to identify the best student matches for my research topics  
@@ -84,7 +89,3 @@ Medium
 - Comparative analysis and ranking interfaces
 - Matching explanation and rationale views
 - Analytics and effectiveness tracking displays
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

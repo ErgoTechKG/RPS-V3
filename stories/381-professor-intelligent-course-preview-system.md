@@ -6,8 +6,12 @@ references:
   - professor-ui.md: lines 189-209 (topic publishing wizard)
   - shared-ui.md: lines 200-251 (component specifications)
 ---
-
 # Story 381: Professor Intelligent Course Preview System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 **As a** professor  
 **I want** an intelligent course preview system that allows me to create rich, interactive previews of my courses with multimedia content and real-time editing  
@@ -72,7 +76,3 @@ references:
 - Course management infrastructure
 - Multimedia content management system
 - Analytics and reporting platform
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

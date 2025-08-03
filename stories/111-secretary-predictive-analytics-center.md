@@ -5,8 +5,12 @@ references:
   - DESIGN.md: lines 124-168
   - ui-ux/secretary-ui.md: lines 770-797, 809-824
 ---
-
 # Story 111: Secretary Predictive Analytics Center
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a **Secretary**, I want to access a predictive analytics center that can forecast potential conflicts and issues before they occur, so that I can implement proactive interventions and maintain smooth operations across all educational processes.
@@ -55,11 +59,6 @@ As a **Secretary**, I want to access a predictive analytics center that can fore
 - Support real-time data processing and analysis
 - Ensure scalability for growing data volumes
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Dependencies
 - Story 018: Secretary Process Monitoring
 - Story 019: Secretary Data Collection

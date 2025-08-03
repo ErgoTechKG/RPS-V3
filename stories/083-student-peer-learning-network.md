@@ -5,8 +5,12 @@ references:
   - ui-ux/student-ui.md: lines 45-50
   - ui-ux/student-ui.md: lines 652-658
 ---
-
 # Story 083: Student Peer Learning Network
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## User Story
 As a **student**, I want to connect with fellow students for collaborative learning and peer support so that I can benefit from shared knowledge, study together, and overcome the challenge of weak research foundations through peer assistance.
@@ -78,11 +82,6 @@ The student UI design emphasizes peer collaboration and shared learning experien
 - Story 049: Shared Document Management System (for collaboration)
 - Story 073: Shared Video Conferencing Platform (for virtual study sessions)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Mockups/Wireframes
 Reference: ui-ux/student-ui.md peer collaboration features
 

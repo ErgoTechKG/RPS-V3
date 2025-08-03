@@ -1,5 +1,10 @@
 # User Story 039: Student-Professor Communication Interface
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Story
 **As a** Student  
 **I want** to communicate effectively with professors through structured channels  
@@ -86,7 +91,3 @@ Medium
 - Communication history with search functionality
 - Anonymous communication options
 - Mobile-responsive design for accessibility
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

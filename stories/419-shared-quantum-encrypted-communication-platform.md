@@ -1,5 +1,10 @@
 # Story 419: Shared Quantum-Encrypted Communication Platform
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Description
 As any user, I want a quantum-encrypted communication platform that ensures absolute security for sensitive academic communications while providing seamless integration with existing workflows.
 
@@ -22,11 +27,6 @@ As any user, I want a quantum-encrypted communication platform that ensures abso
 - High-availability infrastructure
 - Regular security audits and penetration testing
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Dependencies
 - Story 193: Shared Advanced Security Privacy Management
 - Story 304: Secretary Cross-Platform Data Orchestrator

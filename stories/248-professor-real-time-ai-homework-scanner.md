@@ -5,8 +5,12 @@ references:
   - professor-ui.md: lines 513-527 (AI detection panel section)
   - professor-ui.md: lines 517-521 (detection results display)
 ---
-
 # Story 248: Professor Real-time AI Homework Scanner
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a professor, I want a real-time AI homework scanning system that detects plagiarism and AI-generated content during submission so that I can immediately identify academic integrity issues, provide instant feedback to students, and maintain educational standards while streamlining the review process.
@@ -75,11 +79,6 @@ So that I can immediately detect academic integrity issues and provide instant f
 - Story 010: Professor Process Management
 - Story 004: Notification System
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Business Value
 - Reduces manual plagiarism checking time by 80%
 - Improves academic integrity enforcement consistency

@@ -4,8 +4,12 @@ source_lines: UI analysis
 references:
   - student-ui.md: lines 157, 404-413
 ---
-
 # Story 198: Student Smart Notification System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Overview
 
@@ -101,11 +105,6 @@ As a student, I need an intelligent notification system that filters, prioritize
 - Story 005: Shared Calendar System
 - Story 039: Student-Professor Communication
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Definition of Done
 
 - [ ] Students receive intelligently filtered and prioritized notifications

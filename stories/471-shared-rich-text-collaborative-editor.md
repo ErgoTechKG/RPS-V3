@@ -1,5 +1,10 @@
 # Story 471: Shared Rich Text Collaborative Editor
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Description
 As a user in any role, I need a rich text collaborative editor that allows multiple users to edit documents simultaneously with real-time synchronization, showing live cursors, comments, and version control, enabling seamless collaboration on reports, proposals, and documentation.
 
@@ -56,11 +61,6 @@ As a user in any role, I need a rich text collaborative editor that allows multi
 - Story 140: Shared Version Control System
 - Story 145: Shared Intelligent Content Management System
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Priority
 High
 

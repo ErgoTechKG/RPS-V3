@@ -1,7 +1,11 @@
 # User Story 067: Leader Institutional Benchmarking System
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** This story enables strategic decision-making through comprehensive comparison with peer institutions and industry benchmarks.
+
 ---
-status: TODO
 source_lines: N/A (derived from UI design analysis)
 references:
   - leader-ui.md: lines 183-184, 442-445
@@ -56,8 +60,3 @@ Low
 - Benchmarking report builder
 - Export capabilities for presentations
 - Responsive design for executive viewing
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** This story enables strategic decision-making through comprehensive comparison with peer institutions and industry benchmarks.

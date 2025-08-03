@@ -6,8 +6,12 @@ references:
   - professor-ui.md: lines 677-697 (AI-powered insights and recommendations)
   - DESIGN.md: lines 51-84 (professor route structure)
 ---
-
 # Story 316: Professor Intelligent Course Analytics Dashboard
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## User Story
 As a Professor, I want an intelligent course analytics dashboard so that I can gain deep insights into student learning patterns, course effectiveness, and optimization opportunities through comprehensive data analysis and AI-powered recommendations.
@@ -76,11 +80,6 @@ As a Professor, I want an intelligent course analytics dashboard so that I can g
 - Story 123: Professor Real-Time Grading Dashboard
 - Story 282: Professor Visual Course Analytics Dashboard
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Priority
 High - Essential for data-driven teaching improvement and student success optimization
 

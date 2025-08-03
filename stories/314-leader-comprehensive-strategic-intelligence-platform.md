@@ -6,8 +6,12 @@ references:
   - leader-ui.md: lines 438-475 (AI-powered strategic planning)
   - DESIGN.md: lines 171-199 (leader route structure)
 ---
-
 # Story 314: Leader Comprehensive Strategic Intelligence Platform
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## User Story
 As a Leader, I want a comprehensive strategic intelligence platform so that I can make informed decisions based on integrated institutional data, predictive analytics, and strategic scenario modeling for long-term institutional success.
@@ -76,11 +80,6 @@ As a Leader, I want a comprehensive strategic intelligence platform so that I ca
 - Story 126: Leader AI-Powered Strategic Planning Workbench
 - Story 301: Leader AI Decision Engine
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Priority
 High - Essential for evidence-based strategic leadership and institutional advancement
 

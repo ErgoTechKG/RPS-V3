@@ -1,5 +1,10 @@
 # Story 292: Professor Live Grading Analytics Dashboard
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Description
 As a Professor, I want a real-time grading dashboard showing live student performance with predictive insights, so that I can provide proactive intervention and support.
 
@@ -27,7 +32,3 @@ High
 - Data visualization libraries (D3.js/Chart.js)
 - Alert notification system
 - Performance optimization for large datasets
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

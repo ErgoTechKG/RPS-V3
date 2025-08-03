@@ -1,7 +1,11 @@
 # User Story 169: Leader Institutional Health Dashboard
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ---
-status: TODO
 source_lines: leader-ui.md lines 60-120 (strategic dashboard design)
 references:
   - DESIGN.md: lines 179-199 (leader data overview and analytics)
@@ -75,11 +79,6 @@ High
 - Customizable dashboard layouts for different leadership roles
 - Professional presentation-ready reporting interface
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Data Sources and Integration
 - Student information systems and academic records
 - Financial management and budget systems

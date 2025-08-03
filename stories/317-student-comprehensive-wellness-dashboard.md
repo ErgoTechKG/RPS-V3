@@ -6,8 +6,12 @@ references:
   - student-ui.md: lines 239-270 (mental health support integration)
   - DESIGN.md: lines 87-122 (student route structure)
 ---
-
 # Story 317: Student Comprehensive Wellness Dashboard
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## User Story
 As a Student, I want a comprehensive wellness dashboard so that I can monitor and maintain my physical, mental, and academic well-being while receiving personalized support and intervention recommendations.
@@ -76,11 +80,6 @@ As a Student, I want a comprehensive wellness dashboard so that I can monitor an
 - Story 028: Student Progress Tracking
 - Story 307: Student Biometric Wellness Monitor
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Priority
 High - Critical for student success, retention, and overall well-being
 

@@ -7,8 +7,12 @@ references:
   - DESIGN.md: lines 3-15 (platform overview and user types)
   - All UI files: comprehensive accessibility requirements
 ---
-
 # Story 390: Shared Next-Generation Accessibility Framework
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 **As a** user with diverse abilities and needs  
 **I want** a next-generation accessibility framework that automatically adapts the entire platform to my specific accessibility requirements  
@@ -81,7 +85,3 @@ references:
 - Content management system with semantic markup and accessibility metadata
 - Real-time processing capabilities for live accessibility features
 - Comprehensive user preference and profile management system
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

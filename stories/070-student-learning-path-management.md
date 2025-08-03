@@ -5,8 +5,12 @@ references:
   - DESIGN.md: student routes
   - 000-story-index.md: AI learning features
 ---
-
 # User Story 070: Student Learning Path Management
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Story
 **As a** Student  
@@ -94,11 +98,6 @@ High
 - 028-student-progress-tracking
 - 015-student-achievements-showcase
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Technical Requirements
 - Advanced AI/ML algorithms for personalization and recommendation
 - Real-time data processing and analytics pipeline

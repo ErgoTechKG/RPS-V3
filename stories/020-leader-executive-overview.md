@@ -1,5 +1,10 @@
 # User Story 020: Leader Executive Overview for Lab Rotation
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Story
 **As a** Leader  
 **I want** to view high-level executive dashboards for lab rotation courses  
@@ -76,11 +81,6 @@ High
 - Export capabilities for presentations
 - Alert management and prioritization interface
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Implementation Status
 - status: finished
 - completed_date: 2025-01-06

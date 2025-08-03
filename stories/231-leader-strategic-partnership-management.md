@@ -1,5 +1,10 @@
 # Story 231: Leader Strategic Partnership Management System
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Story Description
 As a leader, I need a comprehensive partnership management system that helps me identify, evaluate, establish, and maintain strategic partnerships with industry, other institutions, and research organizations to enhance our educational programs, research capabilities, and student opportunities.
 
@@ -52,11 +57,6 @@ As a leader, I need a comprehensive partnership management system that helps me 
 - Story 042: Leader AI Report Generation
 - Story 190: Leader Competitive Analysis and Benchmarking Platform
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Mockup References
 - Leader UI Design: Strategic planning interfaces
 - Partnership dashboard concepts

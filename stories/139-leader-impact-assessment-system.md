@@ -5,8 +5,12 @@ references:
   - leader-ui.md: lines 446-450 (决策支持/impact-assessment)
   - DESIGN.md: lines 193 (decision-support/impact-assessment)
 ---
-
 # Story 139: Leader Impact Assessment System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 As a **Leader**, I want an advanced impact assessment system so that I can evaluate the potential effects of policy changes and strategic decisions before implementation, ensuring data-driven institutional management.
 
@@ -54,11 +58,6 @@ As a **Leader**, I want an advanced impact assessment system so that I can evalu
 - Story 072: Leader Decision Support System
 - Story 080: Leader Predictive Analytics System
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Route Coverage
 - `/leader/decision-support/impact-assessment`
 - `/leader/decision-support/scenario-planning`

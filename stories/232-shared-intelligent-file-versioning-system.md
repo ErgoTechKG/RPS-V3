@@ -1,5 +1,10 @@
 # Story 232: Shared Intelligent File Versioning System
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Story Description
 As any user in the system, I need an intelligent file versioning system that automatically tracks changes, manages versions, enables collaboration, and provides smart conflict resolution so that I can work confidently with documents knowing that my work is protected and collaboration is seamless.
 
@@ -52,11 +57,6 @@ As any user in the system, I need an intelligent file versioning system that aut
 - Story 001: User Authentication
 - Story 193: Shared Advanced Security and Privacy Management
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Mockup References
 - Shared UI Design: Document management interfaces
 - Version control visualization patterns

@@ -6,8 +6,12 @@ references:
   - secretary-ui.md: lines 195-205 (Timeline configuration tools)
   - DESIGN.md: lines 237-261 (Topic management and scheduling)
 ---
-
 # Story 411: Professor Visual Course Timeline Designer
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a professor, I want a visual timeline designer with drag-and-drop functionality for planning course schedules, managing dependencies, and tracking critical paths, so that I can efficiently organize complex course structures and ensure optimal learning progression.
@@ -82,10 +86,5 @@ High - Essential course planning tool
 - Calendar integration infrastructure
 - Task management system
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Notes
 This visual timeline designer transforms course planning from static documents to dynamic, interactive planning tools. It helps professors visualize course flow, identify bottlenecks, and maintain optimal pacing throughout the semester.

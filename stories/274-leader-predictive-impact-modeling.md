@@ -1,5 +1,10 @@
 # Story 274: Leader Predictive Impact Modeling
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Description
 As a Leader, I want an AI-powered predictive modeling system that helps me understand the potential impact of policy changes before implementation, with data-driven insights and risk assessment.
 
@@ -24,7 +29,3 @@ As a Leader, I want an AI-powered predictive modeling system that helps me under
 - Design interactive visualization components
 - Ensure model versioning and reproducibility
 - Build continuous learning pipeline
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

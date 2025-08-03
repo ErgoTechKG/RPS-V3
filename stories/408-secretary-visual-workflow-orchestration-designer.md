@@ -6,8 +6,12 @@ references:
   - secretary-ui.md: lines 271-273 (Visual adjustment interface)
   - DESIGN.md: lines 143-167 (Secretary data management routes)
 ---
-
 # Story 408: Secretary Visual Workflow Orchestration Designer
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a secretary, I want a visual drag-and-drop workflow designer that allows me to create, modify, and monitor automated processes without coding, so that I can efficiently orchestrate complex administrative workflows and reduce manual coordination overhead.
@@ -76,10 +80,5 @@ High - Core productivity enhancement for secretaries
 - Notification system infrastructure
 - Calendar and scheduling systems
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Notes
 This visual workflow designer transforms the secretary's role from manual coordination to strategic process design, significantly reducing repetitive tasks and improving institutional efficiency.

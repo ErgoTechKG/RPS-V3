@@ -5,8 +5,12 @@ references:
   - leader-ui.md: lines 250-260, 249-254
   - shared-ui.md: lines 275-295
 ---
-
 # User Story 105: Leader Strategic Simulation System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Story Overview
 
@@ -99,11 +103,6 @@ Strategic decision-making in educational institutions involves complex variables
 - Story 047: Advanced Analytics and Reporting (for analytics infrastructure)
 - Story 080: Leader Predictive Analytics System (for prediction capabilities)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Definition of Done
 - [ ] Simulation system accurately models complex institutional scenarios
 - [ ] Predictive analytics provide reliable forecasting within acceptable confidence intervals

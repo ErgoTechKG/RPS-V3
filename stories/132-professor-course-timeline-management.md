@@ -5,8 +5,12 @@ references:
   - professor-ui.md: lines 89-91
   - DESIGN.md: lines 298-300
 ---
-
 # Story 132: Professor Course Timeline Management
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Overview
 As a professor, I want a comprehensive course timeline management system that allows me to visually plan, adjust, and monitor all course phases and deadlines, so that I can ensure smooth course progression and proactive deadline management.
@@ -131,11 +135,6 @@ PhaseDefinition {
 - Story 005: Shared Calendar System (for calendar integration)
 - Story 004: Notification System (for timeline alerts)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Priority
 High - Essential for effective course management and coordination
 

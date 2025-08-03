@@ -1,5 +1,10 @@
 # Story 235: Secretary Blockchain-Based Credential Management System
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Story Description
 As a secretary, I need a blockchain-based credential management system that securely stores, verifies, and shares student academic credentials, certificates, and achievements in a tamper-proof manner, enabling instant verification and reducing administrative burden while preventing credential fraud.
 
@@ -52,11 +57,6 @@ As a secretary, I need a blockchain-based credential management system that secu
 - Story 193: Shared Advanced Security and Privacy Management
 - Story 032: Secretary Publication Handling
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Mockup References
 - Secretary UI Design: Data management section
 - Blockchain credential workflows

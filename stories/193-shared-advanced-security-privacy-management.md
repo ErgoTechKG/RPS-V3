@@ -1,5 +1,10 @@
 # Story 193: Shared Advanced Security and Privacy Management
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Role
 All Roles
 
@@ -43,11 +48,6 @@ As a platform user, I want a comprehensive security framework with role-based pr
 - Blockchain for audit trails
 - AI-powered threat detection
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## User Impact
 CRITICAL - Ensures platform security and user privacy
 

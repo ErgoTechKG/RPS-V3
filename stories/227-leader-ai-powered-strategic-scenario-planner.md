@@ -1,7 +1,11 @@
 # Story 227: Leader AI-Powered Strategic Scenario Planner
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ---
-status: TODO
 source_lines: leader-ui.md: lines 297-476
 references:
   - leader-ui.md: lines 297-476 (课程体系设计)
@@ -74,10 +78,5 @@ As a leader, I want to access an AI-powered strategic scenario planner so that I
 - Story 072: Leader Decision Support System
 - Story 080: Leader Predictive Analytics System
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Wireframe Notes
 The interface should feature sophisticated scenario modeling tools with AI-powered simulation engines, comprehensive comparative analysis capabilities, and collaborative planning workflows as described in the leader UI specifications.

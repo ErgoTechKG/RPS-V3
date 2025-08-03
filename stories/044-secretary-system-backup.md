@@ -1,5 +1,10 @@
 # User Story 044: Secretary System Backup and Data Management
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Story
 **As a** Secretary  
 **I want** to manage system backups and data protection  
@@ -82,7 +87,3 @@ Medium
 - Compliance tracking and reporting tools
 - Disaster recovery testing and documentation interface
 - Administrative coordination and communication tools
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

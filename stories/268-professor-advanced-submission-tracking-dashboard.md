@@ -1,5 +1,10 @@
 # Story 268: Professor Advanced Submission Tracking Dashboard
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Description
 As a Professor, I want a real-time submission tracking dashboard that shows live progress of student submissions during deadline periods, allowing me to monitor completion rates and intervene when necessary.
 
@@ -23,7 +28,3 @@ As a Professor, I want a real-time submission tracking dashboard that shows live
 - Create efficient data aggregation for large student groups
 - Design performance-optimized dashboard rendering
 - Ensure scalability during peak submission periods
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

@@ -6,8 +6,12 @@ references:
   - student-ui.md: lines 273-279 (Progress tracking interface)
   - DESIGN.md: lines 110-113 (Student progress tracking)
 ---
-
 # Story 412: Student Interactive Progress Timeline Navigator
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a student, I want an interactive timeline navigator that shows my learning journey, milestone achievements, and upcoming deadlines with visual progress indicators, so that I can track my advancement and stay motivated throughout the course.
@@ -82,10 +86,5 @@ High - Core student engagement feature
 - Assignment and grading systems
 - Calendar integration
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Notes
 This interactive timeline transforms the abstract concept of academic progress into a tangible, visual journey. It serves as both a practical planning tool and a motivational dashboard, helping students maintain momentum and celebrate achievements.

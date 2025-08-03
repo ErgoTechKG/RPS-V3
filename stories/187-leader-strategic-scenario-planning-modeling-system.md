@@ -1,5 +1,10 @@
 # Story 187: Leader Strategic Scenario Planning and Modeling System
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Role
 Leader
 
@@ -43,11 +48,6 @@ As a leader, I want an advanced strategic planning tool with scenario modeling, 
 - Real-time collaboration features
 - Export to standard planning formats
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## User Impact
 CRITICAL - Enables data-driven strategic decision making
 

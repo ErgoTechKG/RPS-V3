@@ -1,5 +1,10 @@
 # Story 176: Professor Intelligent Assignment Distribution System
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Role
 Professor
 
@@ -43,11 +48,6 @@ As a professor, I want an advanced assignment management system that allows me t
 - Real-time collaboration for group assignments
 - Automated backup of all submissions
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## User Impact
 HIGH - Significantly improves assignment workflow efficiency and academic integrity monitoring
 

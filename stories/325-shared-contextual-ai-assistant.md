@@ -6,8 +6,12 @@ references:
   - professor-ui.md: lines 480-566 (AI functionality integration)
   - shared-ui.md: lines 308-317 (accessibility and screen reader support)
 ---
-
 # Story 325: Shared Contextual AI Assistant
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As any user of the system, I want a contextual AI assistant that adapts to my role and current task so that I can receive personalized guidance, automated suggestions, and intelligent support throughout my workflow.
@@ -68,10 +72,5 @@ As any user of the system, I want a contextual AI assistant that adapts to my ro
 - Story 006: Help and Documentation System
 - Story 038: Student AI Learning Assistant
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Route
 `/shared/ai-assistant` (available globally)

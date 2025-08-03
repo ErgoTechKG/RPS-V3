@@ -1,5 +1,10 @@
 # User Story 017: Secretary Participant Management for Lab Rotation
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Metadata
 - **Status**: finished
 - **Implementation Date**: 2024-12-11
@@ -98,7 +103,3 @@ High
 - Communication interface with templates
 - Real-time status updates and notifications
 - Administrative reporting dashboard
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

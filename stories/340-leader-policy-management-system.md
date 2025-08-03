@@ -5,8 +5,12 @@ references:
   - leader-ui.md: lines 478-624, 509-586
   - DESIGN.md: lines 194-199
 ---
-
 # Story 340: Leader Policy Management System with Impact Assessment
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Title
 Leader Policy Management System with Impact Assessment and Governance Controls
@@ -124,11 +128,6 @@ As a leader (院长), I want a comprehensive policy management system with impac
 - 044 (Secretary System Backup)
 - 077 (Leader Policy Lifecycle Management)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Estimated Effort
 Extra Large (15-20 story points)
 

@@ -1,5 +1,10 @@
 # Story 242: Shared Gamification and Engagement System
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Story Description
 As any user in the system, I want a gamification system that makes routine tasks more engaging through points, badges, leaderboards, and rewards, motivating me to actively participate in platform activities and achieve my academic or professional goals.
 
@@ -52,11 +57,6 @@ As any user in the system, I want a gamification system that makes routine tasks
 - Story 038: Student AI Learning Assistant
 - Story 059: Student Personalized Learning Analytics
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Mockup References
 - Shared UI Design: Engagement features
 - Gamification UI patterns

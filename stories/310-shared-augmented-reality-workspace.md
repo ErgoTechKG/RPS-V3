@@ -4,8 +4,12 @@ source_lines: shared-ui.md: 273-293, student-ui.md: 234-237, professor-ui.md: 11
 references:
   - shared-ui.md: lines 273-293 (responsive framework), student-ui.md: lines 234-237 (VR experiences), professor-ui.md: lines 113 (workspace)
 ---
-
 # Story 310: Shared Augmented Reality Workspace
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a **User** of any role, I want an augmented reality workspace that overlays digital information and collaborative tools onto the physical environment, so that I can interact with platform content and collaborate with others in an immersive, spatially-aware interface.
@@ -61,11 +65,6 @@ As a **User** of any role, I want an augmented reality workspace that overlays d
 - 3D content creation and management platform
 - Real-time collaboration and networking systems
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Priority
 Low-Medium - Future-oriented enhancement for advanced collaboration
 

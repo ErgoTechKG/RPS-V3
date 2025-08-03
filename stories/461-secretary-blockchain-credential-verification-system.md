@@ -1,5 +1,10 @@
 # Story 461: Secretary Blockchain Credential Verification System
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Role
 Secretary
 
@@ -48,11 +53,6 @@ As a Secretary, I want a blockchain-based credential verification and archiving 
 - Cryptographic hashing algorithms
 - QR code generation library
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Dependencies
 - Story 235: Secretary Blockchain Credential System
 - Story 272: Secretary Blockchain Credential Verification

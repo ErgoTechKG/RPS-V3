@@ -5,8 +5,12 @@ references:
   - DESIGN.md: secretary routes
   - 000-story-index.md: monitoring features
 ---
-
 # User Story 071: Secretary Advanced Monitoring Center
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Story
 **As a** Secretary  
@@ -95,11 +99,6 @@ High
 - 019-secretary-data-collection
 - 041-secretary-ai-insights
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Technical Requirements
 - Real-time monitoring infrastructure with low-latency data collection
 - Advanced analytics engine with machine learning capabilities

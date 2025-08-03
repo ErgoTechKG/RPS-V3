@@ -1,5 +1,10 @@
 # User Story 029: Student Results Query and Appeals
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 **Status**: finished
 
 ## Story
@@ -87,7 +92,3 @@ High
 - Secure download and sharing functionality
 - Mobile-responsive results access
 - Clear navigation between results sections
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

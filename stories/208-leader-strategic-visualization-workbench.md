@@ -5,8 +5,12 @@ references:
   - DESIGN.md: lines 179-198
   - ui-ux/leader-ui.md: lines 230-261, 593-677
 ---
-
 # Story 208: Leader Strategic Visualization Workbench
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Title
 Leader Strategic Visualization Workbench for Advanced Data Analytics
@@ -92,11 +96,6 @@ Leaders need sophisticated data visualization tools that go beyond basic charts 
 - Story 047: Advanced Analytics and Reporting (analytics infrastructure)
 - Story 080: Leader Predictive Analytics System (predictive capabilities)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Risks and Considerations
 - Performance optimization for large datasets and complex visualizations
 - Security considerations for sensitive institutional data

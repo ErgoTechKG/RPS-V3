@@ -1,5 +1,10 @@
 # Story 466: Shared Comprehensive Accessibility Framework
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Role
 Shared (All Roles)
 
@@ -48,11 +53,6 @@ As any user with accessibility needs, I want a comprehensive accessibility frame
 - Manual testing protocols
 - Performance optimization for assistive tech
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Dependencies
 - Story 088: Shared Accessibility Compliance System
 - Story 175: Shared Intelligent Accessibility Enhancement System

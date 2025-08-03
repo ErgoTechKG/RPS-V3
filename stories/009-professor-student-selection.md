@@ -1,5 +1,10 @@
 # User Story 009: Professor Student Selection Process
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 **Status:** unfinished
 
 ## Story
@@ -66,7 +71,3 @@ High
 - Interview calendar integration
 - Batch operation capabilities
 - Clear decision workflow interface
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

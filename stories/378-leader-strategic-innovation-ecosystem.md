@@ -5,8 +5,12 @@ references:
   - leader-ui.md: lines 438-475
   - shared-ui.md: lines 322-345
 ---
-
 # Story 378: Leader Strategic Innovation Ecosystem Management Platform
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Overview
 As a Leader, I want access to a strategic innovation ecosystem management platform that integrates AI-driven course recommendations, research collaboration networks, and institutional innovation tracking, so that I can foster institutional innovation, optimize academic offerings, and drive strategic growth.
@@ -84,11 +88,6 @@ As a Leader, I want access to a strategic innovation ecosystem management platfo
 - External industry intelligence data sources
 - Research collaboration tracking infrastructure
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Definition of Done
 - [ ] AI-powered academic program optimization system implemented
 - [ ] Research collaboration network platform functional

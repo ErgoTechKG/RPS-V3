@@ -1,5 +1,10 @@
 # Story 277: Shared AI-Powered Content Discovery
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Description
 As any user, I want an AI-powered content discovery system that learns from my interactions to surface relevant resources, suggest related materials, and help me find information efficiently.
 
@@ -24,7 +29,3 @@ As any user, I want an AI-powered content discovery system that learns from my i
 - Design efficient content indexing pipeline
 - Ensure fast query response times
 - Build explainable recommendation system
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

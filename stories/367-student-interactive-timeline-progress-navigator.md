@@ -5,8 +5,12 @@ references:
   - student-ui.md: lines 273-279, 149-170
   - DESIGN.md: lines 264-290
 ---
-
 # Story 367: Student Interactive Timeline Progress Navigator
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a student, I want an interactive visual timeline that shows my learning journey progress with clickable milestones, next-step guidance, and integration with my personal calendar, so that I can easily track my academic progress and plan my next actions.
@@ -85,11 +89,6 @@ As a student, I want an interactive visual timeline that shows my learning journ
 - Story 028: Student Progress Tracking
 - Story 005: Shared Calendar System
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Definition of Done
 - [ ] Interactive timeline displays correctly
 - [ ] Milestone interactions work smoothly

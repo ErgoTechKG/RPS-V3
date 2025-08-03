@@ -1,5 +1,10 @@
 # Story 280: Secretary Intelligent Scheduling Optimizer
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Description
 As a Secretary, I want an AI-powered scheduling system that automatically optimizes resource allocation, prevents conflicts, and suggests the best times for meetings and events based on multiple constraints.
 
@@ -24,7 +29,3 @@ As a Secretary, I want an AI-powered scheduling system that automatically optimi
 - Design intuitive conflict visualization
 - Ensure real-time schedule updates
 - Build scalable calendar synchronization
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

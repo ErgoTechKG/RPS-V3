@@ -1,7 +1,11 @@
 # Story 444: Shared Quantum-Enhanced Security Layer
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ---
-status: TODO
 source_lines: 193-274
 references:
   - shared-ui.md: lines 193-274
@@ -54,11 +58,6 @@ The UI design specifications (shared-ui.md lines 193-274) describe an advanced s
 
 ## Technical Notes
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ### Architecture
 - Hybrid classical-quantum security framework
 - Quantum key management and distribution system

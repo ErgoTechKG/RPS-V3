@@ -5,8 +5,12 @@ references:
   - professor-ui.md: lines 207-227
   - shared-ui.md: lines 178-219
 ---
-
 # User Story 096: Professor Laboratory Equipment Management
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Story Overview
 
@@ -98,11 +102,6 @@ Laboratory-based research and teaching require careful coordination of equipment
 - Story 005: Shared Calendar System (for reservation scheduling)
 - Story 010: Professor Process Management (for project workflow integration)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Definition of Done
 - [ ] Equipment catalog is fully searchable with detailed filtering options
 - [ ] Reservation system prevents double-booking and handles conflicts gracefully

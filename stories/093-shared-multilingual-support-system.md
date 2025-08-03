@@ -6,8 +6,12 @@ references:
   - ui-ux/shared-ui.md: lines 297-318 (accessibility and inclusion)
   - DESIGN.md: lines 21 (Chinese-first interface)
 ---
-
 # Story 093: Shared Multilingual Support System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Story Description
 As a User of any role, I want to have comprehensive multilingual support so that I can use the system in Chinese (primary), English, and other languages with proper font handling, cultural adaptations, and accessibility compliance.
@@ -89,10 +93,5 @@ Medium
 - Story 079: Shared Design System Management
 - Story 088: Shared Accessibility Compliance System
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Notes
 This story creates a comprehensive multilingual foundation that supports the Chinese-first design philosophy while enabling broader accessibility and international usage as implied by the UI design specifications for inclusive and accessible design.

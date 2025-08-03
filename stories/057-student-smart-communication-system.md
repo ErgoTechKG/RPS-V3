@@ -5,8 +5,12 @@ references:
   - student-ui.md: lines 660-760
   - DESIGN.md: lines 110-113
 ---
-
 # User Story 057: Student Smart Communication System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Story
 **As a** Student  
@@ -85,7 +89,3 @@ Medium
 - Responsive design for mobile and desktop use
 - Accessibility features for diverse user needs
 - Professional yet approachable visual design
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

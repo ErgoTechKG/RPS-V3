@@ -1,5 +1,10 @@
 # Story 364: Leader Governance Policy Lifecycle Manager
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Title
 Comprehensive Policy Management with Impact Simulation and Compliance
 
@@ -141,11 +146,6 @@ As a Leader, I need a comprehensive policy lifecycle management system with impa
 - Graph database for relationships
 - Business intelligence integration
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## UI/UX Considerations
 - Executive dashboard view
 - Visual policy timeline

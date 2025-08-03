@@ -4,8 +4,12 @@ source_lines: leader-ui.md: 439-474, 509-551, 587-624
 references:
   - leader-ui.md: lines 439-474 (AI assistance), 509-551 (governance policies), 587-624 (quality assurance)
 ---
-
 # Story 309: Leader Neural Network Governance
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a **Leader**, I want a neural network-powered governance system that continuously learns from institutional patterns, external best practices, and regulatory changes to provide autonomous governance recommendations and semi-automated policy updates, so that institutional governance remains optimal and compliant without constant manual oversight.
@@ -61,11 +65,6 @@ As a **Leader**, I want a neural network-powered governance system that continuo
 - Governance data management infrastructure
 - Regulatory compliance monitoring systems
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Priority
 Low - Advanced AI governance for future implementation
 

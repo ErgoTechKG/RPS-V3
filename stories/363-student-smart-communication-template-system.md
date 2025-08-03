@@ -1,5 +1,10 @@
 # Story 363: Student Smart Communication Template System
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Title
 Structured Communication Interface with Anxiety-Reducing Templates
 
@@ -132,11 +137,6 @@ As a Student, I need a smart communication template system with pre-built messag
 - Progressive web app design
 - Analytics for optimization
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## UI/UX Considerations
 - Calming color scheme
 - Large, friendly buttons

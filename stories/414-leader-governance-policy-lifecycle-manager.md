@@ -6,8 +6,12 @@ references:
   - leader-ui.md: lines 477-507 (Policy control interface layout)
   - DESIGN.md: lines 237-284 (Leader governance routes)
 ---
-
 # Story 414: Leader Governance Policy Lifecycle Manager
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a leader, I want a comprehensive policy lifecycle management system that handles policy creation, approval workflows, implementation monitoring, and compliance tracking, so that I can ensure institutional governance is systematic, transparent, and effective.
@@ -90,10 +94,5 @@ High - Core governance infrastructure
 - Document management infrastructure
 - Notification and workflow systems
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Notes
 This comprehensive policy lifecycle manager ensures that institutional governance moves from ad-hoc policy management to systematic, trackable processes. It provides transparency and accountability while reducing administrative overhead.

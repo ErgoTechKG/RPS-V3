@@ -6,8 +6,12 @@ references:
   - secretary-ui.md: lines 769-796 (predictive warning system)
   - DESIGN.md: lines 125-168 (secretary route structure)
 ---
-
 # Story 313: Secretary Intelligent Institutional Health Monitor
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## User Story
 As a Secretary, I want an intelligent institutional health monitoring system so that I can proactively identify and address systemic issues before they impact educational quality or institutional operations.
@@ -76,11 +80,6 @@ As a Secretary, I want an intelligent institutional health monitoring system so 
 - Story 111: Secretary Predictive Analytics Center
 - Story 158: Secretary Comprehensive Crisis Management System
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Priority
 High - Critical for proactive institutional management and quality assurance
 

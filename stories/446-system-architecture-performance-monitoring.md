@@ -1,5 +1,10 @@
 # Story 446: System Architecture Performance Monitoring
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Description
 As a System Administrator, I need comprehensive real-time monitoring of system performance, API response times, database query optimization, and resource utilization tracking to ensure optimal platform performance.
 
@@ -33,11 +38,6 @@ As a System Administrator, I need comprehensive real-time monitoring of system p
 - Monitoring tool integration
 - Alert notification system
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Roles Affected
 - System Administrators (primary)
 - Leaders (performance reports)

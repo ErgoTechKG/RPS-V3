@@ -1,5 +1,10 @@
 # User Story 041: Secretary AI-Powered Insights and Analytics
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Story
 **As a** Secretary  
 **I want** to access AI-powered insights and predictive analytics  
@@ -85,7 +90,3 @@ Medium
 - Alert and notification management for AI insights
 - Visual analytics with charts and predictive models
 - Export capabilities for strategic planning and decision-making
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

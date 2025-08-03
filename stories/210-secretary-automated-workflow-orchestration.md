@@ -5,8 +5,12 @@ references:
   - DESIGN.md: lines 124-168
   - ui-ux/secretary-ui.md: lines 52-58, 320-412, 771-795
 ---
-
 # Story 210: Secretary Automated Workflow Orchestration System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Title
 Secretary Automated Workflow Orchestration for Complex Multi-Step Process Management
@@ -99,11 +103,6 @@ Secretaries need sophisticated workflow automation capabilities to manage comple
 - Story 043: Secretary User Management (user role integration)
 - Story 082: Secretary Advanced Workflow Automation (basic automation)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Risks and Considerations
 - Complexity of workflow design may require extensive user training
 - Integration challenges with legacy institutional systems

@@ -1,5 +1,10 @@
 # Story 343: Secretary Predictive Conflict Prevention System
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Description
 As a secretary, I want a predictive system that identifies potential conflicts in scheduling, resource allocation, and workflow management before they occur, so that I can proactively prevent operational disruptions and maintain smooth institutional operations.
 
@@ -35,11 +40,6 @@ High
 - Integration with scheduling and resource systems
 - Automated workflow triggers
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Route
 - `/secretary/conflict-prevention/dashboard`
 - `/secretary/conflict-prevention/predictions`

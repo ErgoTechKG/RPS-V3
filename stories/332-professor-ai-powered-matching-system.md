@@ -5,8 +5,12 @@ references:
   - professor-ui.md: lines 527-565, 558-565
   - DESIGN.md: lines 243-273
 ---
-
 # Story 332: Professor AI-Powered Student Matching System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Title
 Professor AI-Powered Student Matching System with Visual Interface
@@ -102,11 +106,6 @@ As a professor, I want an AI-powered student matching system with visual control
 - 013 (Student Application Process)
 - 037 (Professor AI Student Matching)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Estimated Effort
 Large (8-12 story points)
 

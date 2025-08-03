@@ -1,5 +1,10 @@
 # User Story 032: Secretary Publication and Results Management
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Story
 **As a** Secretary  
 **I want** to manage evaluation results publication and handle the appeals process  
@@ -86,7 +91,3 @@ High
 - Archive management and search functionality
 - Compliance monitoring and reporting tools
 - Quality assurance and validation displays
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

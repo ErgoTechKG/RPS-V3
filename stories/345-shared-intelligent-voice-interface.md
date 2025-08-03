@@ -1,5 +1,10 @@
 # Story 345: Shared Intelligent Voice Interface
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Description
 As any user, I want an intelligent voice interface that understands natural language commands and provides voice-based interaction with the platform, so that I can access functionality hands-free and improve accessibility for users with different abilities.
 
@@ -35,11 +40,6 @@ Medium
 - Multi-language voice models
 - Privacy-compliant voice data handling
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Route
 - `/shared/voice-interface/setup`
 - `/shared/voice-interface/commands`

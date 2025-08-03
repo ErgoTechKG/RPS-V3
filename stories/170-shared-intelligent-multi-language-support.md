@@ -1,7 +1,11 @@
 # User Story 170: Shared Intelligent Multi-Language Support System
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ---
-status: TODO
 source_lines: shared-ui.md lines 298-318 (internationalization and accessibility)
 references:
   - DESIGN.md: lines 20-21 (Chinese-first interface principle)
@@ -74,11 +78,6 @@ Medium
 - Seamless language switching without interface disruption
 - Consistent typography and layout across different languages
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Supported Languages (Initial)
 - **Primary**: Chinese (Simplified and Traditional)
 - **Secondary**: English

@@ -5,8 +5,12 @@ references:
   - ui-ux/secretary-ui.md: lines 857-987
   - ui-ux/secretary-ui.md: lines 356-366
 ---
-
 # Story 086: Secretary Comprehensive Reporting Suite
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## User Story
 As a **secretary**, I want a comprehensive reporting suite that can automatically generate, customize, and distribute various types of reports so that I can efficiently provide data-driven insights to leadership and stakeholders without manual report creation.
@@ -77,11 +81,6 @@ The secretary UI design includes extensive reporting capabilities that go beyond
 - Story 042: Leader AI Report Generation (for AI capabilities)
 - Story 047: Advanced Analytics and Reporting (for analytics engine)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Mockups/Wireframes
 Reference: ui-ux/secretary-ui.md leadership support section (lines 857-987)
 

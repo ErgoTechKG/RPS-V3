@@ -1,5 +1,10 @@
 # User Story 008: Professor Topic Management
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 **Status:** unfinished
 
 ## Story
@@ -57,7 +62,3 @@ High
 - Clear progress indicators
 - Responsive form design
 - Validation and error handling
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

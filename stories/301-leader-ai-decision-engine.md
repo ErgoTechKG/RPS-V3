@@ -5,8 +5,12 @@ references:
   - DESIGN.md: lines 190-194 (decision support)
   - leader-ui.md: lines 190-196 (decision support), 429-433 (data supporting)
 ---
-
 # Story 301: Leader AI Decision Engine
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a **Leader**, I want an AI-powered decision engine that analyzes institutional data and provides evidence-based recommendations for strategic decisions, so that I can make informed choices backed by comprehensive data analysis and predictive modeling.
@@ -56,11 +60,6 @@ As a **Leader**, I want an AI-powered decision engine that analyzes institutiona
 - AI/ML platform integration
 - Data warehouse completion
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Priority
 High - Critical for strategic leadership functionality
 

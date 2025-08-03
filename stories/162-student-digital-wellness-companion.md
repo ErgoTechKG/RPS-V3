@@ -5,8 +5,12 @@ references:
   - student-ui.md: lines 864-895 (学习进度跟踪)
   - student-ui.md: lines 35-57 (核心痛点解决方案)
 ---
-
 # Story 162: Student Digital Wellness Companion
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Story Statement
 As a **Student**, I want to **have a digital wellness companion that monitors my academic stress levels and provides personalized well-being support**, so that **I can maintain mental health while achieving academic success and develop healthy study habits**.
@@ -84,11 +88,6 @@ As a **Student**, I want to **have a digital wellness companion that monitors my
 - Story 004: Notification System (support and reminder delivery)
 - Story 006: Help and Documentation System (resource access)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Success Metrics
 - **Stress Reduction**: 20% improvement in self-reported stress management
 - **Academic Performance**: Maintained or improved GPA among users

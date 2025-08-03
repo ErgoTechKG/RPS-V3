@@ -1,5 +1,10 @@
 # User Story 015: Student Achievements and Final Showcase
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 **Status:** unfinished
 
 ## Story
@@ -88,7 +93,3 @@ High
 - Resource organization with tagging
 - Achievement showcase with visual elements
 - Mobile-friendly portfolio access
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

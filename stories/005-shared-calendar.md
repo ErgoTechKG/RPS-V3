@@ -1,5 +1,10 @@
 # User Story 005: Shared Calendar System
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Story
 **As a** user  
 **I want** to manage and view my schedule through an integrated calendar  
@@ -68,11 +73,6 @@ Medium
 - Quick event creation modal
 - Responsive design for different screen sizes
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Implementation Status
 **Status:** ✅ COMPLETED
 

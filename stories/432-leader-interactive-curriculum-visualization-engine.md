@@ -1,7 +1,11 @@
 # Story 432: Leader Interactive Curriculum Visualization Engine
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ---
-status: TODO
 source_lines: 297-475
 references:
   - leader-ui.md: lines 297-475
@@ -54,11 +58,6 @@ The UI design specifications (leader-ui.md lines 297-475) describe a sophisticat
 
 ## Technical Notes
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ### Architecture
 - 3D visualization engine using WebGL/Three.js
 - Graph database for complex curriculum relationship modeling

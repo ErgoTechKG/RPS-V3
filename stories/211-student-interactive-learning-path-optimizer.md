@@ -5,8 +5,12 @@ references:
   - DESIGN.md: lines 86-122
   - ui-ux/student-ui.md: lines 614-647, 867-893
 ---
-
 # Story 211: Student Interactive Learning Path Optimizer
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Title
 Student Interactive Learning Path Optimizer with AI-Driven Personalization
@@ -99,11 +103,6 @@ Students need sophisticated learning guidance that adapts to their individual pr
 - Story 070: Student Learning Path Management (basic path management)
 - Story 087: Student Adaptive Learning Pathways (adaptive capabilities)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Risks and Considerations
 - Privacy concerns with extensive student data collection and analysis
 - Algorithm bias potential in learning recommendations and path generation

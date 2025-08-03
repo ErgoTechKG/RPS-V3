@@ -1,5 +1,10 @@
 # Story 275: Shared Intelligent Contextual Assistance
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Description
 As any user, I want an intelligent help system that provides contextual assistance based on my current task, role, and interaction patterns, offering proactive guidance when needed.
 
@@ -24,7 +29,3 @@ As any user, I want an intelligent help system that provides contextual assistan
 - Design non-intrusive help UI components
 - Ensure fast help content delivery
 - Build analytics for help system improvement
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

@@ -1,7 +1,11 @@
 # Story 442: Student Peer Tutoring Marketplace
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ---
-status: TODO
 source_lines: 660-895
 references:
   - student-ui.md: lines 660-895
@@ -60,11 +64,6 @@ The UI design specifications (student-ui.md lines 660-895) describe a comprehens
 
 ## Technical Notes
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ### Architecture
 - Marketplace platform with user-generated content management
 - Real-time collaboration tools with video/audio capabilities

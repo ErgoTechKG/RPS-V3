@@ -5,8 +5,12 @@ references:
   - professor-ui.md: lines 207-227
   - shared-ui.md: lines 234-250
 ---
-
 # Story 375: Professor Advanced Lab Equipment Management System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Overview
 As a Professor, I want to access an advanced lab equipment management system that integrates with course planning and student projects, so that I can efficiently allocate resources, prevent conflicts, and track equipment usage across multiple courses and research projects.
@@ -83,11 +87,6 @@ As a Professor, I want to access an advanced lab equipment management system tha
 - Equipment inventory management system
 - Calendar and scheduling infrastructure
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Definition of Done
 - [ ] Equipment inventory system implemented with real-time updates
 - [ ] Advanced booking interface with conflict detection completed

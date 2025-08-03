@@ -5,8 +5,12 @@ references:
   - student-ui.md: lines 648-658 (personalized recommendation section)
   - student-ui.md: lines 649-653 (daily learning suggestions)
 ---
-
 # Story 252: Student Personalized Learning Recommendation Engine
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a student, I want a personalized learning recommendation engine that provides daily study suggestions based on my progress and learning patterns so that I can optimize my study time, focus on areas needing improvement, and achieve better academic outcomes through data-driven guidance.
@@ -75,11 +79,6 @@ So that I can optimize my study time and achieve better academic outcomes
 - Story 070: Student Learning Path Management
 - Story 087: Student Adaptive Learning Pathways
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Business Value
 - Improves learning efficiency by 30-40%
 - Increases student engagement and motivation

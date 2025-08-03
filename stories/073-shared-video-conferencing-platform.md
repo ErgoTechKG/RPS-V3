@@ -5,8 +5,12 @@ references:
   - DESIGN.md: shared routes
   - 000-story-index.md: communication features
 ---
-
 # User Story 073: Shared Video Conferencing Platform
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Story
 **As a** user (Professor/Student/Secretary/Leader)  
@@ -95,11 +99,6 @@ High
 - 004-notification-system
 - 005-shared-calendar-system
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Technical Requirements
 - WebRTC implementation for real-time communication
 - Scalable media server infrastructure (SFU/MCU architecture)

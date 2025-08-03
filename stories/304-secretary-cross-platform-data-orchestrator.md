@@ -4,8 +4,12 @@ source_lines: secretary-ui.md: 322-333, 856-884, 1094-1101
 references:
   - secretary-ui.md: lines 322-333 (data collection), 856-884 (report preparation), 1094-1101 (backup management)
 ---
-
 # Story 304: Secretary Cross-Platform Data Orchestrator
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a **Secretary**, I want a comprehensive data orchestration system that automatically collects, validates, and synchronizes data across all platform modules and external systems, so that I can ensure data integrity and provide accurate reports without manual intervention.
@@ -61,11 +65,6 @@ As a **Secretary**, I want a comprehensive data orchestration system that automa
 - API management platform
 - External system integration capabilities
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Priority
 High - Critical for data integrity and operational efficiency
 

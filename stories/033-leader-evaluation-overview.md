@@ -1,5 +1,10 @@
 # User Story 033: Leader Evaluation Overview for Comprehensive Assessment
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Story
 **As a** Leader  
 **I want** to view comprehensive evaluation overview and strategic insights  
@@ -75,7 +80,3 @@ High
 - Comparative analysis charts and benchmarks
 - Mobile-friendly access for executives
 - Export capabilities for board presentations
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

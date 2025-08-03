@@ -4,8 +4,12 @@ source_lines: 247-261
 references:
   - leader-ui.md: lines 247-261
 ---
-
 # Story 149: Leader Strategic Simulation and Modeling Platform
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a Leader, I need a strategic simulation and modeling platform that enables scenario-based planning, predictive modeling for institutional decisions, risk simulation, and strategic outcome forecasting to make informed decisions with comprehensive impact analysis.
@@ -78,11 +82,6 @@ As a Leader, I need a strategic simulation and modeling platform that enables sc
 - Story 068: Leader Strategic Simulation System
 - Story 047: Advanced Analytics and Reporting
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Priority
 Medium
 

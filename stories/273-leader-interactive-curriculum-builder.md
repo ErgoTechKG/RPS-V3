@@ -1,5 +1,10 @@
 # Story 273: Leader Interactive Curriculum Builder
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Description
 As a Leader, I want a visual, drag-and-drop curriculum designer that allows me to create and modify course structures, visualize dependencies, and simulate different curriculum scenarios.
 
@@ -24,7 +29,3 @@ As a Leader, I want a visual, drag-and-drop curriculum designer that allows me t
 - Design intuitive drag-and-drop interactions
 - Ensure real-time collaboration capabilities
 - Build comprehensive validation engine
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

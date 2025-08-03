@@ -1,7 +1,11 @@
 # User Story 065: Secretary Conflict Resolution System
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** This story provides comprehensive conflict detection and resolution capabilities to streamline administrative operations and prevent issues before they escalate.
+
 ---
-status: TODO
 source_lines: N/A (derived from UI design analysis)
 references:
   - secretary-ui.md: lines 149-153, 309-320
@@ -56,8 +60,3 @@ Medium
 - Stakeholder communication interface
 - Resolution workflow tracking
 - Mobile notifications for urgent conflicts
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** This story provides comprehensive conflict detection and resolution capabilities to streamline administrative operations and prevent issues before they escalate.

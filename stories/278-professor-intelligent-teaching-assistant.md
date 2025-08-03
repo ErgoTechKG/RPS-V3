@@ -1,5 +1,10 @@
 # Story 278: Professor Intelligent Teaching Assistant
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Description
 As a Professor, I want an AI-powered teaching assistant that helps me manage routine tasks, answer student questions, and provide teaching insights based on class performance data.
 
@@ -24,7 +29,3 @@ As a Professor, I want an AI-powered teaching assistant that helps me manage rou
 - Design transparent AI decision interface
 - Ensure academic integrity in AI responses
 - Build continuous improvement pipeline
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

@@ -1,5 +1,10 @@
 # User Story 050: Shared Feedback and Suggestion System
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Story
 **As a** user (All roles)  
 **I want** to submit feedback, report bugs, and request features through a centralized system  
@@ -85,7 +90,3 @@ Medium
 - Status tracking dashboards for submitted feedback
 - Search and filtering tools for existing feedback
 - Administrative interface for feedback management and analytics
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

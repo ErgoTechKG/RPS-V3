@@ -1,7 +1,11 @@
 # Story 439: Secretary Cross-Platform Integration Orchestrator
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ---
-status: TODO
 source_lines: 1069-1125
 references:
   - secretary-ui.md: lines 1069-1125
@@ -54,11 +58,6 @@ The UI design specifications (secretary-ui.md lines 1069-1125) describe a compre
 
 ## Technical Notes
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ### Architecture
 - Enterprise service bus (ESB) or API gateway architecture
 - Message queue system for reliable async processing

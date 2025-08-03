@@ -5,8 +5,12 @@ references:
   - leader-ui.md: lines 249-254 (predictive analysis section)
   - shared-ui.md: lines 275-295 (visualization components)
 ---
-
 # Story 243: Leader Predictive Analytics Trend System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a leader, I want an advanced predictive analytics system with trend forecasting capabilities so that I can anticipate future challenges and opportunities, make proactive strategic decisions, and effectively plan resource allocation based on data-driven projections.
@@ -68,11 +72,6 @@ So that I can anticipate future institutional needs and make proactive strategic
 - Story 047: Advanced Analytics and Reporting
 - Story 080: Leader Predictive Analytics System
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Business Value
 - Enables proactive rather than reactive decision-making
 - Improves resource allocation efficiency by 25-30%

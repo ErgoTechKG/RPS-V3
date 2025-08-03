@@ -1,8 +1,9 @@
 # User Story 002: Role-Based Dashboards
 
 ## Status
-**Status:** unfinished  
-finished
+**Status:** unfinished
+**Implementation Date:** TBD
+**Notes:** To be implemented
 
 ## Story
 **As a** user with a specific role  

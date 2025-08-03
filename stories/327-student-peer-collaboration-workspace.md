@@ -5,8 +5,12 @@ references:
   - student-ui.md: lines 714-759 (communication and interaction)
   - student-ui.md: lines 47-50 (peer learning platform)
 ---
-
 # Story 327: Student Peer Collaboration Workspace
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a student, I want a dedicated peer collaboration workspace so that I can form study groups, share resources, collaborate on projects, and engage in peer learning with other students in my program.
@@ -66,10 +70,5 @@ As a student, I want a dedicated peer collaboration workspace so that I can form
 - Story 075: Student Study Group Platform
 - Story 083: Student Peer Learning Network
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Route
 `/student/collaboration/workspace`

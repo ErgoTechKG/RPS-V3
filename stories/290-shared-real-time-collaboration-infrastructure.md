@@ -1,5 +1,10 @@
 # User Story 290: Shared - Real-Time Collaboration Infrastructure
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Story
 As a platform user, I want integrated real-time collaboration tools with document sharing, video conferencing, and synchronized editing capabilities, so that I can work effectively with others regardless of location or time zone.
 
@@ -58,11 +63,6 @@ High
 - Real-time Messaging Service
 - Authentication Framework
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Notes
 - Ensure scalability for large groups
 - Implement privacy controls

@@ -1,5 +1,10 @@
 # User Story 045: Leader Curriculum Design and Strategic Planning
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Story
 **As a** Leader  
 **I want** to design and plan comprehensive curriculum structures  
@@ -85,7 +90,3 @@ Medium
 - Strategic planning and goal alignment interfaces
 - Approval workflow and governance management
 - Reporting and documentation generation capabilities
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

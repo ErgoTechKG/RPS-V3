@@ -1,5 +1,10 @@
 # Story 448: Advanced Data Migration and Legacy System Integration
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Description
 As a Secretary or System Administrator, I need tools for migrating data from legacy education systems and API connectors for external university systems to ensure seamless transition and integration with existing infrastructure.
 
@@ -35,11 +40,6 @@ As a Secretary or System Administrator, I need tools for migrating data from leg
 - API access to external systems
 - Data storage infrastructure
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Roles Affected
 - Secretaries (primary users)
 - System Administrators (configuration)

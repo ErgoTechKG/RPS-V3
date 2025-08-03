@@ -1,5 +1,10 @@
 # Story 229: Student Course Recommendation Engine
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Story Description
 As a student, I need an AI-powered course recommendation system that analyzes my academic history, interests, career goals, and learning patterns to suggest the most suitable courses, helping me make informed decisions about my academic journey and maximize my learning potential.
 
@@ -52,11 +57,6 @@ As a student, I need an AI-powered course recommendation system that analyzes my
 - Story 070: Student Learning Path Management
 - Story 087: Student Adaptive Learning Pathways
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Mockup References
 - Student UI Design: Course browsing interface
 - AI recommendation visual patterns

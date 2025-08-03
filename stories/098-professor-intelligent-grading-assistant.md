@@ -5,8 +5,12 @@ references:
   - professor-ui.md: lines 308-313, 512-526
   - shared-ui.md: lines 178-219
 ---
-
 # User Story 098: Professor Intelligent Grading Assistant
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Story Overview
 
@@ -100,11 +104,6 @@ Grading large numbers of assignments is time-intensive and can be inconsistent. 
 - Story 010: Professor Process Management (workflow integration)
 - Story 094: Professor Batch Operation Tools (batch processing integration)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Definition of Done
 - [ ] AI grading assistant accurately handles common assignment types
 - [ ] Plagiarism and AI detection systems operate with high accuracy

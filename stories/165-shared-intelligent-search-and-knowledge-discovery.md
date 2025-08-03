@@ -5,8 +5,12 @@ references:
   - shared-ui.md: lines 253-274 (通知系统)
   - shared-ui.md: lines 1-37 (设计系统概述)
 ---
-
 # Story 165: Shared Intelligent Search and Knowledge Discovery
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Story Statement
 As a **User in any role**, I want to **have an intelligent search and knowledge discovery system that understands context and provides relevant results across all platform content**, so that **I can quickly find information, learn from institutional knowledge, and discover connections between different pieces of content**.
@@ -84,11 +88,6 @@ As a **User in any role**, I want to **have an intelligent search and knowledge 
 - Story 006: Help and Documentation System (content integration)
 - Story 007: User Profile Management (personalization data)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Success Metrics
 - **Search Success Rate**: 90% of searches result in user finding relevant content
 - **Query Response Time**: Average search response time under 500ms

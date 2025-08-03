@@ -5,8 +5,12 @@ references:
   - student-ui.md: lines 565-648, 864-893
   - DESIGN.md: lines 86-122, 264-291
 ---
-
 # Story 352: Student Intelligent Study Habit Tracker
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a student, I want an intelligent study habit tracker that uses AI to analyze my study patterns, productivity levels, and learning effectiveness, so that I can optimize my study habits and improve my academic performance.
@@ -54,11 +58,6 @@ As a student, I want an intelligent study habit tracker that uses AI to analyze 
 - Story 005: Shared Calendar System
 - Story 059: Student Personalized Learning Analytics
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Priority
 High
 

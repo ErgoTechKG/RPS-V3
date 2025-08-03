@@ -1,5 +1,10 @@
 # User Story 281: Professor - Real-Time AI Homework Detection Interface
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Story
 As a Professor, I want a sophisticated AI detection interface that provides real-time analysis of student submissions to identify AI-generated content, so that I can maintain academic integrity while providing fair assessment.
 
@@ -53,11 +58,6 @@ High
 - Submission Management System
 - Professor Dashboard Infrastructure
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Notes
 - Consider privacy implications
 - Implement transparent detection criteria

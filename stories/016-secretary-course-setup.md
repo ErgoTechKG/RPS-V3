@@ -1,5 +1,10 @@
 # User Story 016: Secretary Course Setup and Configuration
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD
+**Notes:** To be implemented
+
 ## Story
 **As a** Secretary  
 **I want** to set up and configure lab rotation courses  
@@ -76,7 +81,3 @@ High
 - Configuration validation and error handling
 - Bulk import/export capabilities
 - Administrative dashboard for overview
-
-## Status
-**Status:** unfinished  
-finished

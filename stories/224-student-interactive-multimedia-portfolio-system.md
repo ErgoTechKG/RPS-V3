@@ -1,7 +1,11 @@
 # Story 224: Student Interactive Multimedia Portfolio System
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ---
-status: TODO
 source_lines: student-ui.md: lines 279-351
 references:
   - student-ui.md: lines 279-351 (成果提交界面)
@@ -74,10 +78,5 @@ As a student, I want to access an interactive multimedia portfolio system so tha
 - Story 049: Shared Document Management System
 - Story 001: User Authentication
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Wireframe Notes
 The interface should feature an intuitive portfolio builder with professional templates, multimedia integration capabilities, sophisticated sharing controls, and comprehensive analytics as described in the student UI specifications.

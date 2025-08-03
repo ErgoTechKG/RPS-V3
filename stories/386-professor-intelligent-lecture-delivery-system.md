@@ -7,8 +7,12 @@ references:
   - shared-ui.md: lines 177-218 (component library)
   - DESIGN.md: lines 167-175 (professor routing structure)
 ---
-
 # Story 386: Professor Intelligent Lecture Delivery System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 **As a** professor  
 **I want** an intelligent lecture delivery system that adapts content presentation based on real-time student engagement and comprehension analytics  
@@ -81,7 +85,3 @@ references:
 - Real-time analytics and visualization platform
 - Course management system integration
 - Student information system connectivity
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

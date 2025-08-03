@@ -6,8 +6,12 @@ references:
   - leader-ui.md: lines 230-261 (Data analysis and decision support)
   - DESIGN.md: lines 237-284 (Leader strategy and analysis routes)
 ---
-
 # Story 409: Leader Strategic Intelligence Workbench
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a leader, I want an AI-powered strategic intelligence workbench that provides data-driven insights, scenario planning, and decision support tools, so that I can make informed strategic decisions based on comprehensive analysis and predictive modeling.
@@ -76,10 +80,5 @@ High - Core leadership decision-making support
 - Institutional data warehouse
 - AI/ML infrastructure
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Notes
 This workbench represents the pinnacle of data-driven leadership, combining institutional data with external intelligence to provide comprehensive strategic decision support. It transforms reactive management into proactive strategic planning.

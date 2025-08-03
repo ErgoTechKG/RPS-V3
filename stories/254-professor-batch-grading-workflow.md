@@ -5,8 +5,12 @@ references:
   - professor-ui.md: lines 308-331 (batch grading interface)
   - professor-ui.md: lines 315-331 (assessment workflow)
 ---
-
 # Story 254: Professor Batch Grading Workflow System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a professor, I want a streamlined batch grading workflow that allows me to efficiently grade multiple assignments with standardized rubrics and quick feedback tools so that I can maintain consistency across student evaluations while reducing grading time and administrative burden.
@@ -75,11 +79,6 @@ So that I can efficiently grade multiple assignments with consistency and speed
 - Story 036: Professor AI Homework Detection
 - Story 004: Notification System
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Business Value
 - Reduces grading time by 40-50%
 - Improves grading consistency and fairness

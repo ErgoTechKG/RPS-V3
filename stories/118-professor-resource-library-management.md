@@ -5,8 +5,12 @@ references:
   - professor-ui.md: lines 206-213, 306-315
   - DESIGN.md: lines 79-82
 ---
-
 # Story 118: Professor Resource Library Management
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a **Professor**, I want to manage a comprehensive resource library for my courses so that I can organize and share teaching materials, references, and learning resources with students effectively.
@@ -93,11 +97,6 @@ So that I can understand what materials are most valuable and useful
 - Document Management System (Story 049)
 - Professor Topic Management (Story 008)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Acceptance Tests
 
 ### File Upload Test

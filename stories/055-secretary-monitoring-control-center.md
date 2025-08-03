@@ -5,8 +5,12 @@ references:
   - secretary-ui.md: lines 60-127
   - DESIGN.md: lines 143-167
 ---
-
 # User Story 055: Secretary Real-Time Monitoring Control Center
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Story
 **As a** Secretary  
@@ -86,7 +90,3 @@ Medium
 - Intuitive navigation with quick access to details
 - Responsive design for various screen sizes
 - Accessibility features for extended monitoring sessions
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

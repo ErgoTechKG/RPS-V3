@@ -5,8 +5,12 @@ references:
   - student-ui.md: lines 259-279 (learning process timeline)
   - student-ui.md: lines 415-427 (evaluation timeline display)
 ---
-
 # Story 322: Student Interactive Timeline Navigator
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a student, I want an interactive visual timeline navigator so that I can track my progress through course phases, view upcoming deadlines, and understand my position in the overall academic journey.
@@ -58,10 +62,5 @@ As a student, I want an interactive visual timeline navigator so that I can trac
 - Story 028: Student Progress Tracking
 - Story 005: Shared Calendar System
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Route
 `/student/timeline`

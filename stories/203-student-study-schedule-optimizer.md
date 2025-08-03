@@ -4,8 +4,12 @@ source_lines: UI analysis
 references:
   - student-ui.md: lines 614-658, 167-168
 ---
-
 # Story 203: Student AI-Powered Study Schedule Optimizer
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Overview
 
@@ -101,11 +105,6 @@ As a student, I need an AI-powered study schedule optimizer that analyzes my lea
 - Story 028: Student Progress Tracking
 - Story 004: Notification System
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Definition of Done
 
 - [ ] Students receive AI-generated personalized study schedules

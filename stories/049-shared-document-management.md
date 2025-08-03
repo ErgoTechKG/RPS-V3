@@ -1,5 +1,10 @@
 # User Story 049: Shared Document Management System
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Story
 **As a** user (All roles)  
 **I want** to access a centralized document management system with templates, shared files, and version control  
@@ -86,7 +91,3 @@ Medium
 - Version comparison tools with visual diff displays
 - Collaborative editing interface with real-time updates
 - Document security settings and permission management
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

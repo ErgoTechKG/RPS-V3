@@ -6,8 +6,12 @@ references:
   - student-ui.md: lines 564-613 (AI learning assistant integration)
   - DESIGN.md: lines 201-227 (shared functionality structure)
 ---
-
 # Story 315: Shared Intelligent Context-Aware Help System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## User Story
 As any platform user, I want an intelligent context-aware help system so that I can receive personalized assistance and guidance based on my current task, role, and experience level without interrupting my workflow.
@@ -76,11 +80,6 @@ As any platform user, I want an intelligent context-aware help system so that I 
 - Story 261: Shared Contextual Help and Guidance System
 - Story 275: Shared Intelligent Contextual Assistance
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Priority
 Medium-High - Significantly improves user experience and reduces learning curve
 

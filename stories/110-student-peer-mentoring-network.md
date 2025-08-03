@@ -5,8 +5,12 @@ references:
   - DESIGN.md: lines 86-122
   - ui-ux/student-ui.md: lines 564-659
 ---
-
 # Story 110: Student Peer Mentoring Network
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a **Student**, I want to access a peer mentoring network that connects me with experienced students and provides personalized learning guidance, so that I can receive targeted support and accelerate my academic and research development.
@@ -55,11 +59,6 @@ As a **Student**, I want to access a peer mentoring network that connects me wit
 - Support real-time collaboration features
 - Ensure privacy controls for student interactions
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Dependencies
 - Story 038: Student AI Learning Assistant
 - Story 028: Student Progress Tracking

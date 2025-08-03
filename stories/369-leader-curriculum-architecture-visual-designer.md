@@ -5,8 +5,12 @@ references:
   - leader-ui.md: lines 203-228, 330-365
   - DESIGN.md: lines 174-198
 ---
-
 # Story 369: Leader Curriculum Architecture Visual Designer
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a leader, I want a visual curriculum design tool that allows me to create, modify, and visualize the entire course architecture using drag-and-drop interfaces, dependency mapping, and AI-powered optimization suggestions for strategic curriculum planning.
@@ -100,11 +104,6 @@ As a leader, I want a visual curriculum design tool that allows me to create, mo
 - Story 042: Leader AI Report Generation
 - Story 127: Shared Real-Time Collaboration Workspace
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Definition of Done
 - [ ] Visual curriculum designer is fully functional
 - [ ] Drag-and-drop interface works smoothly

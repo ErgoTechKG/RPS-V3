@@ -7,8 +7,12 @@ references:
   - DESIGN.md: lines 182-194 (leader dashboard and analytics)
   - shared-ui.md: lines 17-76 (design system overview)
 ---
-
 # Story 389: Leader Institutional Transformation Platform
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 **As a** leader  
 **I want** an institutional transformation platform that guides strategic change initiatives with data-driven insights and stakeholder engagement tools  
@@ -81,7 +85,3 @@ references:
 - Change management methodology and best practices framework
 - Stakeholder engagement and feedback collection systems
 - Governance and compliance monitoring infrastructure
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

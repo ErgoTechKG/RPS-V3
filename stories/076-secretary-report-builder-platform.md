@@ -5,8 +5,12 @@ references:
   - DESIGN.md: secretary routes
   - 000-story-index.md: reporting features
 ---
-
 # User Story 076: Secretary Report Builder Platform
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Story
 **As a** Secretary  
@@ -94,11 +98,6 @@ High
 - 047-advanced-analytics-reporting
 - 001-user-authentication
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Technical Requirements
 - Modern web-based report builder with responsive design
 - High-performance data processing engine with parallel execution

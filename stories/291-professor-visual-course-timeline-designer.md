@@ -1,5 +1,10 @@
 # Story 291: Professor Visual Course Timeline Designer
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Description
 As a Professor, I want an interactive visual timeline designer for course milestone management with drag-and-drop functionality, so that I can plan and adjust course schedules intuitively.
 
@@ -27,7 +32,3 @@ High
 - Conflict detection algorithms
 - Export functionality with multiple formats
 - Mobile touch gesture support
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

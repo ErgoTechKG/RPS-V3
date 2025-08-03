@@ -1,7 +1,11 @@
 # Story 435: Professor Intelligent Peer Review Orchestration
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ---
-status: TODO
 source_lines: 425-477
 references:
   - professor-ui.md: lines 425-477
@@ -54,11 +58,6 @@ The UI design specifications (professor-ui.md lines 425-477) describe an advance
 
 ## Technical Notes
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ### Architecture
 - AI-powered assignment optimization engine
 - Workflow orchestration system with automated notifications

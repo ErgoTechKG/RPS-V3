@@ -6,8 +6,12 @@ references:
   - shared-ui.md: lines 276-318 (accessibility and personalization)
   - DESIGN.md: lines 201-227 (shared functionality structure)
 ---
-
 # Story 320: Shared Adaptive User Interface Personalization
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## User Story
 As any platform user, I want an adaptive user interface personalization system so that I can experience a customized interface that learns from my behavior, adapts to my needs, and optimizes my productivity while maintaining accessibility and usability standards.
@@ -76,11 +80,6 @@ As any platform user, I want an adaptive user interface personalization system s
 - Story 160: Shared Advanced Theme Customization System
 - Story 289: Shared Advanced Theme Customization Engine
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Priority
 Medium - Enhances user experience and productivity across all platform functions
 

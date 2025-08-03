@@ -5,8 +5,12 @@ references:
   - professor-ui.md: lines 201-212 (resource upload and management)
   - professor-ui.md: lines 305-315 (learning materials interface)
 ---
-
 # Story 326: Professor Intelligent Resource Versioning
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a professor, I want an intelligent resource versioning system so that I can track changes to my teaching materials, collaborate with colleagues, and automatically generate version comparisons with visual diff highlighting.
@@ -66,10 +70,5 @@ As a professor, I want an intelligent resource versioning system so that I can t
 - Story 049: Shared Document Management System
 - Story 118: Professor Resource Library Management
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Route
 `/professor/resources/versioning`

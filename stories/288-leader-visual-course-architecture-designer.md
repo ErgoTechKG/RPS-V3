@@ -1,5 +1,10 @@
 # User Story 288: Leader - Visual Course Architecture Designer
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Story
 As a Leader, I want a visual curriculum design platform with drag-and-drop course relationship mapping, dependency visualization, and AI-powered optimization, so that I can design and optimize comprehensive educational programs strategically.
 
@@ -58,11 +63,6 @@ High
 - Visualization Platform
 - Planning Data Integration
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Notes
 - Support multiple program types
 - Include compliance checking

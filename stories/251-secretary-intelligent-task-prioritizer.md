@@ -5,8 +5,12 @@ references:
   - secretary-ui.md: lines 90-120 (task monitoring section)
   - secretary-ui.md: lines 98-103 (task categorization with priority indicators)
 ---
-
 # Story 251: Secretary Intelligent Task Prioritization Engine
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a secretary, I want an intelligent task prioritization engine that automatically assigns priority levels and urgency indicators to tasks so that I can efficiently manage workload, ensure critical tasks receive immediate attention, and optimize resource allocation across multiple concurrent projects.
@@ -75,11 +79,6 @@ So that I can efficiently manage workload and ensure critical tasks receive imme
 - Story 019: Secretary Data Collection
 - Story 041: Secretary AI Insights
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Business Value
 - Improves task completion efficiency by 40%
 - Reduces missed deadlines and escalations

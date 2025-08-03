@@ -1,5 +1,10 @@
 # Story 238: Professor Research Grant Management System
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Story Description
 As a professor, I need a comprehensive research grant management system that helps me discover funding opportunities, prepare proposals, track submissions, manage awarded grants, and ensure compliance with reporting requirements, streamlining the entire grant lifecycle from application to closeout.
 
@@ -52,11 +57,6 @@ As a professor, I need a comprehensive research grant management system that hel
 - Story 049: Shared Document Management System
 - Story 177: Professor Research Collaboration Network
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Mockup References
 - Professor UI Design: Resource management section
 - Grant tracking workflows

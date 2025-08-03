@@ -5,8 +5,12 @@ references:
   - professor-ui.md: lines 258-280, 625-650
   - DESIGN.md: lines 258-280
 ---
-
 # Story 392: Professor Real-Time Student Progress Monitoring
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 
@@ -94,11 +98,6 @@ PUT /api/professor/courses/{courseId}/alerts/configure
 - Story 014: Student Learning Process
 - Story 004: Notification System
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Definition of Done
 - [ ] Real-time dashboard displaying live student progress implemented
 - [ ] WebSocket-based live data streaming working reliably

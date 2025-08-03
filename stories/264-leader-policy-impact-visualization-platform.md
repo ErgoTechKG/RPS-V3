@@ -1,5 +1,10 @@
 # Story 264: Leader Policy Impact Visualization Platform
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Overview
 As a leader, I need an interactive visualization platform that shows policy impacts across different institutional areas with scenario modeling capabilities, enabling data-driven policy decisions.
 
@@ -35,11 +40,6 @@ Medium - Essential for data-driven policy decisions
 - Story 092: Leader AI policy recommendation engine
 - Story 213: Leader AI policy impact assessment
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Mockups
 - Multi-dimensional impact visualization dashboard
 - Scenario modeling interface

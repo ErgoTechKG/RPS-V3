@@ -4,8 +4,12 @@ source_lines: UI analysis
 references:
   - professor-ui.md: lines 204-205, 206-212
 ---
-
 # Story 202: Professor Resource Version Control System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Overview
 
@@ -101,11 +105,6 @@ As a professor, I need a comprehensive version control system for course resourc
 - Story 010: Professor Process Management
 - Story 004: Notification System
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Definition of Done
 
 - [ ] Professors can track versions of all course materials

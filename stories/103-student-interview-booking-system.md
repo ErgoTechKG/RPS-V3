@@ -5,8 +5,12 @@ references:
   - student-ui.md: lines 230-237
   - shared-ui.md: lines 222-251
 ---
-
 # User Story 103: Student Interview Booking System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Story Overview
 
@@ -98,11 +102,6 @@ The student application process includes interview stages where students need to
 - Story 004: Notification System (for automated reminders)
 - Story 005: Shared Calendar System (for calendar integration)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Definition of Done
 - [ ] Booking system prevents double-booking and handles conflicts gracefully
 - [ ] Calendar integration works reliably with major calendar platforms

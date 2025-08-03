@@ -5,8 +5,12 @@ references:
   - student-ui.md: lines 701-713 (structured communication templates)
   - student-ui.md: lines 709-713 (template management and usage)
 ---
-
 # Story 256: Student Smart Communication Templates
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a student, I want smart communication templates that provide structured formats for different types of questions and interactions with professors so that I can overcome communication anxiety, ask better questions, and receive more helpful responses while learning proper academic communication skills.
@@ -75,11 +79,6 @@ So that I can overcome communication anxiety and ask better academic questions
 - Story 004: Notification System
 - Story 006: Help and Documentation System
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Business Value
 - Reduces communication anxiety for 80% of students
 - Improves quality of student-professor interactions

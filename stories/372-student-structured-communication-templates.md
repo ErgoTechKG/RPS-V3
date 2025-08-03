@@ -5,8 +5,12 @@ references:
   - student-ui.md: lines 699-713, 36-42
   - DESIGN.md: lines 85-95
 ---
-
 # Story 372: Student Structured Communication Templates
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a student, I want structured communication templates for different types of interactions with professors and staff that provide guided frameworks for emails, questions, requests, and feedback, so that I can communicate professionally and effectively without fear of saying the wrong thing.
@@ -134,11 +138,6 @@ As a student, I want structured communication templates for different types of i
 - Story 036: Student Inquiry and Support
 - Story 370: Shared Contextual Smart Help System
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Definition of Done
 - [ ] Template library is comprehensive and well-organized
 - [ ] Guided communication builder works smoothly

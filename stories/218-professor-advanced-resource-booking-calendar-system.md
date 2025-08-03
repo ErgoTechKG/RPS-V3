@@ -1,7 +1,11 @@
 # Story 218: Professor Advanced Resource Booking Calendar System
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ---
-status: TODO
 source_lines: professor-ui.md: lines 380-400
 references:
   - professor-ui.md: lines 380-400 (场地预订界面)
@@ -68,10 +72,5 @@ As a professor, I want to access an advanced resource booking calendar system so
 - Story 049: Shared Document Management System
 - Story 074: Professor Laboratory Resource Management
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Wireframe Notes
 The interface should feature a prominent calendar display with color-coded resource availability, intuitive drag-and-drop booking creation, detailed resource information panels, and integrated conflict resolution workflows as described in the professor UI specifications.

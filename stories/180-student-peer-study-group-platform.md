@@ -1,5 +1,10 @@
 # Story 180: Student Peer Study Group Platform
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Role
 Student
 
@@ -43,11 +48,6 @@ As a student, I want a platform to form study groups, share resources, collabora
 - AI-powered group matching based on learning styles
 - Gamification elements for engagement
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## User Impact
 HIGH - Improves collaborative learning and peer support
 

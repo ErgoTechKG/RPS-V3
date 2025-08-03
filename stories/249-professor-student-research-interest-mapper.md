@@ -5,8 +5,12 @@ references:
   - professor-ui.md: lines 558-565 (intelligent matching section)
   - professor-ui.md: lines 539-555 (matching recommendation interface)
 ---
-
 # Story 249: Professor Student Research Interest Mapper
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a professor, I want a visual research interest mapping system that displays student interests, skills, and project requirements in an interactive format so that I can optimize student-project matching, identify skill gaps, and make data-driven decisions for research team formation.
@@ -75,11 +79,6 @@ So that I can optimize student-project assignments and research team formation
 - Story 013: Student Application Process
 - Story 012: Student Topic Browsing and Discovery
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Business Value
 - Improves student-project matching success rate by 35%
 - Reduces manual matching time by 70%

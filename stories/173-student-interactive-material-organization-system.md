@@ -6,8 +6,12 @@ references:
   - ui-ux/student-ui.md: lines 306-351 (学习材料界面)
   - ui-ux/shared-ui.md: lines 213-218 (卡片)
 ---
-
 # Story 173: Student Interactive Material Organization System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 **As a** 学生 (Student)  
 **I want** an interactive material organization and management system  
@@ -52,11 +56,6 @@ references:
 
 ## Technical Notes
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ### Frontend Requirements
 - Drag-and-drop file organization interface
 - Rich media preview capabilities

@@ -4,8 +4,12 @@ source_lines: 1042-1099
 references:
   - secretary-ui.md: lines 1042-1099
 ---
-
 # Story 147: Secretary Comprehensive Compliance Dashboard
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a Secretary, I need a comprehensive compliance dashboard that monitors all institutional compliance requirements, automates compliance reporting, tracks audit trails, and provides predictive compliance risk assessment to ensure the institution meets all regulatory and policy requirements.
@@ -78,11 +82,6 @@ As a Secretary, I need a comprehensive compliance dashboard that monitors all in
 - Story 115: Secretary Automated Quality Assurance System
 - Story 055: Secretary Monitoring Control Center
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Priority
 High
 

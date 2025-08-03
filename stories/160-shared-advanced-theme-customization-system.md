@@ -5,8 +5,12 @@ references:
   - shared-ui.md: lines 77-153 (色彩系统)
   - shared-ui.md: lines 320-345 (总结)
 ---
-
 # Story 160: Shared Advanced Theme Customization System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Story Statement
 As a **User in any role**, I want to **have an advanced theme customization system that allows personalization of the interface while maintaining accessibility and consistency**, so that **I can work in an environment that suits my preferences and needs while ensuring a cohesive user experience across the platform**.
@@ -87,11 +91,6 @@ As a **User in any role**, I want to **have an advanced theme customization syst
 - Story 007: User Profile Management (preference management)
 - Story 088: Shared Accessibility Compliance System (accessibility validation)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Success Metrics
 - **Customization Usage**: 60% of users modify at least one theme setting
 - **Accessibility Compliance**: 100% of custom themes meet accessibility standards

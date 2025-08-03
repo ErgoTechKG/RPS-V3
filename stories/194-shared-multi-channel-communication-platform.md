@@ -1,5 +1,10 @@
 # Story 194: Shared Multi-Channel Communication Platform
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Role
 All Roles
 
@@ -43,11 +48,6 @@ As a platform user, I want a unified communication system integrating email, ins
 - Push notification services
 - Offline message sync
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## User Impact
 HIGH - Streamlines all communication needs
 

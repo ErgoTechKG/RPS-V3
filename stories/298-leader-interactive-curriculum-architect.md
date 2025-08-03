@@ -1,5 +1,10 @@
 # Story 298: Leader Interactive Curriculum Architect
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Description
 As a Leader, I want an interactive curriculum design tool with dependency mapping and optimization features, so that I can strategically plan and optimize educational programs.
 
@@ -27,7 +32,3 @@ High
 - Integration with accreditation systems
 - Collaborative editing framework
 - Version control system
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented

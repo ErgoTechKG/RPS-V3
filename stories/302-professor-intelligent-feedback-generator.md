@@ -4,8 +4,12 @@ source_lines: professor-ui.md: 313-319, 432-437, 564-565
 references:
   - professor-ui.md: lines 313-319 (feedback templates), 432-437 (evaluation comments), 564-565 (feedback optimization)
 ---
-
 # Story 302: Professor Intelligent Feedback Generator
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a **Professor**, I want an AI-powered feedback generation system that helps me create personalized, constructive feedback for students based on their work and performance patterns, so that I can provide meaningful guidance efficiently while maintaining high-quality mentoring.
@@ -55,11 +59,6 @@ As a **Professor**, I want an AI-powered feedback generation system that helps m
 - Student performance analytics system
 - Submission and grading infrastructure
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Priority
 High - Enhances core teaching and mentoring capabilities
 

@@ -5,8 +5,12 @@ references:
   - DESIGN.md: lines 50-84
   - ui-ux/professor-ui.md: lines 300-305, 408-412, 765-770
 ---
-
 # Story 214: Professor Intelligent Q&A Knowledge Base System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Title
 Professor Intelligent Q&A Knowledge Base for Automated Student Support
@@ -99,11 +103,6 @@ Professors frequently receive similar questions from students across different c
 - Story 049: Shared Document Management System (content integration)
 - Story 136: Professor Q&A Knowledge Base System (basic Q&A functionality)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Risks and Considerations
 - Accuracy concerns with automated responses potentially providing incorrect information
 - Student over-reliance on automated system reducing meaningful professor interaction

@@ -5,8 +5,12 @@ references:
   - leader-ui.md: lines 232-294, 625-661
   - DESIGN.md: lines 172-198
 ---
-
 # Story 121: Leader Strategic Intelligence Platform
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a **Leader**, I want a comprehensive strategic intelligence platform that provides advanced analytics, predictive insights, and decision support tools so that I can make data-driven strategic decisions and effectively guide the institution's research and educational initiatives.
@@ -93,11 +97,6 @@ So that I can effectively communicate strategic direction to stakeholders
 - Leader AI Report Generation (Story 042)
 - Advanced Analytics and Reporting (Story 047)
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Acceptance Tests
 
 ### Predictive Analytics Test

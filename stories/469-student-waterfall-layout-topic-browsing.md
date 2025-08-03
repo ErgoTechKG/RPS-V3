@@ -1,5 +1,10 @@
 # Story 469: Student Waterfall Layout Topic Browsing
 
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
+
 ## Description
 As a Student, I need a Pinterest-style waterfall layout for browsing research topics where topic cards dynamically adjust their size based on content, providing an engaging and efficient way to discover and explore available research opportunities with infinite scroll.
 
@@ -49,11 +54,6 @@ As a Student, I need a Pinterest-style waterfall layout for browsing research to
 - Story 008: Professor Topic Management
 - Story 013: Student Application Process
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Priority
 High
 

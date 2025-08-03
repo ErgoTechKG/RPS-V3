@@ -9,8 +9,12 @@ references:
   - leader-ui.md: lines 661-681
   - DESIGN.md: lines 201-227
 ---
-
 # Story 355: Shared Intelligent Context-Aware Help System
+
+## Status
+**Status:** unfinished
+**Implementation Date:** TBD  
+**Notes:** To be implemented
 
 ## Description
 As a platform user (any role), I want an intelligent context-aware help system that provides dynamic, personalized assistance based on my current task, role, and experience level, so that I can quickly get relevant help without interrupting my workflow.
@@ -58,11 +62,6 @@ As a platform user (any role), I want an intelligent context-aware help system t
 - Story 003: Shared Navigation System
 - Story 038: Student AI Learning Assistant
 
-
-## Status
-**Status:** unfinished  
-**Implementation Date:** TBD  
-**Notes:** To be implemented
 ## Priority
 Medium
 
