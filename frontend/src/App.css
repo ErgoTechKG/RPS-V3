@@ -3,6 +3,8 @@
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+  background-color: #ffffff;
+  color: #000000;
 }
 
 .app-content {
@@ -17,12 +19,12 @@
 
 .app-content h1 {
   margin-bottom: 1rem;
-  color: var(--ant-color-text);
+  color: #000000;
 }
 
 .app-content p {
   margin-bottom: 0.5rem;
-  color: var(--ant-color-text-secondary);
+  color: rgba(0, 0, 0, 0.65);
 }
 
 /* Reset and normalize */

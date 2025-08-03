@@ -37,21 +37,6 @@ const AppContent: React.FC = () => {
             <h1>本科科研实验班课程管理系统</h1>
             <p>华中科技大学机械科学与工程学院</p>
             <p>主题系统和路由配置已完成。</p>
-            <Space direction="vertical" size="middle" style={{ marginTop: 24 }}>
-              <Button 
-                type="primary" 
-                onClick={toggleTheme}
-                aria-label="Toggle theme"
-              >
-                切换到{isDarkMode ? '浅色' : '深色'}模式
-              </Button>
-              {user && (
-                <p>当前角色: {user.role} ({user.name})</p>
-              )}
-              <Button type="primary">
-                主要按钮
-              </Button>
-            </Space>
           </div>
         </div>
       </Router>
