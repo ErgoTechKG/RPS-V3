@@ -1,271 +1,295 @@
-import React from 'react';
-import { Layout, Card, Typography, Button, Space, Row, Col, Avatar, Statistic, Progress, Alert } from 'antd';
+import React, { useState, useEffect, useCallback } from 'react';
+import { Layout, Typography, Button, Space, Avatar, Row, Col, Dropdown, message } from 'antd';
 import { useNavigate } from 'react-router-dom';
 import { useAuth } from '@/contexts';
 import {
   SolutionOutlined,
-  BarChartOutlined,
-  DatabaseOutlined,
-  FileTextOutlined,
-  SettingOutlined,
   LogoutOutlined,
-  BulbOutlined,
-  CheckCircleOutlined,
-  ExclamationCircleOutlined,
-  SyncOutlined
+  ReloadOutlined,
+  FileTextOutlined,
+  SendOutlined,
+  DownloadOutlined,
+  SettingOutlined,
+  ClockCircleOutlined
 } from '@ant-design/icons';
+import RealtimeStats from '@/components/Dashboard/RealtimeStats';
+import TaskMonitor from '@/components/Dashboard/TaskMonitor';
+import AlertSystem, { Alert } from '@/components/Dashboard/AlertSystem';
+import CourseProgress from '@/components/Dashboard/CourseProgress';
+import dayjs from 'dayjs';
 
-const { Header, Content, Sider } = Layout;
+const { Header, Content } = Layout;
 const { Title, Text } = Typography;
 
 const SecretaryDashboard: React.FC = () => {
   const navigate = useNavigate();
   const { user, logout } = useAuth();
+  const [currentTime, setCurrentTime] = useState(dayjs());
+  const [lastRefresh, setLastRefresh] = useState(Date.now());
+  const [isAutoRefresh, setIsAutoRefresh] = useState(true);
 
-  const mockData = {
-    systemStats: [
-      { title: '总用户数', value: 156, trend: '+12' },
-      { title: '活跃课程', value: 23, trend: '+3' },
-      { title: '待审核申请', value: 8, trend: '-2' },
-      { title: '数据同步率', value: 98.5, trend: '+0.3%' }
+  // Mock data state - in real app, this would come from API
+  const [dashboardData, setDashboardData] = useState({
+    stats: {
+      activeUsers: 156,
+      activeCourses: 8,
+      pendingReviews: 12,
+      newTasks: 7,
+      trends: {
+        activeUsers: '+12',
+        activeCourses: '+3',
+        pendingReviews: '-2',
+        newTasks: '+5'
+      }
+    },
+    tasks: {
+      pending: 23,
+      inProgress: 45,
+      overdue: 5,
+      completed: 78
+    },
+    alerts: [
+      {
+        id: '1',
+        level: 'urgent' as const,
+        title: '教授A未提交成绩',
+        description: '超期2天，请立即处理',
+        time: '2分钟前',
+        handled: false
+      },
+      {
+        id: '2',
+        level: 'important' as const,
+        title: '学生申请截止临近',
+        description: '实验室轮转申请将在12小时后截止',
+        time: '15分钟前',
+        handled: false
+      },
+      {
+        id: '3',
+        level: 'normal' as const,
+        title: '场地冲突需协调',
+        description: '下周三的实验室预约存在冲突',
+        time: '1小时前',
+        handled: false
+      }
     ],
-    recentTasks: [
-      { id: 1, title: '用户权限审核', status: 'pending', priority: 'high' },
-      { id: 2, title: '课程数据同步', status: 'processing', priority: 'medium' },
-      { id: 3, title: '月度报告生成', status: 'completed', priority: 'low' },
-      { id: 4, title: '系统维护检查', status: 'pending', priority: 'high' }
-    ],
-    dataSync: {
-      courses: { status: 'success', lastSync: '2024-03-01 10:30', progress: 100 },
-      users: { status: 'syncing', lastSync: '2024-03-01 10:15', progress: 75 },
-      grades: { status: 'error', lastSync: '2024-03-01 09:45', progress: 0 }
-    }
-  };
+    courses: [
+      {
+        name: '实验室轮转',
+        overallProgress: 65,
+        stages: [
+          { name: '申请阶段', progress: 100, participants: 120, status: 'completed' as const },
+          { name: '匹配阶段', progress: 100, participants: 118, status: 'completed' as const },
+          { name: '学习阶段', progress: 60, participants: 78, status: 'active' as const },
+          { name: '成果阶段', progress: 20, participants: 0, status: 'pending' as const }
+        ]
+      },
+      {
+        name: '综合素质评价',
+        overallProgress: 45,
+        stages: [
+          { name: '准备阶段', progress: 100, participants: 450, status: 'completed' as const },
+          { name: '提交阶段', progress: 60, participants: 270, status: 'active' as const },
+          { name: '评审阶段', progress: 0, participants: 0, status: 'pending' as const },
+          { name: '公示阶段', progress: 0, participants: 0, status: 'pending' as const }
+        ]
+      }
+    ]
+  });
+
+  // Update time every second
+  useEffect(() => {
+    const timer = setInterval(() => {
+      setCurrentTime(dayjs());
+    }, 1000);
+    return () => clearInterval(timer);
+  }, []);
+
+  // Auto refresh data every 30 seconds
+  useEffect(() => {
+    if (!isAutoRefresh) return;
+
+    const refreshData = () => {
+      // Simulate data refresh - in real app, this would fetch from API
+      setLastRefresh(Date.now());
+      // Simulate some data changes
+      setDashboardData(prev => ({
+        ...prev,
+        stats: {
+          ...prev.stats,
+          activeUsers: prev.stats.activeUsers + Math.floor(Math.random() * 5) - 2,
+          newTasks: prev.stats.newTasks + Math.floor(Math.random() * 3)
+        }
+      }));
+      message.success('数据已刷新', 1);
+    };
+
+    const interval = setInterval(refreshData, 30000);
+    return () => clearInterval(interval);
+  }, [isAutoRefresh]);
 
   const handleLogout = () => {
     logout();
     navigate('/');
   };
 
-  const getStatusColor = (status: string) => {
-    switch (status) {
-      case 'completed': return '#52c41a';
-      case 'processing': return '#1890ff';
-      case 'pending': return '#faad14';
-      default: return '#d9d9d9';
-    }
+  const handleManualRefresh = () => {
+    setLastRefresh(Date.now());
+    message.success('数据已刷新');
   };
 
-  const getPriorityColor = (priority: string) => {
-    switch (priority) {
-      case 'high': return '#ff4d4f';
-      case 'medium': return '#faad14';
-      case 'low': return '#52c41a';
-      default: return '#d9d9d9';
-    }
+  const handleGenerateReport = () => {
+    message.loading('正在生成报告...', 2).then(() => {
+      message.success('报告生成成功！');
+    });
   };
+
+  const handleBatchReminder = () => {
+    message.loading('正在发送批量提醒...', 2).then(() => {
+      message.success('已发送5个任务提醒');
+    });
+  };
+
+  const handleExportData = () => {
+    message.loading('正在导出数据...', 2).then(() => {
+      message.success('数据导出成功！');
+    });
+  };
+
+  const handleAlertAction = useCallback((alertId: string) => {
+    setDashboardData(prev => ({
+      ...prev,
+      alerts: prev.alerts.map(alert =>
+        alert.id === alertId ? { ...alert, handled: true } : alert
+      )
+    }));
+    message.success('预警已处理');
+  }, []);
+
+  const quickActions = [
+    {
+      key: 'report',
+      label: '生成报告',
+      icon: <FileTextOutlined />,
+      onClick: handleGenerateReport
+    },
+    {
+      key: 'reminder',
+      label: '批量催收',
+      icon: <SendOutlined />,
+      onClick: handleBatchReminder
+    },
+    {
+      key: 'export',
+      label: '导出数据',
+      icon: <DownloadOutlined />,
+      onClick: handleExportData
+    }
+  ];
 
   return (
-    <Layout style={{ minHeight: '100vh' }}>
-      <Header style={{ background: '#fff', padding: '0 24px', borderBottom: '1px solid #f0f0f0' }}>
-        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-          <div style={{ display: 'flex', alignItems: 'center' }}>
-            <BulbOutlined style={{ fontSize: '24px', color: '#1890ff', marginRight: '12px' }} />
-            <span style={{ fontSize: '18px', fontWeight: 600 }}>秘书监控仪表板</span>
-          </div>
+    <Layout style={{ minHeight: '100vh', backgroundColor: '#f0f2f5' }}>
+      <Header style={{ 
+        background: '#001529', 
+        padding: '0 24px',
+        display: 'flex',
+        justifyContent: 'space-between',
+        alignItems: 'center'
+      }}>
+        <div style={{ display: 'flex', alignItems: 'center', color: 'white' }}>
+          <Title level={4} style={{ margin: 0, color: 'white' }}>
+            科研管理监控中心
+          </Title>
+          <Text style={{ marginLeft: '24px', color: 'rgba(255,255,255,0.85)' }}>
+            {user?.name} (科研秘书)
+          </Text>
+        </div>
+
+        <div style={{ display: 'flex', alignItems: 'center', gap: '24px' }}>
+          <Text style={{ color: 'rgba(255,255,255,0.85)', fontSize: '16px' }}>
+            <ClockCircleOutlined /> {currentTime.format('YYYY-MM-DD HH:mm:ss')}
+          </Text>
+          
           <Space>
-            <Avatar style={{ backgroundColor: '#7C4DFF' }} icon={<SolutionOutlined />} />
-            <Text>{user?.name}</Text>
-            <Button type="text" icon={<LogoutOutlined />} onClick={handleLogout}>
+            <Dropdown menu={{ items: quickActions }} placement="bottomRight">
+              <Button type="primary" icon={<FileTextOutlined />}>
+                快捷操作
+              </Button>
+            </Dropdown>
+            
+            <Button 
+              icon={<ReloadOutlined spin={!isAutoRefresh} />} 
+              onClick={() => {
+                setIsAutoRefresh(!isAutoRefresh);
+                if (!isAutoRefresh) {
+                  message.info('已开启自动刷新');
+                } else {
+                  message.info('已关闭自动刷新');
+                }
+              }}
+            >
+              {isAutoRefresh ? '自动刷新' : '手动模式'}
+            </Button>
+            
+            <Button icon={<SettingOutlined />}>设置</Button>
+            
+            <Button type="text" icon={<LogoutOutlined />} onClick={handleLogout} style={{ color: 'white' }}>
               退出
             </Button>
           </Space>
         </div>
       </Header>
 
-      <Layout>
-        <Sider width={200} style={{ background: '#fff', borderRight: '1px solid #f0f0f0' }}>
-          <div style={{ padding: '16px' }}>
-            <Space direction="vertical" style={{ width: '100%' }}>
-              <Button type="text" icon={<BarChartOutlined />} block style={{ textAlign: 'left' }}>
-                系统监控
-              </Button>
-              <Button type="text" icon={<DatabaseOutlined />} block style={{ textAlign: 'left' }}>
-                数据管理
-              </Button>
-              <Button type="text" icon={<FileTextOutlined />} block style={{ textAlign: 'left' }}>
-                报告生成
-              </Button>
-              <Button type="text" icon={<SettingOutlined />} block style={{ textAlign: 'left' }}>
-                系统设置
+      <Content style={{ padding: '24px' }}>
+        <div style={{ maxWidth: '1600px', margin: '0 auto' }}>
+          {/* Top row - Real-time stats, Task monitor, Alerts */}
+          <Row gutter={[16, 16]} style={{ marginBottom: '16px' }}>
+            <Col xs={24} lg={8}>
+              <RealtimeStats stats={dashboardData.stats} />
+            </Col>
+            <Col xs={24} lg={8}>
+              <TaskMonitor taskData={dashboardData.tasks} />
+            </Col>
+            <Col xs={24} lg={8}>
+              <AlertSystem 
+                alerts={dashboardData.alerts} 
+                onHandleAlert={handleAlertAction}
+                onViewAll={() => message.info('查看全部预警')}
+              />
+            </Col>
+          </Row>
+
+          {/* Bottom row - Course progress */}
+          <Row gutter={[16, 16]}>
+            <Col xs={24}>
+              <CourseProgress courses={dashboardData.courses} />
+            </Col>
+          </Row>
+
+          {/* Last refresh indicator */}
+          <div style={{ 
+            textAlign: 'center', 
+            marginTop: '24px',
+            color: '#999',
+            fontSize: '12px'
+          }}>
+            <Space>
+              <Text type="secondary">
+                最后刷新: {dayjs(lastRefresh).format('HH:mm:ss')}
+              </Text>
+              <Button 
+                type="link" 
+                size="small" 
+                onClick={handleManualRefresh}
+                icon={<ReloadOutlined />}
+              >
+                立即刷新
               </Button>
             </Space>
           </div>
-        </Sider>
-
-        <Content style={{ padding: '24px', background: '#f5f5f5' }}>
-          <div style={{ maxWidth: '1200px', margin: '0 auto' }}>
-            <Title level={2} style={{ marginBottom: '24px' }}>
-              系统监控总览 📊
-            </Title>
-
-            {/* System Status Alert */}
-            <Alert
-              message="系统运行状态良好"
-              description="所有核心服务正常运行，数据同步进行中"
-              type="success"
-              showIcon
-              style={{ marginBottom: '24px' }}
-            />
-
-            <Row gutter={[16, 16]} style={{ marginBottom: '24px' }}>
-              {mockData.systemStats.map((stat, index) => (
-                <Col xs={24} sm={6} key={index}>
-                  <Card size="small">
-                    <Statistic
-                      title={stat.title}
-                      value={stat.value}
-                      suffix={stat.title.includes('率') ? '%' : ''}
-                      valueStyle={{ 
-                        color: stat.title.includes('待审核') && stat.value > 0 ? '#ff4d4f' : '#3f8600' 
-                      }}
-                    />
-                    <Text type="secondary" style={{ fontSize: '12px' }}>
-                      {stat.trend.startsWith('+') ? '↗' : '↘'} {stat.trend}
-                    </Text>
-                  </Card>
-                </Col>
-              ))}
-            </Row>
-
-            <Row gutter={[16, 16]}>
-              <Col xs={24} lg={12}>
-                <Card title="数据同步状态" style={{ height: '300px' }}>
-                  <Space direction="vertical" style={{ width: '100%' }}>
-                    {Object.entries(mockData.dataSync).map(([key, data]) => (
-                      <div key={key} style={{ padding: '12px', border: '1px solid #f0f0f0', borderRadius: '6px' }}>
-                        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '8px' }}>
-                          <Text strong>
-                            {key === 'courses' ? '课程数据' : key === 'users' ? '用户数据' : '成绩数据'}
-                          </Text>
-                          {data.status === 'success' && <CheckCircleOutlined style={{ color: '#52c41a' }} />}
-                          {data.status === 'syncing' && <SyncOutlined spin style={{ color: '#1890ff' }} />}
-                          {data.status === 'error' && <ExclamationCircleOutlined style={{ color: '#ff4d4f' }} />}
-                        </div>
-                        <Progress 
-                          percent={data.progress} 
-                          size="small" 
-                          status={data.status === 'error' ? 'exception' : data.status === 'syncing' ? 'active' : 'success'}
-                        />
-                        <Text type="secondary" style={{ fontSize: '12px' }}>
-                          最后同步: {data.lastSync}
-                        </Text>
-                      </div>
-                    ))}
-                  </Space>
-                </Card>
-              </Col>
-
-              <Col xs={24} lg={12}>
-                <Card title="待处理任务" style={{ height: '300px' }}>
-                  <Space direction="vertical" style={{ width: '100%' }}>
-                    {mockData.recentTasks.map(task => (
-                      <div key={task.id} style={{ 
-                        padding: '12px', 
-                        border: '1px solid #f0f0f0', 
-                        borderRadius: '6px',
-                        borderLeft: `4px solid ${getPriorityColor(task.priority)}`
-                      }}>
-                        <div style={{ display: 'flex', justifyContent: 'between', alignItems: 'center' }}>
-                          <div style={{ flex: 1 }}>
-                            <Text strong>{task.title}</Text>
-                            <div style={{ marginTop: '4px' }}>
-                              <Space>
-                                <span style={{ 
-                                  padding: '2px 8px', 
-                                  borderRadius: '4px', 
-                                  backgroundColor: getStatusColor(task.status),
-                                  color: 'white',
-                                  fontSize: '12px'
-                                }}>
-                                  {task.status === 'completed' ? '已完成' : 
-                                   task.status === 'processing' ? '处理中' : '待处理'}
-                                </span>
-                                <span style={{ 
-                                  padding: '2px 8px', 
-                                  borderRadius: '4px', 
-                                  backgroundColor: getPriorityColor(task.priority),
-                                  color: 'white',
-                                  fontSize: '12px'
-                                }}>
-                                  {task.priority === 'high' ? '高优先级' : 
-                                   task.priority === 'medium' ? '中优先级' : '低优先级'}
-                                </span>
-                              </Space>
-                            </div>
-                          </div>
-                          {task.status === 'pending' && (
-                            <Button type="primary" size="small">处理</Button>
-                          )}
-                        </div>
-                      </div>
-                    ))}
-                  </Space>
-                </Card>
-              </Col>
-            </Row>
-
-            <Row gutter={[16, 16]} style={{ marginTop: '16px' }}>
-              <Col xs={24}>
-                <Card title="快速操作">
-                  <Row gutter={[16, 16]}>
-                    <Col xs={24} sm={6}>
-                      <Card size="small" style={{ textAlign: 'center' }}>
-                        <DatabaseOutlined style={{ fontSize: '32px', color: '#1890ff', marginBottom: '8px' }} />
-                        <Title level={5}>数据备份</Title>
-                        <Text type="secondary">执行系统数据备份</Text>
-                        <div style={{ marginTop: '8px' }}>
-                          <Button type="primary" size="small">开始备份</Button>
-                        </div>
-                      </Card>
-                    </Col>
-                    <Col xs={24} sm={6}>
-                      <Card size="small" style={{ textAlign: 'center' }}>
-                        <FileTextOutlined style={{ fontSize: '32px', color: '#52c41a', marginBottom: '8px' }} />
-                        <Title level={5}>生成报告</Title>
-                        <Text type="secondary">生成系统运行报告</Text>
-                        <div style={{ marginTop: '8px' }}>
-                          <Button type="primary" size="small">生成</Button>
-                        </div>
-                      </Card>
-                    </Col>
-                    <Col xs={24} sm={6}>
-                      <Card size="small" style={{ textAlign: 'center' }}>
-                        <SettingOutlined style={{ fontSize: '32px', color: '#fa8c16', marginBottom: '8px' }} />
-                        <Title level={5}>系统配置</Title>
-                        <Text type="secondary">管理系统配置参数</Text>
-                        <div style={{ marginTop: '8px' }}>
-                          <Button type="primary" size="small">配置</Button>
-                        </div>
-                      </Card>
-                    </Col>
-                    <Col xs={24} sm={6}>
-                      <Card size="small" style={{ textAlign: 'center' }}>
-                        <SolutionOutlined style={{ fontSize: '32px', color: '#eb2f96', marginBottom: '8px' }} />
-                        <Title level={5}>用户管理</Title>
-                        <Text type="secondary">管理用户权限和角色</Text>
-                        <div style={{ marginTop: '8px' }}>
-                          <Button type="primary" size="small">管理</Button>
-                        </div>
-                      </Card>
-                    </Col>
-                  </Row>
-                </Card>
-              </Col>
-            </Row>
-          </div>
-        </Content>
-      </Layout>
+        </div>
+      </Content>
     </Layout>
   );
 };

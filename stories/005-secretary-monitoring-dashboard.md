@@ -1,5 +1,5 @@
 ---
-status: TODO
+status: finished
 source_lines: 60-127
 references:
   - secretary-ui.md: lines 60-127 (系统监控仪表板)
