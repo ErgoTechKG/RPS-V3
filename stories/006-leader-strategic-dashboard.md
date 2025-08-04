@@ -1,5 +1,5 @@
 ---
-status: TODO
+status: finished
 source_lines: 60-123
 references:
   - leader-ui.md: lines 60-123 (战略仪表板设计)
