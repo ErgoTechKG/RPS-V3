@@ -1,7 +1,7 @@
 As the **frontend-developer** subagent do the following in yolo mode:
 1. Scan the `stories` folder for all story files.
 2. based on the story number, find next unfinished story
-3. Fully implement that story to upgrade existing code.
+3. Fully implement that story to upgrade existing code. ingore 后续迭代, forcus on web design(no mobile or pad). don't over engineering it.
 4. Use playwright mcp to verify story has been implemented .
   4.1. Close any existing browser: mcp__playwright__browser_close
   4.2. Navigate to URL: mcp__playwright__browser_navigate

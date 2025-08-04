@@ -50,3 +50,8 @@ please use subagent doc-to-stories-splitter based on @ui-ux/ design write
   correct), please make sure use the exact 页面布局结构 and have proper 
   descript, so dev can understand. Only design the important/necessary 
   stories
+
+
+claude mcp add playwright  npx @playwright/mcp@latest
+claude mcp add shadcn      npx @jpisnice/shadcn-ui-mcp-server 
+claude mcp add eslint      npx @eslint/mcp@latest
