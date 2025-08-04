@@ -1,5 +1,5 @@
 ---
-status: TODO
+status: finished
 source_lines: 124-353
 references:
   - student-ui.md: lines 124-353 (实验室轮转课程视图)

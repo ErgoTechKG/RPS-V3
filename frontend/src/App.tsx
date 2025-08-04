@@ -9,6 +9,7 @@ import DesignSystemDemo from '@/pages/DesignSystemDemo';
 import { WelcomePage } from '@/pages/welcome';
 import { StudentDashboard, ProfessorDashboard, SecretaryDashboard, LeaderDashboard } from '@/pages/dashboard';
 import NotificationPage from '@/pages/shared/NotificationPage';
+import LabRotationCourse from '@/pages/student/LabRotationCourse';
 import ProtectedRoute from '@/components/ProtectedRoute';
 import './App.css';
 
@@ -92,6 +93,13 @@ const AppContent: React.FC = () => {
           <Route path="/notifications" element={
             <ProtectedRoute>
               <NotificationPage />
+            </ProtectedRoute>
+          } />
+          
+          {/* Student Lab Rotation Course */}
+          <Route path="/student/lab-rotation" element={
+            <ProtectedRoute requiredRole="student">
+              <LabRotationCourse />
             </ProtectedRoute>
           } />
         </Routes>

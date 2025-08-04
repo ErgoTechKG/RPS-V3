@@ -369,8 +369,14 @@ const StudentDashboard: React.FC = () => {
                   <Col xs={12} key={card.id}>
                     <Card 
                       size="small"
-                      style={{ textAlign: 'center', borderRadius: '8px' }}
+                      style={{ textAlign: 'center', borderRadius: '8px', cursor: 'pointer' }}
                       bodyStyle={{ padding: '16px' }}
+                      hoverable
+                      onClick={() => {
+                        if (card.title === '实验室轮转') {
+                          navigate('/student/lab-rotation');
+                        }
+                      }}
                     >
                       <div style={{ color: card.color, fontSize: '24px', marginBottom: '8px' }}>
                         {card.icon}
