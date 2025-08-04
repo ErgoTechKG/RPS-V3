@@ -1,5 +1,5 @@
 ---
-status: TODO
+status: finished
 source_lines: 355-563
 references:
   - student-ui.md: lines 355-563 (综合素质评价课程视图)

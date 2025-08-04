@@ -10,6 +10,10 @@ import { WelcomePage } from '@/pages/welcome';
 import { StudentDashboard, ProfessorDashboard, SecretaryDashboard, LeaderDashboard } from '@/pages/dashboard';
 import NotificationPage from '@/pages/shared/NotificationPage';
 import LabRotationCourse from '@/pages/student/LabRotationCourse';
+import EvaluationHome from '@/pages/student/EvaluationHome';
+import EvaluationNotifications from '@/pages/student/EvaluationNotifications';
+import EvaluationSubmission from '@/pages/student/EvaluationSubmission';
+import EvaluationResults from '@/pages/student/EvaluationResults';
 import ProtectedRoute from '@/components/ProtectedRoute';
 import './App.css';
 
@@ -100,6 +104,28 @@ const AppContent: React.FC = () => {
           <Route path="/student/lab-rotation" element={
             <ProtectedRoute requiredRole="student">
               <LabRotationCourse />
+            </ProtectedRoute>
+          } />
+          
+          {/* Student Comprehensive Evaluation */}
+          <Route path="/student/evaluation" element={
+            <ProtectedRoute requiredRole="student">
+              <EvaluationHome />
+            </ProtectedRoute>
+          } />
+          <Route path="/student/evaluation/notifications" element={
+            <ProtectedRoute requiredRole="student">
+              <EvaluationNotifications />
+            </ProtectedRoute>
+          } />
+          <Route path="/student/evaluation/submission" element={
+            <ProtectedRoute requiredRole="student">
+              <EvaluationSubmission />
+            </ProtectedRoute>
+          } />
+          <Route path="/student/evaluation/results" element={
+            <ProtectedRoute requiredRole="student">
+              <EvaluationResults />
             </ProtectedRoute>
           } />
         </Routes>

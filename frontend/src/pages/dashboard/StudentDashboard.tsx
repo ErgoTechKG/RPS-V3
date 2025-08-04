@@ -132,8 +132,8 @@ const StudentDashboard: React.FC = () => {
       { 
         id: 2, 
         title: '综合素质评价', 
-        status: '准备中', 
-        progress: 20,
+        status: '进行中', 
+        progress: 60,
         icon: <TrophyOutlined />,
         color: '#fa8c16'
       }
@@ -375,6 +375,8 @@ const StudentDashboard: React.FC = () => {
                       onClick={() => {
                         if (card.title === '实验室轮转') {
                           navigate('/student/lab-rotation');
+                        } else if (card.title === '综合素质评价') {
+                          navigate('/student/evaluation');
                         }
                       }}
                     >
