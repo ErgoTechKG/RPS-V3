@@ -1,5 +1,5 @@
 ---
-status: TODO
+status: finished
 source_lines: 60-122
 references:
   - student-ui.md: lines 60-122 (学习仪表板设计)
