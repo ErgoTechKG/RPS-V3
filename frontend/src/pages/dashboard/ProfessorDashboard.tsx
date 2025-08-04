@@ -48,7 +48,7 @@ const ProfessorDashboard: React.FC = () => {
         icon: <EditOutlined />,
         color: '#1A73E8',
         description: '创建并发布新的课程课题',
-        action: () => console.log('发布新课题')
+        action: () => navigate('/professor/lab-rotation/topics')
       },
       {
         id: 2,
@@ -554,7 +554,18 @@ const ProfessorDashboard: React.FC = () => {
                           </div>
                           
                           <div style={{ display: 'flex', gap: '8px' }}>
-                            <Button type="primary" size="small" style={{ flex: 1 }}>管理</Button>
+                            <Button 
+                              type="primary" 
+                              size="small" 
+                              style={{ flex: 1 }}
+                              onClick={() => {
+                                if (course.name === '实验室轮转指导') {
+                                  navigate('/professor/lab-rotation');
+                                }
+                              }}
+                            >
+                              管理
+                            </Button>
                             <Button size="small">详情</Button>
                           </div>
                         </Card>

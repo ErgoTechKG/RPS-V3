@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 import { ConfigProvider } from 'antd';
 import zhCN from 'antd/locale/zh_CN';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import { AuthProvider, ThemeProvider, NotificationProvider, useThemeConfig, useTheme, useAuth } from '@/contexts';
+import { AuthProvider, ThemeProvider, NotificationProvider, useThemeConfig, useAuth } from '@/contexts';
 import Homepage from '@/pages/Homepage';
 import LoginPage from '@/pages/auth/LoginPage';
 import DesignSystemDemo from '@/pages/DesignSystemDemo';
@@ -14,14 +14,20 @@ import EvaluationHome from '@/pages/student/EvaluationHome';
 import EvaluationNotifications from '@/pages/student/EvaluationNotifications';
 import EvaluationSubmission from '@/pages/student/EvaluationSubmission';
 import EvaluationResults from '@/pages/student/EvaluationResults';
+import { 
+  LabRotationOverview, 
+  TopicManagement, 
+  StudentSelection, 
+  ProcessManagement, 
+  AssessmentManagement 
+} from '@/pages/professor';
 import ProtectedRoute from '@/components/ProtectedRoute';
 import './App.css';
 
 // Main App component with theme configuration
 const AppContent: React.FC = () => {
   const themeConfig = useThemeConfig();
-  const { toggleTheme, isDarkMode } = useTheme();
-  const { user, setUser } = useAuth();
+  const { setUser } = useAuth();
 
   // Expose env for testing
   useEffect(() => {
@@ -126,6 +132,33 @@ const AppContent: React.FC = () => {
           <Route path="/student/evaluation/results" element={
             <ProtectedRoute requiredRole="student">
               <EvaluationResults />
+            </ProtectedRoute>
+          } />
+          
+          {/* Professor Lab Rotation Course */}
+          <Route path="/professor/lab-rotation" element={
+            <ProtectedRoute requiredRole="professor">
+              <LabRotationOverview />
+            </ProtectedRoute>
+          } />
+          <Route path="/professor/lab-rotation/topics" element={
+            <ProtectedRoute requiredRole="professor">
+              <TopicManagement />
+            </ProtectedRoute>
+          } />
+          <Route path="/professor/lab-rotation/selection" element={
+            <ProtectedRoute requiredRole="professor">
+              <StudentSelection />
+            </ProtectedRoute>
+          } />
+          <Route path="/professor/lab-rotation/process" element={
+            <ProtectedRoute requiredRole="professor">
+              <ProcessManagement />
+            </ProtectedRoute>
+          } />
+          <Route path="/professor/lab-rotation/assessment" element={
+            <ProtectedRoute requiredRole="professor">
+              <AssessmentManagement />
             </ProtectedRoute>
           } />
         </Routes>

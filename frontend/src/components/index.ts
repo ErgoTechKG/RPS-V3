@@ -24,7 +24,8 @@ export { default as NotificationSystem, Badge } from './Notification/Notificatio
 export type { NotificationConfig, BadgeProps } from './Notification/NotificationSystem';
 
 export { default as NotificationCenter } from './Notification/NotificationCenter';
-export { default as NotificationSettings } from './Notification/NotificationSettings';
+import NotificationSettings from './Notification/NotificationSettings';
+export { NotificationSettings };
 
 // Modal Component
 export { default as Modal } from './Modal';
@@ -40,3 +41,6 @@ export type { ResponsiveLayoutProps } from './Layout/ResponsiveLayout';
 
 // Route Protection
 export { default as ProtectedRoute } from './ProtectedRoute';
+
+// Main Layout
+export { default as MainLayout } from './MainLayout';

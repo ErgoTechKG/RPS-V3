@@ -1,0 +1,349 @@
+.overviewContainer {
+  padding: 24px;
+  background: #f0f2f5;
+  min-height: calc(100vh - 64px);
+}
+
+.courseHeader {
+  margin-bottom: 24px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border: none;
+}
+
+.courseHeader h1 {
+  color: white;
+  margin: 0 0 8px 0;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.courseHeader .ant-tag {
+  background: rgba(255, 255, 255, 0.2);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  color: white;
+}
+
+.courseHeader span {
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.courseTitle {
+  margin: 0;
+  color: white;
+}
+
+.quickAccess {
+  margin-bottom: 24px;
+}
+
+.quickCard {
+  text-align: center;
+  transition: all 0.3s ease;
+  border-radius: 8px;
+}
+
+.quickCard:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.quickCard .ant-statistic-title {
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 16px;
+}
+
+.quickCard .ant-statistic-content {
+  font-size: 32px;
+}
+
+.quickCard .ant-statistic-content-prefix {
+  font-size: 28px;
+  margin-right: 8px;
+}
+
+.quickCard .ant-statistic-content-suffix {
+  font-size: 14px;
+  color: #8c8c8c;
+}
+
+.quickDesc {
+  margin-top: 8px;
+  color: #8c8c8c;
+  font-size: 14px;
+}
+
+.todoCard, .activityCard, .progressCard {
+  height: 100%;
+  border-radius: 8px;
+}
+
+.todoCard .ant-list-item {
+  padding: 16px 0;
+}
+
+.todoCard .ant-list-item-meta-title {
+  font-size: 16px;
+  margin-bottom: 4px;
+}
+
+.todoCard .ant-list-item-meta-description {
+  font-size: 14px;
+}
+
+.activityCard .ant-timeline {
+  padding: 0 16px;
+}
+
+.activityCard .ant-timeline-item {
+  padding-bottom: 20px;
+}
+
+.activityCard .ant-timeline-item:last-child {
+  padding-bottom: 0;
+}
+
+.stageProgress {
+  padding: 24px 0;
+}
+
+.stageLine {
+  position: relative;
+  height: 4px;
+  background: #f0f0f0;
+  border-radius: 2px;
+  margin-bottom: 32px;
+}
+
+.stageLineActive {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  background: linear-gradient(90deg, #52c41a 0%, #1890ff 100%);
+  border-radius: 2px;
+  transition: width 0.5s ease;
+}
+
+.stages {
+  position: relative;
+}
+
+.stage {
+  text-align: center;
+  color: #8c8c8c;
+  transition: all 0.3s ease;
+}
+
+.stage.active {
+  color: #1890ff;
+}
+
+.stage .anticon {
+  font-size: 24px;
+  display: block;
+  margin-bottom: 8px;
+}
+
+.stage span {
+  font-size: 14px;
+}
+
+/* Topic Management Styles */
+.topicContainer {
+  padding: 24px;
+  background: #f0f2f5;
+  min-height: calc(100vh - 64px);
+}
+
+.pageHeader {
+  background: white;
+  padding: 16px 24px;
+  margin-bottom: 24px;
+  border-radius: 8px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.03);
+}
+
+.pageTitle {
+  margin: 0;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.publishForm {
+  background: white;
+  border-radius: 8px;
+}
+
+.formSection {
+  padding: 24px;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.formSection:last-child {
+  border-bottom: none;
+}
+
+.sectionTitle {
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 16px;
+  color: #262626;
+}
+
+.formActions {
+  padding: 16px 24px;
+  background: #fafafa;
+  border-top: 1px solid #f0f0f0;
+  text-align: right;
+}
+
+.previewPanel {
+  background: white;
+  border-radius: 8px;
+  padding: 24px;
+  height: 100%;
+}
+
+.previewTitle {
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 16px;
+  padding-bottom: 16px;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.previewCard {
+  background: #fafafa;
+  border-radius: 8px;
+  padding: 16px;
+}
+
+.previewCard h3 {
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 8px;
+}
+
+.previewCard p {
+  color: #8c8c8c;
+  margin-bottom: 12px;
+}
+
+.autoSaveInfo {
+  position: absolute;
+  bottom: 16px;
+  right: 16px;
+  color: #52c41a;
+  font-size: 12px;
+}
+
+/* Selection Management Styles */
+.selectionContainer {
+  padding: 24px;
+  background: #f0f2f5;
+  min-height: calc(100vh - 64px);
+}
+
+.filterBar {
+  background: white;
+  padding: 16px 24px;
+  margin-bottom: 24px;
+  border-radius: 8px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.03);
+}
+
+.filterBar .ant-select {
+  min-width: 120px;
+}
+
+.applicantGrid {
+  margin-bottom: 24px;
+}
+
+.applicantCard {
+  height: 100%;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+}
+
+.applicantCard:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.applicantHeader {
+  text-align: center;
+  padding-bottom: 16px;
+  border-bottom: 1px solid #f0f0f0;
+  margin-bottom: 16px;
+}
+
+.applicantAvatar {
+  margin-bottom: 8px;
+}
+
+.applicantName {
+  font-size: 16px;
+  font-weight: 500;
+  margin: 0;
+}
+
+.applicantInfo {
+  color: #8c8c8c;
+  font-size: 14px;
+}
+
+.matchScore {
+  text-align: center;
+  margin: 16px 0;
+}
+
+.matchScore .ant-progress {
+  margin-bottom: 8px;
+}
+
+.matchLabel {
+  font-size: 14px;
+  color: #8c8c8c;
+}
+
+.applicationTime {
+  text-align: center;
+  color: #8c8c8c;
+  font-size: 12px;
+  margin: 16px 0;
+}
+
+.cardActions {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 16px;
+  border-top: 1px solid #f0f0f0;
+}
+
+.actionGroup {
+  display: flex;
+  gap: 8px;
+}
+
+/* Batch Actions */
+.batchActions {
+  position: fixed;
+  bottom: 24px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: white;
+  padding: 12px 24px;
+  border-radius: 24px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  z-index: 999;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.selectedCount {
+  color: #1890ff;
+  font-weight: 500;
+}
