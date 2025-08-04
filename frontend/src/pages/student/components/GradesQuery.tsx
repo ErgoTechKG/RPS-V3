@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Card, Row, Col, Progress, Typography, Tag, Table, Divider, Radar, Statistic, Timeline, Button, Alert, Space } from 'antd';
+import { Card, Row, Col, Progress, Typography, Tag, Table, Divider, Statistic, Timeline, Button, Alert, Space } from 'antd';
 import {
   TrophyOutlined,
   BarChartOutlined,
@@ -392,7 +392,7 @@ const GradesQuery: React.FC<GradesQueryProps> = () => {
 
           {/* Grade Timeline */}
           <Card title="成绩历程">
-            <Timeline size="small">
+            <Timeline>
               {gradesData.timeline.map((item, index) => (
                 <Timeline.Item
                   key={index}

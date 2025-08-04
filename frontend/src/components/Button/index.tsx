@@ -4,8 +4,17 @@ import type { ButtonProps as AntButtonProps } from 'antd';
 import classNames from 'classnames';
 import './style.css';
 
-export interface ButtonProps extends AntButtonProps {
+export interface ButtonProps {
   variant?: 'primary' | 'secondary' | 'text' | 'danger';
+  className?: string;
+  children?: React.ReactNode;
+  onClick?: (event: React.MouseEvent<HTMLButtonElement>) => void;
+  disabled?: boolean;
+  loading?: boolean;
+  size?: 'small' | 'middle' | 'large';
+  htmlType?: 'button' | 'submit' | 'reset';
+  style?: React.CSSProperties;
+  icon?: React.ReactNode;
 }
 
 const Button: React.FC<ButtonProps> = ({ 

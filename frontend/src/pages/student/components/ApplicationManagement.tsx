@@ -11,7 +11,8 @@ import {
   PhoneOutlined,
   MailOutlined,
   CalendarOutlined,
-  DragOutlined
+  DragOutlined,
+  TrophyOutlined
 } from '@ant-design/icons';
 
 const { Step } = Steps;

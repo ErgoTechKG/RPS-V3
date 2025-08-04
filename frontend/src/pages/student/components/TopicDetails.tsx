@@ -185,7 +185,7 @@ const TopicDetails: React.FC<TopicDetailsProps> = ({ topicId, onBack, onApply })
                 {topicData.basicInfo.matchScore}%
               </div>
               <div style={{ color: '#8c8c8c', marginBottom: '16px' }}>AI推荐匹配度</div>
-              <div style={{ display: 'flex', justify: 'space-between', alignItems: 'center', marginBottom: '12px' }}>
+              <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '12px' }}>
                 <Text type="secondary">申请人数</Text>
                 <Text strong>{topicData.basicInfo.applicants}/{topicData.basicInfo.maxApplicants}</Text>
               </div>
@@ -194,7 +194,7 @@ const TopicDetails: React.FC<TopicDetailsProps> = ({ topicId, onBack, onApply })
                 strokeColor={topicData.basicInfo.applicants >= topicData.basicInfo.maxApplicants ? '#ff4d4f' : '#1890ff'}
                 style={{ marginBottom: '16px' }}
               />
-              <div style={{ display: 'flex', justify: 'space-between', alignItems: 'center' }}>
+              <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
                 <Text type="secondary">申请截止</Text>
                 <Text strong style={{ color: '#fa8c16' }}>{topicData.basicInfo.deadline}</Text>
               </div>
@@ -460,7 +460,7 @@ const TopicDetails: React.FC<TopicDetailsProps> = ({ topicId, onBack, onApply })
                 <div>
                   <Text type="secondary" style={{ fontSize: '11px' }}>主要收获: </Text>
                   {review.skills.map((skill, index) => (
-                    <Tag key={index} size="small" style={{ fontSize: '10px' }}>
+                    <Tag key={index} style={{ fontSize: '10px' }}>
                       {skill}
                     </Tag>
                   ))}

@@ -24,8 +24,8 @@ export { default as NotificationSystem, Badge } from './Notification/Notificatio
 export type { NotificationConfig, BadgeProps } from './Notification/NotificationSystem';
 
 export { default as NotificationCenter } from './Notification/NotificationCenter';
-import NotificationSettings from './Notification/NotificationSettings';
-export { NotificationSettings };
+export type { default as NotificationSettings } from './Notification/NotificationSettings';
+export type { NotificationSettingsProps } from './Notification/NotificationSettings';
 
 // Modal Component
 export { default as Modal } from './Modal';

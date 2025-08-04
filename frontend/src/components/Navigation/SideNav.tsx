@@ -6,7 +6,7 @@ import './style.css';
 
 const { Sider } = Layout;
 
-interface SideNavProps {
+export interface SideNavProps {
   menuItems: MenuProps['items'];
   defaultSelectedKey?: string;
   onMenuClick?: (key: string) => void;

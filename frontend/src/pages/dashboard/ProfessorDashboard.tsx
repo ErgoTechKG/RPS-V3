@@ -379,7 +379,7 @@ const ProfessorDashboard: React.FC = () => {
                             <div style={{ flex: 1 }}>
                               <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '4px' }}>
                                 <Text strong>{task.title}</Text>
-                                <Tag color={getPriorityColor(task.priority)} size="small">
+                                <Tag color={getPriorityColor(task.priority)}>
                                   {task.count}
                                 </Tag>
                               </div>
@@ -517,7 +517,7 @@ const ProfessorDashboard: React.FC = () => {
                           <div style={{ marginBottom: '12px' }}>
                             <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '8px' }}>
                               <Text strong style={{ fontSize: '14px' }}>{course.name}</Text>
-                              <Tag color={getStatusColor(course.status)} size="small">
+                              <Tag color={getStatusColor(course.status)}>
                                 {course.status === 'active' ? '进行中' : '规划中'}
                               </Tag>
                             </div>

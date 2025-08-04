@@ -6,7 +6,7 @@ import './style.css';
 
 const { Content, Footer } = Layout;
 
-interface ResponsiveLayoutProps {
+export interface ResponsiveLayoutProps {
   children: React.ReactNode;
   topNavProps?: React.ComponentProps<typeof TopNav>;
   sideNavProps?: React.ComponentProps<typeof SideNav>;

@@ -9,7 +9,7 @@ import './style.css';
 
 const { Header } = Layout;
 
-interface TopNavProps {
+export interface TopNavProps {
   logo?: React.ReactNode;
   menuItems?: MenuProps['items'];
   onMenuClick?: (key: string) => void;

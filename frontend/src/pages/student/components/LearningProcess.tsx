@@ -299,14 +299,12 @@ const LearningProcess: React.FC<LearningProcessProps> = ({ activeView }) => {
                         <Text strong>{task.title}</Text>
                         <Tag 
                           color={getPriorityColor(task.priority)} 
-                          size="small" 
                           style={{ marginLeft: '8px' }}
                         >
                           {task.priority === 'high' ? '高' : task.priority === 'medium' ? '中' : '低'}
                         </Tag>
                         <Tag 
-                          color={getStatusColor(task.status)} 
-                          size="small"
+                          color={getStatusColor(task.status)}
                         >
                           {task.status === 'completed' ? '已完成' : 
                            task.status === 'in_progress' ? '进行中' : '待完成'}

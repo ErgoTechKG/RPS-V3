@@ -304,7 +304,7 @@ const EvaluationNotifications: React.FC = () => {
                                   {notification.title}
                                 </Text>
                                 {notification.isImportant && (
-                                  <Tag color="red" size="small">重要</Tag>
+                                  <Tag color="red">重要</Tag>
                                 )}
                                 {!notification.isRead && (
                                   <Badge status="processing" text="未读" />

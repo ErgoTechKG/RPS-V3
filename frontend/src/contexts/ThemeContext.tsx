@@ -121,6 +121,7 @@ export const ThemeProvider: React.FC<ThemeProviderProps> = ({ children }) => {
     userRole,
     toggleTheme,
     setUserRole: handleSetUserRole,
+    isDarkMode: themeMode === 'dark',
   };
 
   return (

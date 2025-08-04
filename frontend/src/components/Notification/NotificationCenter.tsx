@@ -292,7 +292,6 @@ const NotificationCenter: React.FC<NotificationCenterProps> = ({ onSettingsClick
                         </span>
                         <Tag 
                           color={getPriorityColor(notification.priority)}
-                          size="small"
                         >
                           {notification.priority === 'high' ? '重要' : 
                            notification.priority === 'medium' ? '一般' : '较低'}

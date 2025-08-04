@@ -28,7 +28,7 @@ import './NotificationSettings.css';
 
 const { Title, Text } = Typography;
 
-interface NotificationSettingsProps {
+export interface NotificationSettingsProps {
   onBack?: () => void;
 }
 
@@ -43,7 +43,7 @@ const NotificationSettings: React.FC<NotificationSettingsProps> = ({ onBack }) =
     } else if (pathParts.length === 2) {
       updateSettings({
         [pathParts[0]]: {
-          ...settings[pathParts[0] as keyof NotificationSettings],
+          ...(settings[pathParts[0] as keyof NotificationSettings] as Record<string, any>),
           [pathParts[1]]: value
         }
       });

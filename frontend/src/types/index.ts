@@ -28,6 +28,7 @@ export interface ThemeContextType {
   userRole: UserRole;
   toggleTheme: () => void;
   setUserRole: (role: UserRole) => void;
+  isDarkMode: boolean;
 }
 
 // Notification types

@@ -13,7 +13,6 @@ import {
   TeamOutlined,
   UserOutlined,
   BookOutlined,
-  AppealOutlined,
   DownloadOutlined,
   PrinterOutlined,
   ShareAltOutlined,

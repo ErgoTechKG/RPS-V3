@@ -355,7 +355,7 @@ const DesignSystemDemo: React.FC = () => {
                   <Badge count={200} maxCount={99}>
                     <Button>任务</Button>
                   </Badge>
-                  <Badge dot>
+                  <Badge dot count={0}>
                     <Button>新功能</Button>
                   </Badge>
                 </Space>

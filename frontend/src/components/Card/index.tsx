@@ -4,7 +4,7 @@ import type { CardProps as AntCardProps } from 'antd';
 import classNames from 'classnames';
 import './style.css';
 
-export interface CardProps extends AntCardProps {
+export interface CardProps extends Omit<AntCardProps, 'variant'> {
   variant?: 'default' | 'elevated' | 'outlined';
   padding?: 'sm' | 'md' | 'lg';
 }
