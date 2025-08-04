@@ -1,0 +1,240 @@
+/* Welcome Page Styles */
+.welcome-layout {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+}
+
+.welcome-header {
+  background: #fff;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  padding: 0 24px;
+}
+
+.header-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.logo-section {
+  display: flex;
+  align-items: center;
+}
+
+.logo-icon {
+  font-size: 24px;
+  color: #1890ff;
+  margin-right: 12px;
+}
+
+.logo-text {
+  font-size: 20px;
+  font-weight: 600;
+  color: #262626;
+}
+
+.welcome-content {
+  padding: 24px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.welcome-container {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+/* Profile Card */
+.profile-card {
+  height: fit-content;
+}
+
+.profile-header {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  margin-bottom: 16px;
+}
+
+.profile-info h3 {
+  margin-bottom: 8px;
+  color: #262626;
+}
+
+.profile-description {
+  margin: 16px 0;
+  color: #595959;
+  line-height: 1.6;
+}
+
+/* Guide Card */
+.guide-card {
+  min-height: 400px;
+}
+
+.guide-card .ant-card-head-title {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.quick-action-card {
+  text-align: center;
+  height: 180px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  transition: all 0.3s;
+  cursor: pointer;
+  border: 1px solid #f0f0f0;
+}
+
+.quick-action-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.quick-action-icon {
+  font-size: 32px;
+  margin-bottom: 12px;
+}
+
+.quick-action-card h5 {
+  margin-bottom: 8px;
+  color: #262626;
+}
+
+.quick-action-desc {
+  font-size: 12px;
+  color: #8c8c8c;
+  margin-bottom: 12px;
+  line-height: 1.4;
+}
+
+.guide-actions {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  margin-top: 24px;
+  padding-top: 24px;
+  border-top: 1px solid #f0f0f0;
+}
+
+/* Announcements Card */
+.announcements-card {
+  margin-top: 24px;
+}
+
+.announcements-card .ant-alert {
+  border-radius: 6px;
+}
+
+/* Welcome Footer */
+.welcome-footer {
+  text-align: center;
+  background: transparent;
+  padding: 24px;
+}
+
+/* Dark Theme */
+html[data-theme="dark"] .welcome-layout {
+  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+}
+
+html[data-theme="dark"] .welcome-header {
+  background: #141414;
+  border-bottom: 1px solid #303030;
+}
+
+html[data-theme="dark"] .logo-text {
+  color: #f0f0f0;
+}
+
+html[data-theme="dark"] .profile-card,
+html[data-theme="dark"] .guide-card,
+html[data-theme="dark"] .announcements-card {
+  background: #141414;
+  border: 1px solid #303030;
+}
+
+html[data-theme="dark"] .profile-info h3,
+html[data-theme="dark"] .quick-action-card h5 {
+  color: #f0f0f0;
+}
+
+html[data-theme="dark"] .profile-description {
+  color: #bfbfbf;
+}
+
+html[data-theme="dark"] .quick-action-card {
+  background: #141414;
+  border-color: #303030;
+}
+
+html[data-theme="dark"] .quick-action-card:hover {
+  background: #1f1f1f;
+  border-color: #434343;
+}
+
+html[data-theme="dark"] .guide-actions {
+  border-top-color: #303030;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .welcome-content {
+    padding: 16px;
+  }
+  
+  .header-content {
+    padding: 0 16px;
+  }
+  
+  .logo-text {
+    font-size: 16px;
+  }
+  
+  .profile-header {
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  .profile-info {
+    text-align: center;
+  }
+  
+  .quick-action-card {
+    height: 140px;
+  }
+  
+  .quick-action-icon {
+    font-size: 24px;
+    margin-bottom: 8px;
+  }
+  
+  .guide-actions {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .guide-actions .ant-btn {
+    width: 200px;
+  }
+}
+
+@media (max-width: 576px) {
+  .welcome-container .ant-row > .ant-col:first-child {
+    order: 2;
+  }
+  
+  .welcome-container .ant-row > .ant-col:last-child {
+    order: 1;
+  }
+  
+  .profile-header .ant-avatar {
+    align-self: center;
+  }
+}

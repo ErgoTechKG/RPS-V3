@@ -34,3 +34,6 @@ export type { TableProps } from './Table';
 // Layout Component
 export { default as ResponsiveLayout } from './Layout/ResponsiveLayout';
 export type { ResponsiveLayoutProps } from './Layout/ResponsiveLayout';
+
+// Route Protection
+export { default as ProtectedRoute } from './ProtectedRoute';

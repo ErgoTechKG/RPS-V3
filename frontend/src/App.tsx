@@ -6,6 +6,9 @@ import { AuthProvider, ThemeProvider, useThemeConfig, useTheme, useAuth } from '
 import Homepage from '@/pages/Homepage';
 import LoginPage from '@/pages/auth/LoginPage';
 import DesignSystemDemo from '@/pages/DesignSystemDemo';
+import { WelcomePage } from '@/pages/welcome';
+import { StudentDashboard, ProfessorDashboard, SecretaryDashboard, LeaderDashboard } from '@/pages/dashboard';
+import ProtectedRoute from '@/components/ProtectedRoute';
 import './App.css';
 
 // Main App component with theme configuration
@@ -39,10 +42,50 @@ const AppContent: React.FC = () => {
           <Route path="/" element={<Homepage />} />
           <Route path="/login" element={<LoginPage />} />
           <Route path="/design-system" element={<DesignSystemDemo />} />
-          <Route path="/dashboard/professor" element={<div>Professor Dashboard (To be implemented)</div>} />
-          <Route path="/dashboard/student" element={<div>Student Dashboard (To be implemented)</div>} />
-          <Route path="/dashboard/secretary" element={<div>Secretary Dashboard (To be implemented)</div>} />
-          <Route path="/dashboard/leader" element={<div>Leader Dashboard (To be implemented)</div>} />
+          
+          {/* Welcome pages - Protected */}
+          <Route path="/welcome/student" element={
+            <ProtectedRoute requiredRole="student">
+              <WelcomePage />
+            </ProtectedRoute>
+          } />
+          <Route path="/welcome/professor" element={
+            <ProtectedRoute requiredRole="professor">
+              <WelcomePage />
+            </ProtectedRoute>
+          } />
+          <Route path="/welcome/secretary" element={
+            <ProtectedRoute requiredRole="secretary">
+              <WelcomePage />
+            </ProtectedRoute>
+          } />
+          <Route path="/welcome/leader" element={
+            <ProtectedRoute requiredRole="leader">
+              <WelcomePage />
+            </ProtectedRoute>
+          } />
+          
+          {/* Dashboard pages - Protected */}
+          <Route path="/dashboard/student" element={
+            <ProtectedRoute requiredRole="student">
+              <StudentDashboard />
+            </ProtectedRoute>
+          } />
+          <Route path="/dashboard/professor" element={
+            <ProtectedRoute requiredRole="professor">
+              <ProfessorDashboard />
+            </ProtectedRoute>
+          } />
+          <Route path="/dashboard/secretary" element={
+            <ProtectedRoute requiredRole="secretary">
+              <SecretaryDashboard />
+            </ProtectedRoute>
+          } />
+          <Route path="/dashboard/leader" element={
+            <ProtectedRoute requiredRole="leader">
+              <LeaderDashboard />
+            </ProtectedRoute>
+          } />
         </Routes>
       </Router>
     </ConfigProvider>

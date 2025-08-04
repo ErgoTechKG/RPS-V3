@@ -41,20 +41,20 @@ export const AuthProvider: React.FC<AuthProviderProps> = ({ children }) => {
     return () => clearInterval(interval);
   }, []);
 
-  const login = async (username: string, password: string): Promise<void> => {
+  const login = async (username: string, password: string, role?: User['role']): Promise<void> => {
     setLoading(true);
     try {
       // Simulate API call
       await new Promise(resolve => setTimeout(resolve, 1000));
       
-      // In test mode, determine role from username
+      // In test mode, use provided role or determine from username
       const testMode = import.meta.env.VITE_TEST_MODE === 'true';
-      let role: User['role'] = 'student';
+      let userRole: User['role'] = role || 'student';
       
-      if (testMode) {
-        if (username.includes('professor')) role = 'professor';
-        else if (username.includes('secretary')) role = 'secretary';
-        else if (username.includes('leader')) role = 'leader';
+      if (testMode && !role) {
+        if (username.includes('professor')) userRole = 'professor';
+        else if (username.includes('secretary')) userRole = 'secretary';
+        else if (username.includes('leader')) userRole = 'leader';
       }
       
       // Mock user data for development
@@ -62,7 +62,7 @@ export const AuthProvider: React.FC<AuthProviderProps> = ({ children }) => {
         id: `user-${Date.now()}`,
         name: username,
         email: `${username}@university.edu`,
-        role,
+        role: userRole,
       };
       
       setUser(mockUser);

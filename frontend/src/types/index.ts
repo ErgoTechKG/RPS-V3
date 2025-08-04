@@ -16,7 +16,7 @@ export type ThemeMode = 'light' | 'dark';
 // Auth context types
 export interface AuthContextType {
   user: User | null;
-  login: (email: string, password: string) => Promise<void>;
+  login: (username: string, password: string, role?: UserRole) => Promise<void>;
   logout: () => void;
   loading: boolean;
   setUser: (user: User | null) => void;
