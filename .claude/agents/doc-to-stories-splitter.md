@@ -13,6 +13,7 @@ Your primary responsibilities:
    - "As a [user type]..." patterns
    - Story IDs or numbers
    - Clear section breaks between stories
+   - `status: TODO` field by default
 
 2. **File Creation Strategy**: For each identified story, you will:
    - Create a file in the `stories/` directory (create the directory if it doesn't exist)

@@ -43,3 +43,10 @@ ui-ux中我指的布局试图是类似
 └─────────────────────────────────────────────────────────────┘
 ```
 请给给每个ui-ux设计都添加
+
+
+please use subagent doc-to-stories-splitter based on @ui-ux/ design write
+   the stories from beginning(ignore old stories memeory, it is not 
+  correct), please make sure use the exact 页面布局结构 and have proper 
+  descript, so dev can understand. Only design the important/necessary 
+  stories
