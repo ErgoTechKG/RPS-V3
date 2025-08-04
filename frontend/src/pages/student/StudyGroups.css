@@ -1,0 +1,63 @@
+.study-groups {
+  min-height: 100vh;
+  background: #f0f2f5;
+  padding: 24px;
+}
+
+.page-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 24px;
+}
+
+.group-card {
+  height: 100%;
+  transition: all 0.3s;
+}
+
+.group-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.group-header {
+  margin-bottom: 12px;
+}
+
+.group-stats {
+  margin: 16px 0;
+  padding: 12px 0;
+  border-top: 1px solid #f0f0f0;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.recent-activity {
+  display: flex;
+  align-items: center;
+  padding: 8px;
+  background: #fafafa;
+  border-radius: 4px;
+  margin-top: 12px;
+}
+
+.ant-tabs-content {
+  margin-top: 24px;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+  .study-groups {
+    padding: 12px;
+  }
+
+  .page-header {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 12px;
+  }
+
+  .page-header .ant-btn {
+    width: 100%;
+  }
+}

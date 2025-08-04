@@ -14,6 +14,9 @@ import EvaluationHome from '@/pages/student/EvaluationHome';
 import EvaluationNotifications from '@/pages/student/EvaluationNotifications';
 import EvaluationSubmission from '@/pages/student/EvaluationSubmission';
 import EvaluationResults from '@/pages/student/EvaluationResults';
+import CollaborationCenter from '@/pages/student/CollaborationCenter';
+import DiscussionDetail from '@/pages/student/DiscussionDetail';
+import StudyGroups from '@/pages/student/StudyGroups';
 import { 
   LabRotationOverview, 
   TopicManagement, 
@@ -132,6 +135,23 @@ const AppContent: React.FC = () => {
           <Route path="/student/evaluation/results" element={
             <ProtectedRoute requiredRole="student">
               <EvaluationResults />
+            </ProtectedRoute>
+          } />
+          
+          {/* Student Collaboration and Study Groups */}
+          <Route path="/student/collaboration" element={
+            <ProtectedRoute requiredRole="student">
+              <CollaborationCenter />
+            </ProtectedRoute>
+          } />
+          <Route path="/student/discussion/:id" element={
+            <ProtectedRoute requiredRole="student">
+              <DiscussionDetail />
+            </ProtectedRoute>
+          } />
+          <Route path="/student/study-groups" element={
+            <ProtectedRoute requiredRole="student">
+              <StudyGroups />
             </ProtectedRoute>
           } />
           

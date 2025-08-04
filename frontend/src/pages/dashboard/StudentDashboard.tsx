@@ -186,6 +186,13 @@ const StudentDashboard: React.FC = () => {
             <Badge count={5} size="small">
               <Button type="text" icon={<MessageOutlined />}>消息</Button>
             </Badge>
+            <Button 
+              type="text" 
+              icon={<TeamOutlined />} 
+              onClick={() => navigate('/student/collaboration')}
+            >
+              协作
+            </Button>
             <Button type="text" icon={<RobotOutlined />}>AI助手</Button>
             <Button type="text" icon={<LogoutOutlined />} onClick={handleLogout}>
               退出
@@ -393,6 +400,52 @@ const StudentDashboard: React.FC = () => {
                     </Card>
                   </Col>
                 ))}
+                {/* 新增协作中心卡片 */}
+                <Col xs={12}>
+                  <Card 
+                    size="small"
+                    style={{ textAlign: 'center', borderRadius: '8px', cursor: 'pointer' }}
+                    bodyStyle={{ padding: '16px' }}
+                    hoverable
+                    onClick={() => navigate('/student/collaboration')}
+                  >
+                    <div style={{ color: '#722ed1', fontSize: '24px', marginBottom: '8px' }}>
+                      <TeamOutlined />
+                    </div>
+                    <div style={{ fontSize: '14px', fontWeight: 600, marginBottom: '4px' }}>
+                      协作中心
+                    </div>
+                    <Tag color="purple" style={{ marginBottom: '8px' }}>
+                      新功能
+                    </Tag>
+                    <div style={{ fontSize: '12px', color: '#8c8c8c' }}>
+                      15个新讨论
+                    </div>
+                  </Card>
+                </Col>
+                {/* 学习小组卡片 */}
+                <Col xs={12}>
+                  <Card 
+                    size="small"
+                    style={{ textAlign: 'center', borderRadius: '8px', cursor: 'pointer' }}
+                    bodyStyle={{ padding: '16px' }}
+                    hoverable
+                    onClick={() => navigate('/student/study-groups')}
+                  >
+                    <div style={{ color: '#52c41a', fontSize: '24px', marginBottom: '8px' }}>
+                      <BulbOutlined />
+                    </div>
+                    <div style={{ fontSize: '14px', fontWeight: 600, marginBottom: '4px' }}>
+                      学习小组
+                    </div>
+                    <Tag color="green" style={{ marginBottom: '8px' }}>
+                      5个小组
+                    </Tag>
+                    <div style={{ fontSize: '12px', color: '#8c8c8c' }}>
+                      3个活动
+                    </div>
+                  </Card>
+                </Col>
               </Row>
             </Col>
 
