@@ -110,16 +110,23 @@ test.describe('Authentication System Tests', () => {
       // Submit form
       await page.click('button:has-text("登录")');
       
-      // Should redirect to welcome page
-      await expect(page).toHaveURL(`/welcome/${role}`, { timeout: 10000 });
+      // Should redirect to dashboard (not welcome page)
+      await expect(page).toHaveURL(`/dashboard/${role}`, { timeout: 10000 });
       
-      // Check welcome page content
-      await expect(page.locator('h3')).toContainText('欢迎使用科研管理平台');
-      await expect(page.locator('text=快速入门指南')).toBeVisible();
+      // Check dashboard content based on role
+      if (role === 'student') {
+        await expect(page.locator('text=学生学习仪表板')).toBeVisible();
+      } else if (role === 'professor') {
+        await expect(page.locator('text=教授教学仪表板')).toBeVisible();
+      } else if (role === 'secretary') {
+        await expect(page.locator('text=秘书监控仪表板')).toBeVisible();
+      } else if (role === 'leader') {
+        await expect(page.locator('text=领导战略仪表板')).toBeVisible();
+      }
     });
 
-    test(`should redirect to dashboard from welcome page for ${role}`, async ({ page }) => {
-      // Login first
+    test(`should navigate to welcome page and then to dashboard for ${role}`, async ({ page }) => {
+      // Login first - this will now redirect to dashboard
       await page.goto('http://localhost:3001/login');
       const credentials = testCredentials[role];
       
@@ -128,7 +135,12 @@ test.describe('Authentication System Tests', () => {
       await page.click(`input[value="${role}"]`);
       await page.click('button:has-text("登录")');
       
-      await expect(page).toHaveURL(`/welcome/${role}`, { timeout: 10000 });
+      // Should redirect directly to dashboard after login
+      await expect(page).toHaveURL(`/dashboard/${role}`, { timeout: 10000 });
+      
+      // Now manually navigate to welcome page to test it
+      await page.goto(`http://localhost:3001/welcome/${role}`);
+      await expect(page.locator('h3')).toContainText('欢迎使用科研管理平台');
       
       // Click "开始使用" button
       await page.click('button:has-text("开始使用")');
@@ -224,7 +236,10 @@ test.describe('Authentication System Tests', () => {
     await page.click('input[value="student"]');
     await page.click('button:has-text("登录")');
     
-    await expect(page).toHaveURL('/welcome/student', { timeout: 10000 });
+    await expect(page).toHaveURL('/dashboard/student', { timeout: 10000 });
+    
+    // Navigate to welcome page to test logout from there
+    await page.goto('http://localhost:3001/welcome/student');
     
     // Logout
     await page.click('button:has-text("退出登录")');

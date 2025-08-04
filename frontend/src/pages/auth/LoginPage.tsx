@@ -87,7 +87,7 @@ const LoginPage: React.FC = () => {
   // Redirect if already logged in
   useEffect(() => {
     if (user) {
-      navigate(`/welcome/${user.role}`);
+      navigate(`/dashboard/${user.role}`);
     }
   }, [user, navigate]);
 
@@ -133,8 +133,8 @@ const LoginPage: React.FC = () => {
         const expiryTime = Date.now() + tokenExpiry;
         localStorage.setItem('tokenExpiry', expiryTime.toString());
         
-        // Navigate to welcome page instead of homepage
-        navigate(`/welcome/${values.role}`);
+        // Navigate to role-based dashboard after successful login
+        navigate(`/dashboard/${values.role}`);
       } else {
         throw new Error('用户名或密码错误');
       }

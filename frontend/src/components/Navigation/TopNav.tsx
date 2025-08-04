@@ -38,7 +38,10 @@ const TopNav: React.FC<TopNavProps> = ({ logo, menuItems, onMenuClick }) => {
       key: 'logout',
       icon: <LogoutOutlined />,
       label: '退出登录',
-      onClick: logout,
+      onClick: () => {
+        logout();
+        navigate('/');
+      },
     },
   ];
 

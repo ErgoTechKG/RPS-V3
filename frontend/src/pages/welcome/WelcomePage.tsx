@@ -265,11 +265,43 @@ const WelcomePage: React.FC = () => {
       case 'dashboard':
         navigate(`/dashboard/${currentRole}`);
         break;
+      case 'courses':
+        // Student: 浏览实验室轮转课程
+        navigate('/student/lab-rotation');
+        break;
+      case 'evaluation':
+        // Student: 查看综合素质评价
+        navigate('/student/evaluation');
+        break;
+      case 'students':
+        // Professor: 学生选拔与匹配
+        navigate('/professor/lab-rotation/selection');
+        break;
+      case 'ai-tools':
+        // Professor: 体验AI辅助教学
+        navigate('/professor/lab-rotation');
+        break;
+      case 'data-management':
+        // Secretary: 数据管理与同步
+        navigate(`/dashboard/${currentRole}`);
+        break;
+      case 'reports':
+        // Secretary: 生成教学报告
+        navigate(`/dashboard/${currentRole}`);
+        break;
+      case 'planning':
+        // Leader: 了解课程体系规划工具
+        navigate(`/dashboard/${currentRole}`);
+        break;
+      case 'ai-reports':
+        // Leader: 体验AI报告生成功能
+        navigate(`/dashboard/${currentRole}`);
+        break;
       case 'settings':
         navigate('/settings');
         break;
       default:
-        // For now, navigate to dashboard for other actions
+        // For any unhandled actions, navigate to dashboard
         navigate(`/dashboard/${currentRole}`);
     }
   };
@@ -296,7 +328,10 @@ const WelcomePage: React.FC = () => {
               icon={config.icon}
             />
             <Text>{user?.name || '用户'}</Text>
-            <Button type="text" onClick={logout}>
+            <Button type="text" onClick={() => {
+              logout();
+              navigate('/');
+            }}>
               退出登录
             </Button>
           </Space>
