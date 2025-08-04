@@ -5,6 +5,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { AuthProvider, ThemeProvider, useThemeConfig, useTheme, useAuth } from '@/contexts';
 import Homepage from '@/pages/Homepage';
 import LoginPage from '@/pages/auth/LoginPage';
+import DesignSystemDemo from '@/pages/DesignSystemDemo';
 import './App.css';
 
 // Main App component with theme configuration
@@ -37,6 +38,7 @@ const AppContent: React.FC = () => {
         <Routes>
           <Route path="/" element={<Homepage />} />
           <Route path="/login" element={<LoginPage />} />
+          <Route path="/design-system" element={<DesignSystemDemo />} />
           <Route path="/dashboard/professor" element={<div>Professor Dashboard (To be implemented)</div>} />
           <Route path="/dashboard/student" element={<div>Student Dashboard (To be implemented)</div>} />
           <Route path="/dashboard/secretary" element={<div>Secretary Dashboard (To be implemented)</div>} />

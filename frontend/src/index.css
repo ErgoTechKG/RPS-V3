@@ -1,6 +1,9 @@
+/* Import Design System Tokens */
+@import './styles/design-tokens.css';
+
 /* CSS Reset and Global Styles */
 :root {
-  font-family: 'Source Han Sans', 'PingFang SC', 'Microsoft YaHei', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+  font-family: var(--font-family-primary);
   line-height: 1.5;
   font-weight: 400;
   font-synthesis: none;
@@ -50,7 +53,7 @@ button:focus-visible,
 input:focus-visible,
 textarea:focus-visible,
 select:focus-visible {
-  outline: 2px solid var(--ant-color-primary);
+  outline: 2px solid var(--color-brand-blue);
   outline-offset: 2px;
 }
 

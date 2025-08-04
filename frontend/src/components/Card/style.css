@@ -1,0 +1,54 @@
+/* Card Component Styles */
+.custom-card {
+  background: var(--color-background);
+  border-radius: var(--radius-md);
+  transition: all var(--transition-fast);
+}
+
+/* Variant styles */
+.custom-card--default {
+  box-shadow: var(--shadow-md);
+  border: none;
+}
+
+.custom-card--elevated {
+  box-shadow: var(--shadow-lg);
+  border: none;
+}
+
+.custom-card--elevated:hover {
+  box-shadow: var(--shadow-xl);
+}
+
+.custom-card--outlined {
+  box-shadow: none;
+  border: 1px solid var(--color-border);
+}
+
+/* Padding variants */
+.custom-card--padding-sm .ant-card-body {
+  padding: var(--spacing-md);
+}
+
+.custom-card--padding-md .ant-card-body {
+  padding: var(--spacing-lg);
+}
+
+.custom-card--padding-lg .ant-card-body {
+  padding: var(--spacing-xl);
+}
+
+/* Card spacing in grid layouts */
+.custom-card + .custom-card {
+  margin-top: var(--spacing-md);
+}
+
+/* Dark mode adjustments */
+[data-theme="dark"] .custom-card {
+  background: var(--color-background-secondary);
+  color: var(--color-text-primary);
+}
+
+[data-theme="dark"] .custom-card--outlined {
+  border-color: var(--color-border);
+}

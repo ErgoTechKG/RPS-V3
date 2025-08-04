@@ -1,0 +1,109 @@
+/* Form Component Styles */
+
+/* Input Styles */
+.custom-input-wrapper {
+  width: 100%;
+}
+
+.custom-input {
+  height: 32px;
+  border-radius: var(--radius-sm);
+  font-family: var(--font-family-primary);
+  font-size: var(--font-size-base);
+  transition: all var(--transition-fast);
+}
+
+.custom-input:focus,
+.custom-input:focus-within {
+  border-color: var(--color-brand-blue);
+  box-shadow: 0 0 0 2px rgba(26, 115, 232, 0.1);
+}
+
+.custom-input--error {
+  border-color: var(--color-error);
+}
+
+.custom-input--error:focus {
+  border-color: var(--color-error);
+  box-shadow: 0 0 0 2px rgba(244, 67, 54, 0.1);
+}
+
+.custom-input-helper {
+  display: block;
+  margin-top: var(--spacing-xxs);
+  font-size: var(--font-size-xs);
+  color: var(--color-text-secondary);
+}
+
+.custom-input-helper--error {
+  color: var(--color-error);
+}
+
+/* Select Styles */
+.custom-select-wrapper {
+  width: 100%;
+}
+
+.custom-select {
+  width: 100%;
+}
+
+.custom-select .ant-select-selector {
+  height: 32px !important;
+  border-radius: var(--radius-sm) !important;
+}
+
+.custom-select-helper {
+  display: block;
+  margin-top: var(--spacing-xxs);
+  font-size: var(--font-size-xs);
+  color: var(--color-text-secondary);
+}
+
+.custom-select-helper--error {
+  color: var(--color-error);
+}
+
+/* Checkbox Styles */
+.custom-checkbox {
+  font-family: var(--font-family-primary);
+}
+
+.custom-checkbox .ant-checkbox-inner {
+  width: 16px;
+  height: 16px;
+  border-radius: var(--radius-sm);
+}
+
+/* Radio Styles */
+.custom-radio {
+  font-family: var(--font-family-primary);
+}
+
+.custom-radio .ant-radio-inner {
+  width: 16px;
+  height: 16px;
+}
+
+/* Switch Styles */
+.custom-switch {
+  min-width: 40px;
+  height: 20px;
+}
+
+/* Form Item Spacing */
+.ant-form-item {
+  margin-bottom: var(--spacing-lg);
+}
+
+.ant-form-item-label {
+  font-weight: var(--font-weight-medium);
+}
+
+/* Dark mode adjustments */
+[data-theme="dark"] .custom-input,
+[data-theme="dark"] .custom-select .ant-select-selector {
+  background-color: var(--color-background-secondary);
+  border-color: var(--color-border);
+  color: var(--color-text-primary);
+}

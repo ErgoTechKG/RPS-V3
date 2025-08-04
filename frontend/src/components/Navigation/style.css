@@ -1,0 +1,123 @@
+/* Navigation Component Styles */
+
+/* Top Navigation */
+.top-nav {
+  background: var(--color-background);
+  box-shadow: var(--shadow-sm);
+  height: var(--layout-header-height);
+  padding: 0;
+  position: sticky;
+  top: 0;
+  z-index: var(--z-index-sticky);
+}
+
+.top-nav__container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+  padding: 0 var(--spacing-lg);
+  max-width: var(--layout-max-width);
+  margin: 0 auto;
+}
+
+.top-nav__left {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-xl);
+}
+
+.top-nav__logo {
+  font-size: var(--font-size-xl);
+  font-weight: var(--font-weight-bold);
+  color: var(--color-brand-blue);
+}
+
+.top-nav__menu {
+  border-bottom: none;
+  background: transparent;
+  flex: 1;
+}
+
+.top-nav__menu .ant-menu-item {
+  height: var(--layout-header-height);
+  line-height: var(--layout-header-height);
+}
+
+.top-nav__right {
+  display: flex;
+  align-items: center;
+}
+
+.top-nav__user {
+  cursor: pointer;
+  padding: var(--spacing-xs) var(--spacing-sm);
+  border-radius: var(--radius-md);
+  transition: background-color var(--transition-fast);
+}
+
+.top-nav__user:hover {
+  background-color: var(--color-background-secondary);
+}
+
+.top-nav__username {
+  color: var(--color-text-primary);
+  font-weight: var(--font-weight-medium);
+}
+
+/* Side Navigation */
+.side-nav {
+  background: var(--color-background);
+  box-shadow: var(--shadow-sm);
+}
+
+.side-nav__menu {
+  height: 100%;
+  border-right: none;
+}
+
+.side-nav__menu .ant-menu-item {
+  height: 40px;
+  line-height: 40px;
+  margin: 0;
+}
+
+.side-nav__menu .ant-menu-item-icon {
+  font-size: 20px;
+}
+
+.side-nav__trigger {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 48px;
+  cursor: pointer;
+  border-top: 1px solid var(--color-border);
+  transition: all var(--transition-fast);
+}
+
+.side-nav__trigger:hover {
+  color: var(--color-brand-blue);
+  background-color: var(--color-background-secondary);
+}
+
+/* Dark mode adjustments */
+[data-theme="dark"] .top-nav,
+[data-theme="dark"] .side-nav {
+  background: var(--color-background-secondary);
+}
+
+[data-theme="dark"] .top-nav__user:hover {
+  background-color: var(--color-background-tertiary);
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .top-nav__container {
+    padding: 0 var(--spacing-md);
+  }
+  
+  .top-nav__username {
+    display: none;
+  }
+}

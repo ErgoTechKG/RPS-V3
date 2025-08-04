@@ -1,0 +1,96 @@
+/* Table Component Styles */
+
+.custom-table {
+  font-family: var(--font-family-primary);
+}
+
+/* Table header */
+.custom-table .ant-table-thead > tr > th {
+  background: var(--color-background-tertiary);
+  font-weight: var(--font-weight-medium);
+  color: var(--color-text-primary);
+  border-bottom: 1px solid var(--color-border);
+}
+
+/* Table rows */
+.custom-table .ant-table-tbody > tr > td {
+  padding: var(--spacing-sm) var(--spacing-md);
+  height: 48px;
+  border-bottom: 1px solid var(--color-border);
+}
+
+/* Striped rows */
+.custom-table--striped .ant-table-tbody > tr:nth-child(odd) {
+  background-color: var(--color-background-secondary);
+}
+
+/* Hover effect */
+.custom-table .ant-table-tbody > tr:hover > td {
+  background-color: rgba(26, 115, 232, 0.05);
+}
+
+/* Selected row */
+.custom-table .ant-table-tbody > tr.ant-table-row-selected > td {
+  background-color: rgba(26, 115, 232, 0.1);
+}
+
+/* Pagination */
+.custom-table .ant-pagination {
+  margin-top: var(--spacing-md);
+  text-align: right;
+}
+
+/* Empty state */
+.custom-table .ant-empty {
+  margin: var(--spacing-xl) 0;
+}
+
+/* Filters and sorters */
+.custom-table .ant-table-filter-trigger {
+  color: var(--color-text-secondary);
+}
+
+.custom-table .ant-table-filter-trigger:hover,
+.custom-table .ant-table-filter-trigger-container-open .ant-table-filter-trigger {
+  color: var(--color-brand-blue);
+}
+
+/* Column resize handle */
+.custom-table .react-resizable-handle {
+  background-color: var(--color-border);
+}
+
+/* Dark mode adjustments */
+[data-theme="dark"] .custom-table .ant-table {
+  background: var(--color-background-secondary);
+  color: var(--color-text-primary);
+}
+
+[data-theme="dark"] .custom-table .ant-table-thead > tr > th {
+  background: var(--color-background-tertiary);
+  color: var(--color-text-primary);
+  border-bottom-color: var(--color-border);
+}
+
+[data-theme="dark"] .custom-table .ant-table-tbody > tr > td {
+  border-bottom-color: var(--color-border);
+}
+
+[data-theme="dark"] .custom-table--striped .ant-table-tbody > tr:nth-child(odd) {
+  background-color: var(--color-background-tertiary);
+}
+
+[data-theme="dark"] .custom-table .ant-table-tbody > tr:hover > td {
+  background-color: rgba(26, 115, 232, 0.1);
+}
+
+/* Responsive table */
+@media (max-width: 768px) {
+  .custom-table .ant-table {
+    font-size: var(--font-size-sm);
+  }
+  
+  .custom-table .ant-table-tbody > tr > td {
+    padding: var(--spacing-xs) var(--spacing-sm);
+  }
+}

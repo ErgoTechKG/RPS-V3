@@ -1,0 +1,31 @@
+/* Button Component Styles */
+.custom-button {
+  font-family: var(--font-family-primary);
+  transition: all var(--transition-fast);
+  font-weight: var(--font-weight-medium);
+}
+
+/* Size variants automatically handled by Ant Design */
+/* Additional custom styles can be added here */
+
+.custom-button--primary {
+  /* Primary button inherits from theme */
+}
+
+.custom-button--secondary {
+  /* Secondary button uses default Ant style */
+}
+
+.custom-button--text {
+  /* Text button inherits from Ant */
+}
+
+.custom-button--danger {
+  /* Danger button handled by Ant's danger prop */
+}
+
+/* Focus styles for accessibility */
+.custom-button:focus-visible {
+  outline: 2px solid var(--color-brand-blue);
+  outline-offset: 2px;
+}

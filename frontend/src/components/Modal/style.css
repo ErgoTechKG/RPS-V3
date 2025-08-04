@@ -1,0 +1,84 @@
+/* Modal Component Styles */
+
+.custom-modal .ant-modal-content {
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  box-shadow: var(--shadow-xl);
+}
+
+.custom-modal .ant-modal-header {
+  height: 56px;
+  padding: var(--spacing-md) var(--spacing-lg);
+  border-bottom: 1px solid var(--color-border);
+  display: flex;
+  align-items: center;
+}
+
+.custom-modal .ant-modal-title {
+  font-size: var(--font-size-lg);
+  font-weight: var(--font-weight-semibold);
+  color: var(--color-text-primary);
+}
+
+.custom-modal .ant-modal-body {
+  padding: var(--spacing-lg);
+}
+
+.custom-modal .ant-modal-footer {
+  padding: var(--spacing-md) var(--spacing-lg);
+  border-top: 1px solid var(--color-border);
+}
+
+/* Size variants */
+.custom-modal--small .ant-modal-body {
+  padding: var(--spacing-md);
+}
+
+.custom-modal--large .ant-modal-body {
+  padding: var(--spacing-xl);
+}
+
+/* Modal backdrop */
+.ant-modal-mask {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+/* Dark mode adjustments */
+[data-theme="dark"] .custom-modal .ant-modal-content {
+  background: var(--color-background-secondary);
+}
+
+[data-theme="dark"] .custom-modal .ant-modal-header {
+  background: var(--color-background-secondary);
+  border-bottom-color: var(--color-border);
+}
+
+[data-theme="dark"] .custom-modal .ant-modal-footer {
+  background: var(--color-background-secondary);
+  border-top-color: var(--color-border);
+}
+
+[data-theme="dark"] .custom-modal .ant-modal-title {
+  color: var(--color-text-primary);
+}
+
+/* Close button */
+.custom-modal .ant-modal-close {
+  top: 16px;
+  right: 16px;
+}
+
+.custom-modal .ant-modal-close:hover {
+  background-color: var(--color-background-secondary);
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .custom-modal {
+    max-width: calc(100vw - var(--spacing-xl));
+  }
+  
+  .custom-modal .ant-modal-body {
+    padding: var(--spacing-md);
+  }
+}

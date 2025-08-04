@@ -1,5 +1,5 @@
 ---
-status: TODO
+status: finished
 source_lines: 1-345
 references:
   - shared-ui.md: lines 1-345
