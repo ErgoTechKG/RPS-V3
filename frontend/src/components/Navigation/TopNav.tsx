@@ -1,8 +1,10 @@
 import React from 'react';
-import { Layout, Menu, Avatar, Dropdown, Space } from 'antd';
-import { UserOutlined, LogoutOutlined, SettingOutlined } from '@ant-design/icons';
+import { Layout, Menu, Avatar, Dropdown, Space, Button } from 'antd';
+import { UserOutlined, LogoutOutlined, SettingOutlined, BellOutlined } from '@ant-design/icons';
 import type { MenuProps } from 'antd';
-import { useAuth } from '@/contexts';
+import { useAuth, useNotifications } from '@/contexts';
+import { Badge } from '@/components/Notification/NotificationSystem';
+import { useNavigate } from 'react-router-dom';
 import './style.css';
 
 const { Header } = Layout;
@@ -15,6 +17,8 @@ interface TopNavProps {
 
 const TopNav: React.FC<TopNavProps> = ({ logo, menuItems, onMenuClick }) => {
   const { user, logout } = useAuth();
+  const { unreadCount } = useNotifications();
+  const navigate = useNavigate();
 
   const userMenuItems: MenuProps['items'] = [
     {
@@ -54,18 +58,32 @@ const TopNav: React.FC<TopNavProps> = ({ logo, menuItems, onMenuClick }) => {
         </div>
         
         <div className="top-nav__right">
-          <Dropdown menu={{ items: userMenuItems }} placement="bottomRight">
-            <Space className="top-nav__user" size={12}>
-              <Avatar 
-                size="small" 
-                icon={<UserOutlined />}
-                style={{ backgroundColor: getRoleColor(user?.role) }}
-              >
-                {user?.name?.charAt(0)}
-              </Avatar>
-              <span className="top-nav__username">{user?.name || '用户'}</span>
-            </Space>
-          </Dropdown>
+          <Space size={16}>
+            {/* Notification Bell */}
+            <Badge count={unreadCount} maxCount={99}>
+              <Button 
+                type="text" 
+                icon={<BellOutlined />} 
+                className="top-nav__notification-btn"
+                onClick={() => navigate('/notifications')}
+                aria-label={`通知中心，${unreadCount}条未读消息`}
+              />
+            </Badge>
+            
+            {/* User Menu */}
+            <Dropdown menu={{ items: userMenuItems }} placement="bottomRight">
+              <Space className="top-nav__user" size={12}>
+                <Avatar 
+                  size="small" 
+                  icon={<UserOutlined />}
+                  style={{ backgroundColor: getRoleColor(user?.role) }}
+                >
+                  {user?.name?.charAt(0)}
+                </Avatar>
+                <span className="top-nav__username">{user?.name || '用户'}</span>
+              </Space>
+            </Dropdown>
+          </Space>
         </div>
       </div>
     </Header>

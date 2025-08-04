@@ -2,12 +2,13 @@ import React, { useEffect } from 'react';
 import { ConfigProvider } from 'antd';
 import zhCN from 'antd/locale/zh_CN';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import { AuthProvider, ThemeProvider, useThemeConfig, useTheme, useAuth } from '@/contexts';
+import { AuthProvider, ThemeProvider, NotificationProvider, useThemeConfig, useTheme, useAuth } from '@/contexts';
 import Homepage from '@/pages/Homepage';
 import LoginPage from '@/pages/auth/LoginPage';
 import DesignSystemDemo from '@/pages/DesignSystemDemo';
 import { WelcomePage } from '@/pages/welcome';
 import { StudentDashboard, ProfessorDashboard, SecretaryDashboard, LeaderDashboard } from '@/pages/dashboard';
+import NotificationPage from '@/pages/shared/NotificationPage';
 import ProtectedRoute from '@/components/ProtectedRoute';
 import './App.css';
 
@@ -86,6 +87,13 @@ const AppContent: React.FC = () => {
               <LeaderDashboard />
             </ProtectedRoute>
           } />
+          
+          {/* Notification Page - Accessible to all authenticated users */}
+          <Route path="/notifications" element={
+            <ProtectedRoute>
+              <NotificationPage />
+            </ProtectedRoute>
+          } />
         </Routes>
       </Router>
     </ConfigProvider>
@@ -97,7 +105,9 @@ const App: React.FC = () => {
   return (
     <ThemeProvider>
       <AuthProvider>
-        <AppContent />
+        <NotificationProvider>
+          <AppContent />
+        </NotificationProvider>
       </AuthProvider>
     </ThemeProvider>
   );

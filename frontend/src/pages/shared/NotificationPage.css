@@ -1,0 +1,21 @@
+/* Notification Page Styles */
+
+.notification-page {
+  min-height: 100vh;
+  background: var(--color-background);
+}
+
+.notification-page__content {
+  padding: 0;
+  background: var(--color-background);
+  min-height: calc(100vh - var(--layout-header-height));
+}
+
+/* Dark mode adjustments */
+[data-theme="dark"] .notification-page {
+  background: var(--color-background-secondary);
+}
+
+[data-theme="dark"] .notification-page__content {
+  background: var(--color-background-secondary);
+}

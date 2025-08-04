@@ -65,6 +65,22 @@
   font-weight: var(--font-weight-medium);
 }
 
+.top-nav__notification-btn {
+  font-size: 18px;
+  color: var(--color-text-secondary);
+  border: none;
+  padding: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all var(--transition-fast);
+}
+
+.top-nav__notification-btn:hover {
+  color: var(--color-brand-blue);
+  background-color: var(--color-background-secondary);
+}
+
 /* Side Navigation */
 .side-nav {
   background: var(--color-background);

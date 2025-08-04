@@ -23,6 +23,9 @@ export type { SideNavProps } from './Navigation/SideNav';
 export { default as NotificationSystem, Badge } from './Notification/NotificationSystem';
 export type { NotificationConfig, BadgeProps } from './Notification/NotificationSystem';
 
+export { default as NotificationCenter } from './Notification/NotificationCenter';
+export { default as NotificationSettings } from './Notification/NotificationSettings';
+
 // Modal Component
 export { default as Modal } from './Modal';
 export type { ModalProps } from './Modal';
