@@ -1,5 +1,5 @@
 ---
-status: TODO
+status: finished
 source_lines: 59-114
 references:
   - professor-ui.md: lines 59-114 (主仪表板设计)
